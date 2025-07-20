@@ -1,0 +1,4610 @@
+[
+  {
+    "name": "001 - Chuvas de Graça",
+    "path": "001-chuvas-de-graca",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "004 - Deus Velará Por Ti",
+    "path": "004-deus-velara-por-ti",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "007 - Cristo Cura, Sim!",
+    "path": "007-cristo-cura-sim",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "008 - Cristo,  o Fiel Amigo",
+    "path": "008-cristo-o-fiel-amigo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "011 - Ó Cristão, Eia Avante",
+    "path": "011-o-cristao-eia-avante",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "015 - Conversão",
+    "path": "015-conversao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "016 - Despertar Para o Trabalho",
+    "path": "016-despertar-para-o-trabalho",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "02 - Oh! Que Saudosa Lembrança",
+    "path": "02-oh-que-saudosa-lembranca",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "026 - A Formosa Jerusalém",
+    "path": "026-a-formosa-jerusalem",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "033 - Com Tua Mão Segura Bem a Minha",
+    "path": "033-com-tua-mao-segura-bem-a-minha",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "036 - O Exilado",
+    "path": "036-o-exilado",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "039 - Alvo Mais Que a Neve",
+    "path": "039-alvo-mais-que-a-neve",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "056 - Tudo Em Cristo",
+    "path": "056-tudo-em-cristo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "061 - Deus Tomará Conta de Ti",
+    "path": "061-deus-tomara-conta-de-ti",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "063 - Acordai, Acordai",
+    "path": "063-acordai-acordai",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "074 - Cristo Virá",
+    "path": "074-cristo-vira",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "077 - Guarda o Contato",
+    "path": "077-guarda-o-contato",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "083 - Não Posso Explicar",
+    "path": "083-nao-posso-explicar",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "094 - Na Jerusalém de Deus",
+    "path": "094-na-jerusalem-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "106 - Viva Cristo",
+    "path": "106-viva-cristo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "112",
+    "path": "112",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "139 - Jesus, Meu Eterno Redentor",
+    "path": "139-jesus-meu-eterno-redentor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "141 - Guia-me Sempre, Meu Senhor",
+    "path": "141-guia-me-sempre-meu-senhor",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "15 - Conversão",
+    "path": "foi-na-cruz",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "151 - Fala Jesus Querido",
+    "path": "151-fala-jesus-querido",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "154 - Doce Nome de Jesus",
+    "path": "154-doce-nome-de-jesus",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "169 - Oh! Jesus Me Ama",
+    "path": "169-oh-jesus-me-ama",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "186 - de Valor Em Valor",
+    "path": "186-de-valor-em-valor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "187 - Mais Perto, Meu Deus, de Ti",
+    "path": "187-mais-perto-meu-deus-de-ti",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "187 - Mais Perto, Meu Deus, de Ti!",
+    "path": "mais-perto-meu-deus-de-ti",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "192 - Pelo Sangue de Jesus no Calvário",
+    "path": "192-pelo-sangue-de-jesus-no-calvario",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "193 - A Alma Abatida",
+    "path": "193-a-alma-abatida",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "198 - Jesus, O Bom Amigo",
+    "path": "198-jesus-o-bom-amigo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "200 - Bondoso Amigo",
+    "path": "200-bondoso-amigo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "212 - Os Guerreiros Se Preparam",
+    "path": "212-os-guerreiros-se-preparam",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "224 - É o Tempo de Segar",
+    "path": "224-e-o-tempo-de-segar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "225 - Na Batalha Contra o Mal Se Valente",
+    "path": "225-na-batalha-contra-o-mal-se-valente",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "235 - Já Sei, Já Sei",
+    "path": "235-ja-sei-ja-sei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "243 - Ao Abrir O Culto",
+    "path": "243-ao-abrir-o-culto",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "244 - Louvai a Jesus Amoroso",
+    "path": "244-louvai-a-jesus-amoroso",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "246 - o Descanso Em Jesus - Tens Descanso Encontrado...",
+    "path": "246-o-descanso-em-jesus-tens-descanso-encontrado",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "247 - Deus Nos Guarde No Seu Amor",
+    "path": "247-deus-nos-guarde-no-seu-amor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "26 - A Formosa Jerusalém",
+    "path": "26-a-formosa-jerusalem",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "277 - Salvo Estás? Limpo Estás? - Tens Achado Em Cristo",
+    "path": "277-salvo-estas-limpo-estas-tens-achado-em-cristo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "285 - Tu És o Meu Gozo",
+    "path": "285-tu-es-o-meu-gozo",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "296 - No Jardim",
+    "path": "296-no-jardim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "304 - A Face Adorada de Jesus",
+    "path": "304-a-face-adorada-de-jesus",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "305 - Campeões da Luz",
+    "path": "305-campeoes-da-luz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "305 - Campeões da Luz",
+    "path": "305-campeoes-da-luz-2",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "334 - o Fim Vem, Cuidado",
+    "path": "334-o-fim-vem-cuidado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "344 - Um Amigo Entre os Lírios",
+    "path": "344-um-amigo-entre-os-lirios",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "375 - A Igreja Universal",
+    "path": "375-a-igreja-universal",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "386 - Vencidos Os Combates",
+    "path": "386-vencidos-os-combates",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "394 - a Mão do Arado!",
+    "path": "394-a-mao-do-arado",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "39",
+    "path": "39",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "39 - Alvo Mais Que a Neve",
+    "path": "39-alvo-mais-que-a-neve",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "400 - Em Jesus",
+    "path": "em-jesus",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "409 Trabalhadores do Evangelho - Harpa Cristã",
+    "path": "409-trabalhadores-do-evangelho-harpa-crista",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "422 - No Céu Não Entra Pecado",
+    "path": "422-no-ceu-nao-entra-pecado",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "459 - As Firmes Promessas de Deus",
+    "path": "459-as-firmes-promessas-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "476 - O Cego de Jericó",
+    "path": "476-o-cego-de-jerico",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "491 - Há Poder No Sangue de Jesus",
+    "path": "491-ha-poder-no-sangue-de-jesus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "5 - Ó Desce, Fogo Santo",
+    "path": "5-o-desce-fogo-santo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "509 - Ao Passar o Jordão",
+    "path": "509-ao-passar-o-jordao",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "511 - Glorioso Deus, Que Está No Céu",
+    "path": "511-glorioso-deus-que-esta-no-ceu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "515 - Se Cristo Comigo Vai Eu Irei",
+    "path": "515-se-cristo-comigo-vai-eu-irei",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "523 - Cristo, A Fonte Escondida",
+    "path": "523-cristo-a-fonte-escondida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "525 - Vencendo Vem Jesus",
+    "path": "525-vencendo-vem-jesus",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "526 - Grandioso És Tu",
+    "path": "526-grandioso-es-tu",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "545 - Porque Ele Vive",
+    "path": "545-porque-ele-vive",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "547 - O Rei Está Voltando",
+    "path": "547-o-rei-esta-voltando",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "564 - Conta As Bênçãos",
+    "path": "564-conta-as-bencaos",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "A Alma Abatida",
+    "path": "a-alma-abatida",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Armadura Cristã",
+    "path": "a-armadura-crista",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Aspiração da Alma",
+    "path": "a-aspiracao-da-alma",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "A Barca da Vida",
+    "path": "a-barca-da-vida",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "À Beira da Estrada",
+    "path": "a-beira-da-estrada",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Bela Cidade",
+    "path": "a-bela-cidade",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Ceia Do Senhor",
+    "path": "hino-199-a-ceia-do-senhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Chuva do Consolador",
+    "path": "a-chuva-do-consolador",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Cidade Celeste",
+    "path": "a-cidade-celeste",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Cidade do Bom Deus",
+    "path": "a-cidade-do-bom-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Cristo Coroai",
+    "path": "a-cristo-coroai",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Decisão",
+    "path": "a-descisao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Doce e Preciosa Voz",
+    "path": "a-doce-preciosa-voz",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Esperança Da Igreja",
+    "path": "a-esperanca-da-igreja-",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Estrela da Alva",
+    "path": "a-estrela-da-alva",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Face Adorada De Jesus",
+    "path": "a-face-adorada-de-jesus",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "A Fé Dos Santos",
+    "path": "a-fe-dos-santos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Felicidade da Salvação",
+    "path": "a-felicidade-da-salvacao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Fonte Salvadora",
+    "path": "a-fonte-salvadora",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Fonte Transbordante",
+    "path": "a-fonte-transbordante",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "A Formosa Jerusalém",
+    "path": "a-formosa-jerusalem-026",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Gloriosa Esperança",
+    "path": "a-gloriosa-esperanca",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Graça de Nosso Senhor",
+    "path": "a-graca-de-nosso-senhor",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "A História Da Cruz",
+    "path": "a-historia-da-cruz",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Hora Estar Por Vim",
+    "path": "a-hora-estar-por-vim",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Igreja Universal",
+    "path": "a-igreja-universal",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Incomparável Glória de Deus",
+    "path": "a-incomparavel-gloria-de-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Luz Do Céu Raiou",
+    "path": "a-luz-do-ceu-raiou",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "A Mão Do Arado!",
+    "path": "a-mao-do-arado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Mensagem da Cruz / Foi Na Cruz (Pot-Pourri)",
+    "path": "rude-cruz--foi-na-cruz-pot-pourri",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Mensagem da Cruz / Guia-me Sempre, Meu Senhor/ Grandioso És Tu (Pot-Pourri)",
+    "path": "rude-cruz-guia-me-sempre-meu-senhor-grandioso-es-tu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Mensagem Da Cruz",
+    "path": "291-a-mensagem-da-cruz",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "A Minha Vida Jesus Já Transformou",
+    "path": "a-minha-vida-jesus-ja-transformou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Ovelha Perdida",
+    "path": "a-ovelha-perdida",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Palavra da Cruz",
+    "path": "a-palavra-da-cruz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Palavra da Vida",
+    "path": "a-palavra-da-vida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Palavra De Deus É Um Tesouro",
+    "path": "a-palavra-de-deus-um-tesouro",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "A Porta Sou Eu",
+    "path": "a-porta-sou-eu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Preciosa Fonte",
+    "path": "a-preciosa-fonte",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Preciosa Fonte",
+    "path": "a-fonte-preciosa",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Riqueza Divinal",
+    "path": "a-riqueza-divinal",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Santa Bíblia",
+    "path": "a-santa-biblia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Seara Está Madura",
+    "path": "a-seara-esta-madura",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Segurança Do Crente",
+    "path": "a-seguranca-do-crente",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "À Sombra do Meu Redentor",
+    "path": "a-sombra-do-meu-redentor",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "A Última Hora",
+    "path": "a-ultima-hora",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Unção Real",
+    "path": "a-uncao-real",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Vinda De Cristo",
+    "path": "a-vinda-de-cristo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Voz do Bom Pastor",
+    "path": "a-voz-do-bom-pastor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Abandona Este Mundo de Horror",
+    "path": "abandona-este-mundo-de-horror",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Abraão E Seu Sacrifício",
+    "path": "abraao-seu-sacrificio",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Abre o Coração",
+    "path": "abre-coracao",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Abre Os Meus Olhos",
+    "path": "abre-os-meus-olhos",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Abundância De Cristo",
+    "path": "297-abundancia-de-cristo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Aceita O Perdão De Jesus",
+    "path": "aceita-perdao-de-jesus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Achei Jesus",
+    "path": "achei-jesus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Acordai, Acordai",
+    "path": "63-acordai-acordai",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Adoração",
+    "path": "124-adoracao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Adoração Reconhecida",
+    "path": "adoracao-reconhecida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ainda Há Lugar",
+    "path": "ainda-ha-lugar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Alegrai-vos, Ó Remidos",
+    "path": "alegrai-vos-remidos",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Aleluia! Já Creio",
+    "path": "aleluia-ja-creio",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Além de Nosso Entendimento",
+    "path": "alem-de-nosso-entendimento",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Além do Céu Azul",
+    "path": "alem-do-ceu-azul",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Além Do Nosso Entendimento",
+    "path": "alem-do-nosso-entendimento",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ali Quero Ir, e Tu?",
+    "path": "ali-quero-ir-tu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Alma Triste, Abatida",
+    "path": "alma-triste-abatida",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Alvo Mais Que A Neve",
+    "path": "alvo-mais-que-a-neve",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Amemos o Senhor",
+    "path": "amemos-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Amigo Sem Igual",
+    "path": "amigo-sem-igual",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Amor Que Vence",
+    "path": "amor-que-vence",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Andando Para o Céu",
+    "path": "andando-para-o-ceu",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Angelical Trombeta",
+    "path": "angelical-trombeta",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Anseio Um Lugar de Amor",
+    "path": "anseio-um-lugar-de-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ao Abrir O Culto",
+    "path": "ao-abrir-culto-243",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ao Calvário De Horror",
+    "path": "ao-calvario-de-horror",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ao Culto Não Faltar",
+    "path": "ao-culto-nao-faltar",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Ao Estrugir A Trombeta",
+    "path": "469-ao-estrugir-a-trombeta",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Ao Fim Do Culto",
+    "path": "ao-fim-do-culto",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Ao Findar Do Dia",
+    "path": "ao-findar-do-dia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ao Findar o Labor Desta Vida",
+    "path": "ao-findar-labor-desta-vida",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Ao Gólgota",
+    "path": "ao-golgota",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Ao Lar Paternal",
+    "path": "ao-lar-paternal",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Ao Pai Voltai",
+    "path": "ao-pai-voltai",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ao Passar O Jordão",
+    "path": "ao-passar-jordao",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Ao Pensar Na Dor Crucial",
+    "path": "ao-pensar-na-dor-crucial",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Ao Raiar do Ano Novo",
+    "path": "ao-raiar-do-ano-novo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ao Único",
+    "path": "ao-unico",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Aos Pés de Cristo Prostrados",
+    "path": "aos-pes-de-cristo-prostado",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aos Teus Pés",
+    "path": "ao-teus-pes",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aqui Eu Vim Dizer",
+    "path": "aqui-eu-vim-dizer",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "As Cordas Do Coração",
+    "path": "342-as-cordas-do-coracao-",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "As Firmes Promessas",
+    "path": "as-firmes-promessas",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "As Palavras De Jesus",
+    "path": "505-as-palavras-de-jesus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "As Pisadas Do Mestre",
+    "path": "as-pisadas-do-mestre",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "As Promessas Que Não Falham",
+    "path": "as-promessas-que-nao-falham",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "As Santas Escrituras",
+    "path": "322-as-santas-escrituras",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "As Testemunhas de Jesus",
+    "path": "as-testemunhas-de-jesus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Assim Como a Corsa",
+    "path": "assim-como-corsa",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Assim Como Estou",
+    "path": "assim-como-estou",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Autor da Vida",
+    "path": "autor-da-vida",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Avançai, Fiéis",
+    "path": "avancai-fieis",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Avante Com O Nosso Capitão",
+    "path": "avante-com-nosso-capitao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Avante Eu Vou",
+    "path": "avante-eu-vou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Avante, Ó Crentes",
+    "path": "avante-crentes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Avante, Servos De Jesus",
+    "path": "avante-servos-de-jesus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Bastante Para Mim!",
+    "path": "bastante-para-mim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Batismo",
+    "path": "batismo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Bem-Aventurança Do Crente",
+    "path": "bem-aventuranca-do-crente",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Bendirei a Jesus",
+    "path": "bendirei-jesus",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Bendito Cristo, Eis-me Aqui",
+    "path": "bendito-cristo-eis-me-aqui",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Benigno Salvador",
+    "path": "benigno-salvador",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Bíblia Sagrada",
+    "path": "biblia-sagrada",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Bom Estarmos Aqui",
+    "path": "bom-estarmos-aqui",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Breve Cristo Vem",
+    "path": "breve-cristo-vem",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Breve Ele Volta",
+    "path": "breve-ele-volta",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Breve Jesus Há de Vir",
+    "path": "breve-jesus-ha-de-vir",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Breve Vem O Dia",
+    "path": "breve-vem-dia",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Breve Verei O Bom Jesus",
+    "path": "breve-verei-bom-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Buscai Primeiro",
+    "path": "buscai-primeiro",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Calvário, Revelação de Amor",
+    "path": "calvario-revelacao-de-amor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Caminhemos Na Luz",
+    "path": "caminhemos-na-luz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Caminho Brilhante",
+    "path": "caminho-brilhante",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Campeões Da Luz",
+    "path": "campeoes-da-luz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Canta, Ó Crente",
+    "path": "canta-crente",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Cantai, Ó Peregrinos",
+    "path": "cantai-peregrinos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Canto Do Pescador",
+    "path": "canto-do-pescador",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Careço de Jesus",
+    "path": "careco-de-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Castelo Forte",
+    "path": "castelo-forte",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ceia do Senhor",
+    "path": "a-ceia-do-senhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Ceia do Senhor",
+    "path": "ceia-do-senhor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Celebrai a Cristo",
+    "path": "celebrai-a-cristo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Celebrai a Cristo, Celebrai",
+    "path": "celebrai-a-cristo-celebrai",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Cem Ovelhas",
+    "path": "cem-ovelhas",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Chegai Para Adorar",
+    "path": "chegai-para-adorar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Chuvas De Graça",
+    "path": "chuvas-de-graca",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Chuvas de Graças",
+    "path": "chuvas-de-gracas",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Cidade de Deus",
+    "path": "cidade-de-deus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Clama: Jesus, Jesus!",
+    "path": "clama-jesus-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Com Tua Mão Segura",
+    "path": "com-tua-mao-segura",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Comunhão",
+    "path": "comunhao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Confiança Em Jesus",
+    "path": "confianca-em-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Confiante Em Deus",
+    "path": "confiante-em-deus",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Consagração",
+    "path": "consagracao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Consagrado Ao Senhor",
+    "path": "consagrado-ao-senhor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Conta As Bênçãos",
+    "path": "conta-as-bencaos",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Contentamento",
+    "path": "contentamento",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Conversão",
+    "path": "conversao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Conversaremos Ali No Céu",
+    "path": "conversaremos-ali-no-ceu-629",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Coroai",
+    "path": "coroai",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Corpo e Família",
+    "path": "corpo-e-familia",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Crê Na Promessa",
+    "path": "cre-na-promessa",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Creio Eu Na Bíblia",
+    "path": "creio-eu-na-biblia",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Crentes, Avançai",
+    "path": "crentes-avancai",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Crentes Cantai!",
+    "path": "crentes-cantai",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Crentes, Cantai!",
+    "path": "crentes-cantai-2",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Cristo, a Fonte Escondida",
+    "path": "cristo-fonte-escondida-523",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Cristo À Porta Está",
+    "path": "cristo-porta-esta",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Cristo Chama o Pecador",
+    "path": "cristo-chama-pecador",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cristo, Comandante",
+    "path": "cristo-comandante",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Cristo Cura, Sim!",
+    "path": "cristo-cura-sim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Cristo Cura Sim",
+    "path": "cristo-cura-sim-2",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Cristo É Meu!",
+    "path": "cristo-meu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cristo e Sua Humilhação",
+    "path": "cristo-sua-humilhacao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Cristo, Em Breve, Vem!",
+    "path": "cristo-em-breve-vem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cristo Está Chamando",
+    "path": "cristo-esta-chamando",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Cristo Jesus Vai Voltar",
+    "path": "cristo-jesus-vai-voltar",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Cristo Meu Vero Amigo",
+    "path": "cristo-meu-vero-amigo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cristo Morreu Por Mim",
+    "path": "cristo-morreu-por-mim",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Cristo, O Fiel Amigo",
+    "path": "cristo-fiel-amigo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Cristo Pensa Em Mim",
+    "path": "524-cristo-pensa-em-mim",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Cristo Pra Mim",
+    "path": "cristo-pra-mim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cristo, Teu Santo Amor",
+    "path": "cristo-teu-santo-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cristo Virá",
+    "path": "cristo-vira",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cristo Visitou Minha Vida",
+    "path": "cristo-visitou-minha-vida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Cristo Voltará",
+    "path": "123",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Dá Teu Fardo A Jesus",
+    "path": "da-teu-fardo-jesus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Dai-me a Bíblia",
+    "path": "dai-me-biblia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "De Ti Preciso Mais",
+    "path": "de-ti-preciso-mais",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "De Valor Em Valor",
+    "path": "de-valor-em-valor",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Decisão",
+    "path": "decisao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Deixa a Tristeza Pra Lá",
+    "path": "deixa-a-tristeza-pra-la",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Deixa Entrar o Rei da Glória",
+    "path": "deixa-entrar-rei-da-gloria",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Deixa o Espírito de Deus Entrar",
+    "path": "deixa-espirito-de-deus-entrar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Deixa Penetrar A Luz",
+    "path": "deixa-penetrar-luz",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deixai As Ilusões",
+    "path": "deixai-as-ilusoes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Derrama Teu Espírito",
+    "path": "derrama-teu-espirito",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Desejamos Ir Lá",
+    "path": "desejamos-ir-la",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Despertar Para O Trabalho",
+    "path": "despertar-para-trabalho",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Deus Amou de Tal Maneira",
+    "path": "deus-amou-de-tal-maneira",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Deus Amou Este Mundo",
+    "path": "deus-amou-este-mundo",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Deus É Fiel",
+    "path": "deus-fiel",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Deus É o Mesmo",
+    "path": "deus-o-mesmo",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Deus Está Aqui",
+    "path": "deus-esta-aqui",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Deus Nos Guarde No Seu Amor",
+    "path": "deus-nos-guarde-no-seu-amor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Deus Nos Quis Salvar",
+    "path": "deus-nos-quis-salvar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Deus Prometeu",
+    "path": "deus-prometeu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Deus Tomará Conta de Ti",
+    "path": "deus-tomara-conta-de-ti",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Deus Vai Te Guiar",
+    "path": "deus-vai-ti-guiar",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Deus Velará Por Ti",
+    "path": "deus-velara-por-ti",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Dize-o a Cristo",
+    "path": "dize-a-cristo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Doce É Crer Em Cristo",
+    "path": "doce-crer-em-cristo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Doce Lar",
+    "path": "doce-lar",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Doce Nome de Jesus",
+    "path": "doce-nome-de-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Dominador É Deus",
+    "path": "dominador-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Doxologia",
+    "path": "doxologia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "É Meu Jesus Jeová",
+    "path": "e-meu-jesus-jeova",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "É Meu O Céu",
+    "path": "e-meu-o-ceu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "É o Nosso Lar",
+    "path": "e-nosso-lar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "É O Tempo De Segar",
+    "path": "e-tempo-de-segar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eis o Brasil Em Suas Mãos",
+    "path": "eis-brasil-em-tua-maos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eis-me, Jesus",
+    "path": "eis-me-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ele Sofreu Por Mim",
+    "path": "ele-sofreu-por-mim",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Em Belém",
+    "path": "em-belem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Em Busca De Sião",
+    "path": "em-busca-de-siao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Em Canaã Eu Entrarei",
+    "path": "em-canaa-eu-entrarei",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Em Cristo Fruimos A Paz",
+    "path": "em-cristo-fruimos-paz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Em Espírito, Em Verdade / Espírito Enche a Minha Vida / Consagração",
+    "path": "em-espirito-em-verdade-espirito-enche-a-minha-vida-consagracao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Em Espírito, Em Verdade",
+    "path": "em-espirito-em-verdade",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Em Fervente Oração",
+    "path": "em-fervente-oracao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Em Glória Virá",
+    "path": "em-gloria-vira",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Em Jesus Tens A Palma Da Vitória",
+    "path": "em-jesus-tens-palma-da-vitoria-75",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Em Meu Lugar",
+    "path": "em-meu-lugar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Em Sua Graça",
+    "path": "em-sua-graca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Entrega Teu Coração",
+    "path": "entrega-teu-coracao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Escuta o Evangelho",
+    "path": "escuta-evangelho",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Escuta Pobre Pecador",
+    "path": "escuta-pobre-pecador",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Esforça a Minha Coragem",
+    "path": "esforca-a-minha-coragem",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Espero Em Ti",
+    "path": "espero-em-ti",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Espírito Consolador",
+    "path": "espirito-consolador",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Espírito, Enche a Minha Vida",
+    "path": "espirito-enche-minha-vida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Está Passando",
+    "path": "esta-passando",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Este Mundo Não Compreende",
+    "path": "este-mundo-nao-compreende",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Estou Seguro",
+    "path": "estou-seguro",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Eu Confio Firmemente",
+    "path": "eu-confio-firmemente",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Creio, Sim",
+    "path": "eu-creio-sim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Navegarei",
+    "path": "eu-navegarei",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Amo, Ó Deus",
+    "path": "eu-ti-amo-deus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Louvarei Senhor",
+    "path": "eu-te-louvarei-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Louvo",
+    "path": "eu-te-louvo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Vou Com Jesus",
+    "path": "eu-vou-com-jesus",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Evangelho Da Salvação",
+    "path": "evangelho-da-salvacao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Exultação Do Crente",
+    "path": "exultacao-do-crente",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Face A Face",
+    "path": "face-face",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Fala Do Amor De Cristo",
+    "path": "fala-do-amor-de-cristo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Fala, Fala, Senhor",
+    "path": "fala-fala-senhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Faz Chover",
+    "path": "faz-chover",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Faze Já o Seu Querer",
+    "path": "faze-ja-seu-querer",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Fé a Vitória",
+    "path": "fe-a-vitoria-",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Fé Persistente",
+    "path": "fe-persistente",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Festim de Glória",
+    "path": "festim-de-gloria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Fim do Ano",
+    "path": "fim-do-ano",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Finda-se Minha Prisão",
+    "path": "finda-se-minha-prisao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Firme Nas Promessas",
+    "path": "firme-nas-promessas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Fogo Divino",
+    "path": "fogo-divino",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Foi Na Cruz",
+    "path": "foi-na-cruz-2",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Fonte Transbordante",
+    "path": "fonte-transbordante",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Galhos Secos",
+    "path": "galhos-secos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Glória A Jesus",
+    "path": "gloria-jesus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Glória, Aleluia, Glória",
+    "path": "gloria-aleluia-gloria",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Glória Ao Meu Jesus",
+    "path": "gloria-ao-meu-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Glória Ao Salvador",
+    "path": "gloria-ao-salvador",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Glória Glória Aleluia",
+    "path": "gloria-gloria-aleluia",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Glória Indizível",
+    "path": "gloria-indizivel",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Gloriosa Aurora",
+    "path": "gloriosa-aurora",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Gloriosa Paz",
+    "path": "gloriosa-paz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Glorioso Deus",
+    "path": "glorioso-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Gozo de Ter Salvação",
+    "path": "gozo-de-ter-salvacao",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Gozo e Vida Tenho",
+    "path": "gozo-vida-tenho",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Gozo Em Jesus",
+    "path": "gozo-em-jesus",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Gozo Real",
+    "path": "gozo-real",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Graça, Graça",
+    "path": "graca-graca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Graças Dou",
+    "path": "gracas-dou",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Grandioso És Tu / Face a Face (Pot-Pourri)",
+    "path": "grandioso-es-tu-face-a-face",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Grandioso És Tu",
+    "path": "grandioso-es-tu",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Grata Nova",
+    "path": "grata-nova",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Gratidão",
+    "path": "gratidao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Grato A Ti",
+    "path": "grato-ti",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Grato a Ti",
+    "path": "370-grato-a-ti",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Guarda O Contacto",
+    "path": "guarda-contacto",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Guia Meus Passos",
+    "path": "guia-meus-passos",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Guia-me Ó Salvador",
+    "path": "guia-me-salvador",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Guia-me Sempre, Meu Senhor",
+    "path": "guia-me-sempre-meu-senhor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Há Paz E Alegria",
+    "path": "ha-paz-alegria-90",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Há Poder No Sangue de Jesus",
+    "path": "ha-poder-no-sangue-de-jesus",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Há Poder Sim",
+    "path": "ha-poder-sim",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Há Trabalho Pronto",
+    "path": "ha-trabalho-pronto",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Há Um Canto Novo",
+    "path": "ha-um-canto-novo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Herdeiros do Reino",
+    "path": "herdeiro-do-reino",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Hino 243 - Harpa Cristã - Nós Abrimos Este Culto",
+    "path": "hino-243-harpa-crista-nos-abrimos-este-culto",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hino À Bandeira Nacional",
+    "path": "hino-bandeira-nacional",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Hino da Independência",
+    "path": "hino-da-independencia",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino da Proclamação da República do Brasil",
+    "path": "hino-da-proclamacao-da-republica-do-brasil",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Hino Das Primícias",
+    "path": "hino-das-primicias",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino Nacional Brasileiro",
+    "path": "hino-nacional-brasileiro",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hino Oficial do Jejum de Daniel",
+    "path": "hino-oficial-do-jejum-de-daniel",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "História de Cristo",
+    "path": "historia-de-cristo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Hosana E Glória",
+    "path": "hosana-gloria",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Ide Por Todo O Mundo",
+    "path": "ide-por-todo-mundo",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Ide Segar",
+    "path": "ide-segar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Imploramos O Consolador",
+    "path": "imploramos-consolador",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Imploramos Teu Poder",
+    "path": "155-imploramos-teu-poder",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Inesgotável É Seu Amor",
+    "path": "inesgotavel-seu-amor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Irmãos Amados",
+    "path": "irmaos-amados",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Já Nos Lavou",
+    "path": "ja-nos-lavou",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Já Posso Escutar",
+    "path": "ja-posso-escutar",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Já Sei, Já Sei",
+    "path": "ja-sei-ja-sei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jerusalém Celestial",
+    "path": "jerusalem-celestial",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jerusalém Divina",
+    "path": "jerusalem-divina",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Jesus À Porta Do Coração",
+    "path": "jesus-porta-do-coracao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Jesus Chorou Sobre Jerusalém",
+    "path": "jesus-chorou-sobre-jerusalem",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Jesus Comprou-me",
+    "path": "jesus-comprou-me",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Jesus Cristo, Bem Amado",
+    "path": "jesus-cristo-bem-amado",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Jesus É A Luz Do Mundo",
+    "path": "jesus-a-luz-do-mundo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Jesus É Minha Paz",
+    "path": "jesus-minha-paz",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Jesus Me Ama",
+    "path": "oh-jesus-me-ama",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus Me Guiará",
+    "path": "jesus-me-guiara",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus Me Lavou",
+    "path": "jesus-me-lavou",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Jesus Me Satisfaz",
+    "path": "jesus-me-satisfaz",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Jesus Me Tirou da Lama",
+    "path": "jesus-me-tirou-da-lama",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Jesus, Meu Eterno Redentor",
+    "path": "jesus-meu-eterno-redentor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Jesus, Meu Rei Glorioso",
+    "path": "jesus-meu-rei-glorioso",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus Meu Salvador",
+    "path": "jesus-meu-salvador",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus Minha Força",
+    "path": "jesus-minha-forca",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Jesus No Calvário",
+    "path": "jesus-no-calvario",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus No Getsêmani",
+    "path": "jesus-no-getsemane",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Jesus No Monte da Ascenção",
+    "path": "jesus-no-monte-da-ascencao",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Jesus, Nossa Esperança",
+    "path": "jesus-nossa-esperanca",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Jesus, Nosso Socorro",
+    "path": "jesus-nosso-socorro",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus, O Bom Amigo",
+    "path": "jesus-bom-amigo-198",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Jesus, Ó Meigo Salvador",
+    "path": "jesus-meigo-salvador",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Jesus o Melhor Amigo",
+    "path": "jesus-melhor-amigo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus Procura A Ovelha",
+    "path": "hino-104-jesus-procura-a-ovelha",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Jesus Quebrou Os Meus Grilhões",
+    "path": "jesus-quebrou-os-meus-grilhoes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus Ressuscitado",
+    "path": "jesus-ressuscitado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Jesus Salva",
+    "path": "jesus-salva",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Jesus Te Quer Curar",
+    "path": "jesus-te-quer-curar",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Jesus, Tu És Bom",
+    "path": "jesus-tu-es-bom-n25",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Jesus, Tudo Pra Mim",
+    "path": "jesus-tudo-pra-mim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Jesus Vem Triunfante",
+    "path": "jesus-vem-triunfante",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus Virá do Céu",
+    "path": "jesus-vira-do-ceu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus Voltará",
+    "path": "jesus-voltara",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Juntos No Céu",
+    "path": "juntos-no-ceu",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Juntos Trabalhamos",
+    "path": "juntos-trabalhamos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Lar do Céu",
+    "path": "lar-do-ceu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Lava-me, Ó Deus",
+    "path": "lava-me-deus",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Lê a Bíblia",
+    "path": "le-biblia",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Levantai Vossos Olhos",
+    "path": "323-levantai-vossos-olhos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Levar a Cruz",
+    "path": "levar-cruz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Liberto Da Escravidão",
+    "path": "liberto-da-escravidao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Livre Estou",
+    "path": "livre-estou",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Longe De Jesus",
+    "path": "longe-de-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Louvai a Deus",
+    "path": "louvai-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Louvai A Jesus",
+    "path": "louvai-jesus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Louvando Ao Nosso Criador",
+    "path": "louvando-ao-nosso-criador",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Louvarei Ao Meu Amado",
+    "path": "louvarei-ao-meu-amado",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Louvemos Ao Redentor",
+    "path": "louvor-ao-redentor",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Louvor A Trindade",
+    "path": "louvor-trindade",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Louvor Ao Deus Trino",
+    "path": "louvor-ao-deus-trino",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Lugar De Delícias",
+    "path": "lugar-de-delicias",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Luz Após Trevas",
+    "path": "luz-apos-trevas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Luz do Mundo",
+    "path": "luz-do-mundo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Mais Perto Da Tua Cruz",
+    "path": "mais-perto-da-tua-cruz-",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Mais Perto de Jesus",
+    "path": "mais-perto-de-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Mais Perto Quero Estar",
+    "path": "187-mais-perto-quero-estar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Mais Um Templo",
+    "path": "mais-um-templo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Manhã da Ressurreição",
+    "path": "manha-da-ressureicao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Manso e Suave",
+    "path": "manso-suave",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Mãos Ao Trabalho",
+    "path": "maos-ao-trabalho",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Maravilhoso É Jesus",
+    "path": "maravilhoso-jesus",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Marchai Soldados de Cristo",
+    "path": "09-marchai-soldados-de-cristo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Marchemos Sem Temor",
+    "path": "marchemos-sem-temor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Medley Firme",
+    "path": "medley-firme",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Medley",
+    "path": "medley",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Método de Deus",
+    "path": "metodo-de-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Meu Bom Salvador",
+    "path": "meu-bom-salvador",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Meu Brasil",
+    "path": "meu-brasil",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Meu Cristo! Meu Cristo!",
+    "path": "meu-cristo-meu-cristo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Forte Redentor",
+    "path": "meu-forte-redentor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Jesus! Meu Jesus!",
+    "path": "meu-jesus-meu-jesus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Meu Lar, Jerusalém",
+    "path": "meu-lar-jerusalem",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Meu Pastor",
+    "path": "meu-pastor",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Meu Redentor",
+    "path": "meu-redentor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Meu Testemunho",
+    "path": "meu-testemunho",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Meus Irmãos, Nos Jubilemos",
+    "path": "meus-irmaos-nos-jubilemos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meus Pecados Levou",
+    "path": "meus-pecados-levou",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Milícia De Jesus",
+    "path": "milicia-de-jesus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Minha Alma Te Quer",
+    "path": "minha-alma-te-quer",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Momento Solene",
+    "path": "momento-solene",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Morri Na Cruz Por Ti",
+    "path": "morri-na-cruz-por-ti",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Mui Perto Está O Dia",
+    "path": "mui-perto-esta-dia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Na Jerusalém De Deus ",
+    "path": "na-jerusalem-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Na Jornada Para o Céu",
+    "path": "na-jornada-para-ceu",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Na Maldição da Cruz",
+    "path": "na-maldicao-da-cruz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Na Mansão Do Salvador",
+    "path": "na-mansao-do-salvador",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Na Minh'Alma Reina Paz",
+    "path": "na-minhalma-reina-paz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Na Rocha Eterna Firmado",
+    "path": "na-rocha-eterna-firmado",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Não Foi Com Ouro",
+    "path": "nao-foi-com-ouro",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Não Há Separação Na Glória",
+    "path": "nao-ha-separacao-na-gloria",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Não Murmures, Canta",
+    "path": "nao-murmures-canta",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Não Posso Explicar",
+    "path": "83-nao-posso-explicar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Não Sou Meu",
+    "path": "nao-sou-meu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Não Tarda Vir Jesus!",
+    "path": "nao-tarda-vir-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Não Temas",
+    "path": "nao-temas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nascer de Novo",
+    "path": "nascer-de-novo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Navegando Pra Terra Celeste",
+    "path": "navegando-pra-terra-celeste",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Neste Lenho Me Glorio",
+    "path": "neste-lenho-me-glorio",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Neste Lugar",
+    "path": "neste-lugar",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "No Céu Não Entra Pecado",
+    "path": "no-ceu-nao-entra-pecado",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "No Jardim",
+    "path": "no-jardim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "No Rol do Livro",
+    "path": "no-rol-do-livro",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "No Sangue Há Poder",
+    "path": "no-sangue-ha-poder",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Noite De Paz",
+    "path": "noite-de-paz",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Noiva de Jesus, Apronta-te",
+    "path": "noiva-de-jesus-apronta-te",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Nome Precioso",
+    "path": "nome-precioso",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Nós Somos Teus",
+    "path": "nos-somos-teus",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Nós Vogamos Nesta Nau",
+    "path": "nos-vogamos-nesta-nau",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Nossa Esperança",
+    "path": "300-nossa-esperanca-",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Novo Canto De Louvor",
+    "path": "novo-canto-de-louvor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ó Acorda, Desperta!",
+    "path": "o-acorda-desperta",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "O Amor Do Criador",
+    "path": "o-amor-do-criador",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Amor Inesgotável",
+    "path": "o-amor-inesgotavel",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Áureo Dia",
+    "path": "o-aureo-dia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Bom Consolador",
+    "path": "o-bom-consolador",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ó Bom Jesus",
+    "path": "o-bom-jesus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Bondoso Amigo",
+    "path": "quao-bondoso-amigo-cristo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Bondoso Salvador",
+    "path": "o-bondoso-salvador",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ó Caro Salvador",
+    "path": "o-caro-salvador",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Cego de Jericó",
+    "path": "o-cego-de-jerico",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Celeste Diretor",
+    "path": "o-celeste-diretor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Céu Meu Lar",
+    "path": "o-ceu-meu-lar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Clarim Nos Alerta",
+    "path": "o-clarim-nos-alerta",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Convite De Cristo",
+    "path": "o-convite-de-cristo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Cordeiro de Deus",
+    "path": "o-cordeiro-de-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Criador Bendito",
+    "path": "o-criador-bendito",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Ó Cristão, Eia Avante",
+    "path": "o-cristao-eia-avante",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Cuidado Da Alma",
+    "path": "o-cuidado-da-alma",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Descanso Em Jesus",
+    "path": "o-descanso-em-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ó Desce, Fogo Santo",
+    "path": "o-desce-fogo-santo-h-c-005",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Deus de Abrãao",
+    "path": "o-deus-de-abraao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Dia Do Triunfo De Jesus",
+    "path": "o-dia-do-triunfo-de-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Dom Celeste",
+    "path": "o-dom-celeste",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Espírito Diz: Vem!",
+    "path": "o-espirito-diz-vem",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "O Estandarte Da Verdade",
+    "path": "o-estandarte-da-verdade",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "O Evangelho da Salvação",
+    "path": "o-evangelho-da-salvacao",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "O Exilado",
+    "path": "o-exilado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Fim Das Lutas",
+    "path": "o-fim-das-lutas",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "O Fim Vem, Cuidado!",
+    "path": "o-fim-vem-cuidado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Gozo De Estar Preparado",
+    "path": "o-gozo-de-estar-preparado",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Gozo Do Céu",
+    "path": "o-gozo-do-ceu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Gozo Dos Santos",
+    "path": "o-gozo-dos-santos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Grande \"Eu Sou\"",
+    "path": "o-grande-eu-sou",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "O Grande Amor",
+    "path": "o-grande-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Grande Curador",
+    "path": "o-grande-curador",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Grande Eu Sou",
+    "path": "084-o-grande-eu-sou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ó Jesus, Te Suplico",
+    "path": "o-jesus-te-suplico",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Lar Da Glória",
+    "path": "o-lar-da-gloria",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "O Lugar de Bênção e Paz",
+    "path": "o-lugar-de-bencao-paz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Meu Jesus",
+    "path": "o-meu-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Nascimento De Jesus",
+    "path": "o-nascimento-de-jesus",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "O Nome Precioso",
+    "path": "o-nome-precioso",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Nome Soberano",
+    "path": "o-nome-soberano",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Pai Bondoso",
+    "path": "o-pai-bondoso",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ó Pai Celeste",
+    "path": "o-pai-celeste",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ó Pai Eterno",
+    "path": "o-pai-eterno",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Pão Da Vida",
+    "path": "o-pao-da-vida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ó Pastor Bendito",
+    "path": "o-pastor-bendito",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Pastor E As Ovelhas",
+    "path": "o-pastor-as-ovelhas",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Ó Pecador Desalentado",
+    "path": "o-pecador-desalentado",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Perdão Sem Igual",
+    "path": "o-perdao-sem-igual",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Peregrino E A Glória",
+    "path": "o-peregrino-a-gloria",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "O Peregrino Na Terra",
+    "path": "o-peregrino-na-terra",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Piloto",
+    "path": "o-piloto",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "O Povo de Abraão",
+    "path": "o-povo-de-abraao",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "O Povo de Deus Na Terra",
+    "path": "o-povo-de-deus-na-terra",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "O Que Buscas Ansioso?",
+    "path": "o-que-buscas-ansioso",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Redentor",
+    "path": "o-redentor",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "O Rei da Glória",
+    "path": "o-rei-da-gloria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Rei Está Voltando",
+    "path": "o-rei-esta-voltando",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "O Sacrificio de Abraão",
+    "path": "o-sacrificio-de-abraao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Salvador Me Achou",
+    "path": "o-salvador-me-achou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Santo Espírito",
+    "path": "o-santo-espirito",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Da Ceifa Chama",
+    "path": "o-senhor-da-ceifa-chama",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Senhor É Rei",
+    "path": "o-senhor-rei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Salva A Todo O Pecador",
+    "path": "o-senhor-salva-todo-pecador",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Sol da Justiça",
+    "path": "o-sol-da-justica",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Sustento Da Alma",
+    "path": "o-sustento-da-alma",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ó Vem Já!",
+    "path": "o-vem-ja",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Ó Vem, Senhor, E Habita",
+    "path": "o-vem-senhor-habita",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ó Vem Te Entregar",
+    "path": "o-vem-te-entregar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Verdadeiro Amigo",
+    "path": "o-verdadeiro-amigo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Obreiros Do Senhor",
+    "path": "obreiros-do-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oh! Amor Bendito",
+    "path": "oh-amor-bendito",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Oh Dia Alegre!",
+    "path": "oh-dia-alegre",
+    "default-tone": "Bbm",
+    "categories": []
+  },
+  {
+    "name": "Oh, Foi O Sangue",
+    "path": "oh-foi-sangue",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Oh! Meu Jesus",
+    "path": "oh-meu-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Oh! Pai, o Santo Espírito",
+    "path": "oh-pai-santo-espirito",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Oh Quão Cego Andei",
+    "path": "oh-quao-cego-andei",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Oh! Que Glória!",
+    "path": "oh-que-gloria",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Oh, Que Paz!",
+    "path": "oh-que-paz",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Oh Que Riqueza Divinal",
+    "path": "oh-que-riqueza-divinal",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oh, Sim, Bem Sei",
+    "path": "oh-sim-bem-sei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Olhai Pra O Cordeiro De Deus",
+    "path": "olhai-pra-cordeiro-de-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Olhando Para O Calvário",
+    "path": "olhando-para-calvario",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Opera Em Mim",
+    "path": "opera-em-mim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ora, Vem Jesus",
+    "path": "ora-vem-jesus",
+    "default-tone": "Bbm",
+    "categories": []
+  },
+  {
+    "name": "Oração De Elias",
+    "path": "oracao-de-elias",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Oração Dominical",
+    "path": "oracao-dominical",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Oração Pela Pátria",
+    "path": "oracao-pela-patria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Os Bem-Aventurados",
+    "path": "os-bem-aventurados",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Os Dons Do Céu",
+    "path": "os-dons-do-ceu",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Os Guerreiros Se Preparam",
+    "path": "os-guerreiros-se-preparam",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Outro Bem Não Acharei",
+    "path": "outro-bem-nao-acharei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ouve Sua Voz",
+    "path": "ouve-sua-voz",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Para Casamentos",
+    "path": "para-casamentos",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Para O Céu Eu Vou",
+    "path": "para-ceu-eu-vou",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Para o Céu Meu Lar",
+    "path": "para-o-ceu-meu-lar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Paz de Deus Em Jesus Encontrei",
+    "path": "paz-de-deus-em-jesus-encontrei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Paz, Doce Paz",
+    "path": "paz-doce-paz",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Paz, Luz E Amor",
+    "path": "paz-luz-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Paz Perfeita, Sim, Busquei",
+    "path": "paz-perfeita-sim-busquei",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Pela Cruz Ao Céu Irei",
+    "path": "pela-cruz-ao-ceu-irei",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Pelejar Por Jesus",
+    "path": "108-pelejar-por-jesus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Pelo Sangue",
+    "path": "192-pelo-sangue",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Pensando Em Jesus",
+    "path": "pensando-em-jesus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Perché Gesù Vive",
+    "path": "perche-gesu-vive",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Perdido Andei",
+    "path": "perdido-andei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Peregrinos Somos",
+    "path": "peregrinos-somos",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Perto Do Meu Redentor",
+    "path": "perto-do-meu-redentor",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Plena Graça",
+    "path": "plena-graca",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Plena Paz",
+    "path": "plena-paz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Pode Salvar",
+    "path": "pode-salvar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Poder Pentecostal",
+    "path": "poder-pentencostal",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Por Nossa Pátria, Oramos",
+    "path": "636-por-nossa-patria-oramos",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Por Que Te Afliges?",
+    "path": "por-que-te-afliges",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Porque Ele Vive",
+    "path": "porque-ele-vive",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Pout Pourri Harpa",
+    "path": "pout-pourri-harpa",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Precisamos De Jesus",
+    "path": "precisamos-de-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pronto a Salvar",
+    "path": "pronto-salvar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Pura, Sim, Mais Pura",
+    "path": "pura-sim-mais-pura",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quádruplo Amém",
+    "path": "quadruplo-amem",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Qual o Preço do Perdão?",
+    "path": "qual-preco-do-perdao-",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quando Entro Em Tua Presença",
+    "path": "quando-entro-em-tua-presenca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quando Jesus Aparecer",
+    "path": "quando-jesus-aparecer",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quando o Povo Salvo Entrar",
+    "path": "quando-povo-salvo-entrar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quando Para o Céu Nós Formos",
+    "path": "quando-para-ceu-nos-formos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quanto Almejo",
+    "path": "quanto-almejo",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Quanto Anelo",
+    "path": "quanto-anelo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Quão Grande É o Meu Deus/ Consagração/ Em Espírito, Em Verdade",
+    "path": "quao-grande-e-o-meu-deus-consagracao-em-espirito-em-verdade",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quão Grande És Tu",
+    "path": "quao-grande-es-tu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Que Bênção",
+    "path": "que-bencao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Que Farás De Jesus Cristo?",
+    "path": "que-faras-de-jesus-cristo",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Que Maravilha!",
+    "path": "que-maravilha",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Que Mudança!",
+    "path": "que-mudanca",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Que Sangue Precioso",
+    "path": "que-sangue-precioso",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quem Bate É Jesus Cristo",
+    "path": "quem-bate-jesus-cristo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quem Dera Hoje Vir!",
+    "path": "quem-dera-hoje-vir",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quem Irá?",
+    "path": "65-quem-ira",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quem Quer Ir Com Cristo?",
+    "path": "quem-quer-ir-com-cristo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Queres Perdão",
+    "path": "queres-perdao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quero Jesus, A Tua Luz",
+    "path": "quero-jesus-tua-luz",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Quero Te Servir",
+    "path": "quero-te-servir",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Quero Ver a Jesus Cristo",
+    "path": "quero-ver-jesus-cristo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Rasgou-se O Véu",
+    "path": "rasgou-se-veu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Recebi Um Novo Coração do Pai",
+    "path": "recebi-um-novo-coracao-do-pai",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Redentor Formoso",
+    "path": "redentor-formoso",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Redentor Onipotente",
+    "path": "redentor-onipotente",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Reina Em Mim",
+    "path": "reina-em-mim",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Rende o Coração",
+    "path": "rende-coracao",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Renova-me",
+    "path": "renova-me-senhor-jesus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Resgatado o Sangue de Cristo",
+    "path": "resgatado-sangue-de-cristo",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Resgatados Fomos",
+    "path": "resgatados-fomos",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ressuscitou!",
+    "path": "ressucitou",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Revela A Nós, Senhor",
+    "path": "088-revela-a-nos-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Riquezas do Céu",
+    "path": "riquezas-do-ceu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Rocha Eterna",
+    "path": "rocha-eterna",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sacerdotes do Senhor",
+    "path": "sacerdotes-do-senhor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo 121",
+    "path": "salmo-121",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salva Vidas",
+    "path": "salva-vidas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salvo De Graça",
+    "path": "salvo-de-graca",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Salvo Estás? Limpo Estás?",
+    "path": "salvo-estas-limpo-estas",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salvo Estou",
+    "path": "salvo-estou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Santas Escrituras - 322 HC",
+    "path": "santas-escrituras-322-hc",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Santas Escrituras",
+    "path": "santas-escrituras",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Santo És Tu, Senhor",
+    "path": "santo-es-tu-senhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Santo, Santo És Tú Senhor",
+    "path": "santo-santo-s-to-senhor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Santo Santo Santo",
+    "path": "santo-santo-santo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Satisfeito Com Cristo",
+    "path": "satisfeito-com-cristo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Saudai Jesus",
+    "path": "saudai-jesus",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Saudosa Lembrança",
+    "path": "saudosa-lembranca",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Saudosa Lembrança",
+    "path": "02-saudosa-lembranca",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Saudosa Lembrança",
+    "path": "2-saudosa-lembranca",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Se As Águas do Mar da Vida",
+    "path": "se-as-aguas-do-mar-da-vida",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Se Cristo Comigo Vai",
+    "path": "515-se-cristo-comigo-vai",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Se Em Teu Caminho",
+    "path": "se-em-teu-camiho",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Se o Senhor É Por Nós",
+    "path": "se-o-senhor-e-por-nos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sê Tu Meu Guia",
+    "path": "se-tu-meu-guia",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Sê Valente",
+    "path": "se-valente",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sede Fortes",
+    "path": "sede-fortes",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Seguir a Cristo",
+    "path": "seguir-cristo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Seguirei a Cristo",
+    "path": "seguirei-cristo",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Segura Na Mão de Deus",
+    "path": "segura-na-mao-de-deus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sempre Feliz",
+    "path": "sempre-feliz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sempre Fiéis",
+    "path": "sempre-fieis",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Estás Comigo",
+    "path": "senhor-estas-comigo",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Manda Teu Poder",
+    "path": "senhor-manda-teu-poder",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Os Mensageiros Teus",
+    "path": "senhor-os-mensageiros-teus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Servir A Jesus",
+    "path": "servir-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Seu Precioso Sangue",
+    "path": "seu-precioso-sangue",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Sinto Vida No Senhor",
+    "path": "sinto-vida-no-senhor",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Só A Ti Recorrerei",
+    "path": "so-ti-recorrerei",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Só Em Jesus",
+    "path": "so-em-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Só O Sangue De Jesus",
+    "path": "so-sangue-de-jesus",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Sob As Asas De Deus",
+    "path": "sob-as-asas-de-deus",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Sob o Sangue Teu",
+    "path": "sob-sangue-teu",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Sobre A Terra Vou Andando",
+    "path": "sobre-terra-vou-andando",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sobre As Ondas Do Mar",
+    "path": "467-sobre-as-ondas-do-mar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sois Bem-vindos",
+    "path": "sois-bem-vindos",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Soldados De Cristo",
+    "path": "soldados-de-cristo",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Solta o Cabo da Nau",
+    "path": "solta-cabo-da-nau",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Somente a Ti",
+    "path": "somente-ti",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sossegai!",
+    "path": "578-sossegai",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sou Feliz",
+    "path": "sou-feliz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sou Mui Feliz",
+    "path": "sou-mui-feliz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sou Um Soldado",
+    "path": "sou-um-soldado-418",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sua Graça Me Basta",
+    "path": "sua-graca-me-basta",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Sua Palavra Revelada",
+    "path": "sua-palavra-revelada",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sublime Graça",
+    "path": "sublime-graca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tão Grato Me É Lembrar",
+    "path": "tao-grato-me-e-lembrar",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Tem Compaixão do Pecador",
+    "path": "tem-compaixao-do-pecador",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tempo de Segar",
+    "path": "tempo-de-segar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tenho Paz Em Meu Ser",
+    "path": "tenho-paz-em-meu-ser",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tentado Não Cedas",
+    "path": "tentado-nao-cedas",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Terra De Jesus",
+    "path": "terra-de-jesus",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Terra Feliz",
+    "path": "terra-feliz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Teu Espírito Vem Derramar",
+    "path": "teu-espirito-vem-derramar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Teu Nome Precioso",
+    "path": "teu-nome-precioso",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Trabalhadores Do Evangelho",
+    "path": "trabalhadores-do-evangelho",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Trabalhai E Orai",
+    "path": "trabalhai-orai",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tríplice Amém",
+    "path": "triplice-amem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Triunfo",
+    "path": "triunfo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tú És Fiel, Senhor",
+    "path": "tu-es-fiel-senhor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tu És Meu",
+    "path": "tu-es-meu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tu És O Meu Gozo",
+    "path": "tu-es-meu-gozo",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Tua Graça Me Basta",
+    "path": "tua-graca-me-basta",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tudo Em Cristo",
+    "path": "tudo-em-cristo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tudo Está Bem",
+    "path": "tudo-esta-bem",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Um Amigo Entre Os Lírios",
+    "path": "um-amigo-entre-os-lirios",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Um Amigo Mui Chegado",
+    "path": "um-amigo-mui-chegado",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Um Canto Novo",
+    "path": "um-canto-novo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Um Coração Bondoso",
+    "path": "um-coracao-bondoso",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Um Dos Tais",
+    "path": "340-um-dos-tais",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Um Meigo Salvador",
+    "path": "um-meigo-salvador",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Um Pecador Remido",
+    "path": "um-pecador-remido",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Um Pendão Real",
+    "path": "046-um-pendao-real",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Um Povo Forte",
+    "path": "um-povo-forte",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Uma Flor Gloriosa",
+    "path": "uma-flor-gloriosa",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Uma Flor Gloriosa",
+    "path": "196-uma-flor-gloriosa",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "União Do Crente Com Seu Senhor",
+    "path": "uniao-do-crente-com-seu-senhor",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "União Dos Irmãos",
+    "path": "uniao-dos-irmaos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Utima Hora",
+    "path": "utima-hora",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vai Orando",
+    "path": "vai-orando",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vamos Todos Trabalhar",
+    "path": "vamos-todos-trabalhar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vasos Transbordantes",
+    "path": "vasos-transbordantes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vem À Assembléia de Deus",
+    "path": "vem-assembleia-de-deus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vem A Cristo",
+    "path": "vem-cristo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vem A Deus",
+    "path": "vem-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vem a Jesus, Ó Perdido",
+    "path": "vem-jesus-perdido",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Vem A Mim, Pecador",
+    "path": "vem-mim-pecador",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vem A Teu Salvador",
+    "path": "vem-teu-salvador",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vem Cear",
+    "path": "vem-cear",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vem, Celeste Redentor",
+    "path": "vem-celeste-redentor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vem Já Pecador",
+    "path": "vem-ja-pecador",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vem Já Pecador",
+    "path": "12-vem-ja-pecador",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vem o Passo Dar",
+    "path": "vem-passo-dar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vem, Ó Pródigo - 353",
+    "path": "vem-prodigo",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Vem, Ó Pródigo - 76",
+    "path": "vem-perdido",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vem Sem Tardar",
+    "path": "vem-sem-tardar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vem Tu, Ó Rei Dos Reis",
+    "path": "vem-tu--rei-dos-reis",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vem, Vem A Mim",
+    "path": "vem-vem-mim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vencendo Com o Bom Capitão",
+    "path": "vencendo-com-bom-capitao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vencerá",
+    "path": "vencera-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vencidos Os Combates",
+    "path": "vencidos-os-combates",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Venha a Jesus",
+    "path": "venha-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ver-Nos-Emos",
+    "path": "ver-nos-emos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vida Abundante",
+    "path": "vida-abundante",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Vidas Consagradas Ao Trabalho",
+    "path": "vidas-consagradas-ao-trabalho",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vinde, Todos Pecadores",
+    "path": "vinde-pecadores",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Visitante",
+    "path": "visitante",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vitória Deus Dará a Mim",
+    "path": "vitoria-deus-dara-mim",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vitória Final",
+    "path": "vitoria-final",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Viva Cristo",
+    "path": "viva-cristo-",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vivifica a Tua Igreja",
+    "path": "vivifica-tua-igreja",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Vivifica-nos Senhor",
+    "path": "vivifica-nos-senhor",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Voltai-vos Para Mim",
+    "path": "voltai-vos-para-mim",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Vou Rumo Ao Meu Lar",
+    "path": "vou-rumo-ao-meu-lar",
+    "default-tone": "Em",
+    "categories": []
+  }
+]

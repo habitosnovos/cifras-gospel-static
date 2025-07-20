@@ -1,0 +1,962 @@
+[
+  {
+    "name": "5 50 Am",
+    "path": "5-50-am",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "5:50 AM",
+    "path": "550-am",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "5:50 AM (acústico)",
+    "path": "550-am-acustico",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "5.50",
+    "path": "550",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "7 Dias",
+    "path": "7-dias",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "A Balada do Ogro",
+    "path": "a-balada-do-ogro",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "A Dor",
+    "path": "a-dor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Gente",
+    "path": "a-gente",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Hora do Brasil",
+    "path": "a-hora-do-brasil",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "A Paz Me Ensina a Esperar",
+    "path": "a-paz-me-ensina-a-esperar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Paz",
+    "path": "a-paz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A resposta",
+    "path": "a-resposta",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Terapia",
+    "path": "a-terapia",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A voz do deserto (Tablatura de guitarra)",
+    "path": "a-voz-do-deserto-tablatura-de-guitarra",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A voz do deserto",
+    "path": "a-voz-do-deserto",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Abrir os Olhos",
+    "path": "abrir-os-olhos",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Acusador",
+    "path": "acusador",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Agora Sou Feliz",
+    "path": "agora-sou-feliz",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Água Viva",
+    "path": "agua-viva",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ainda há tempo",
+    "path": "ainda-ha-tempo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ainda Vou",
+    "path": "ainda-vou",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Amigo de Deus",
+    "path": "amigo-de-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Amor É o Que Se Dá (part. Pc Baruk e Pedrinho Cardenas)",
+    "path": "amor-e-o-que-se-da-part-pc-baruk-e-pedrinho-cardenas",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Amor",
+    "path": "amor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Antes",
+    "path": "antes",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ao Rei",
+    "path": "ao-rei",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Apocalipse Now",
+    "path": "apocalipse-now",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Assim Caminha a Humanidade?",
+    "path": "assim-caminha-a-humanidade",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Astronauta",
+    "path": "astronauta",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Atirei o Pau No Gato",
+    "path": "atirei-o-pau-no-gato",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Benditos (feat. Silvera)",
+    "path": "benditos-feat-silvera",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Bilhete Para Paulo (part. Pedrinho Cardenas)",
+    "path": "bilhete-para-paulo-part-pedrinho-cardenas",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Caiu a Babilônia!!!",
+    "path": "caiu-babilonia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Caminho",
+    "path": "caminho",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Consciência",
+    "path": "consciencia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Controle",
+    "path": "controle",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Daniel",
+    "path": "daniel",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Depois de Tudo",
+    "path": "depois-de-tudo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Despertar o Sol",
+    "path": "despertar-o-sol",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Doutores da Lei",
+    "path": "doutores-da-lei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "E Daí",
+    "path": "e-dai",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Ele Vem",
+    "path": "ele-vem",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ele Venceu",
+    "path": "ele-venceu",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ele",
+    "path": "ele",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eles Precisam Saber",
+    "path": "eles-precisam-saber",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Em Nome de Quem",
+    "path": "em-nome-de-quem",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Em Prol do Seu Nariz",
+    "path": "em-prol-do-seu-nariz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Em Todo Lugar",
+    "path": "em-todo-lugar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Era uma vez um cego",
+    "path": "era-uma-vez-um-cego",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Errando e Aprendendo",
+    "path": "errando-e-aprendendo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Ainda Tenho Fé (part. Ozielzinho)",
+    "path": "eu-ainda-tenho-fe-part-ozielzinho",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Estou Aqui",
+    "path": "eu-estou-aqui",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Passei",
+    "path": "eu-passei",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Quero Ser Um Cão",
+    "path": "eu-quero-ser-um-cao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Só Preciso Acreditar",
+    "path": "eu-so-preciso-acreditar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Vou Chegar Lá",
+    "path": "eu-vou-chegar-la",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Florzinha",
+    "path": "florzinha",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Fogo no Cão",
+    "path": "fogo-no-cao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Fora do Aquário",
+    "path": "fora-do-aquario",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Fora do Sistema",
+    "path": "fora-do-sistema",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Genérica",
+    "path": "generica",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Gratidão",
+    "path": "gratidao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "He'll come back again",
+    "path": "hell-come-back-again",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "História",
+    "path": "historia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Hoje e Então",
+    "path": "hoje-e-entao-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hoje e Então",
+    "path": "hoje-e-entao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Infinitamente Mais",
+    "path": "infinitamente-mais",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Inocente",
+    "path": "inocente",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Jack, Joe And Nancy In The Mall",
+    "path": "jack-joe-and-nancy-in-the-mall",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jamais",
+    "path": "jamais",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jantar",
+    "path": "jantar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Lágrimas",
+    "path": "lagrimas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Lenha Pra Queimar",
+    "path": "lenha-pra-queimar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Leve e Momentânea",
+    "path": "leve-momentanea",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Leve Fardo",
+    "path": "leve-fardo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Liberdade",
+    "path": "liberdade",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Luci Feia",
+    "path": "luci-feia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Luz",
+    "path": "luz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Mais longe",
+    "path": "mais-longe",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Meus Pés",
+    "path": "meus-pes",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Minha Rocha",
+    "path": "minha-rocha",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Mistérios",
+    "path": "misterios",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Moisés",
+    "path": "moises",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Na Equação",
+    "path": "na-equacao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Nada me faltará",
+    "path": "nada-me-faltara",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Nas Chagas",
+    "path": "nas-chagas",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Neófito",
+    "path": "neofito-2",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Neófito",
+    "path": "neofito",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ninguém Vai Saber",
+    "path": "ninguem-vai-saber",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "No One",
+    "path": "no-one",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "No Seu Quintal",
+    "path": "no-seu-quintal",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Nome sobre todo nome",
+    "path": "nome-sobre-todo-nome",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nossa Valsa",
+    "path": "nossa-valsa",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Novos Rumos",
+    "path": "novos-rumos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Começo, o Fim e o Meio",
+    "path": "o-comeco-o-fim-e-o-meio",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Médico e o Monstro",
+    "path": "o-medico-o-monstro",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Meu Lugar",
+    "path": "o-meu-lugar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Nome da Paz",
+    "path": "o-nome-da-paz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O nome da Paz (acústico)",
+    "path": "o-nome-da-paz-acustico",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Perdido e o Sentido",
+    "path": "o-perdido-o-sentido",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Que É Viver",
+    "path": "o-que-e-viver",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "O Que Não Precisa",
+    "path": "o-que-nao-precisa",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Rio",
+    "path": "o-rio",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Solitário",
+    "path": "o-solitario",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Vesúvio",
+    "path": "o-vesuvio",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Os dez leprosos",
+    "path": "os-dez-leprosos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Outra Vez",
+    "path": "outra-vez",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Palavras",
+    "path": "palavras",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Papo de Lóki",
+    "path": "papo-de-loki",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Para todos os efeitos",
+    "path": "para-todos-os-efeitos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Paralelo",
+    "path": "paralelo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Passo a Passo",
+    "path": "passo-passo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Por Aparelhos",
+    "path": "por-aparelhos",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Porque Você Não Sai",
+    "path": "porque-voce-nao-sai",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Pouco Importa",
+    "path": "pouco-importa",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pra Onde Iremos Nós? (part. Juninho Afram)",
+    "path": "pra-onde-iremos-nos-part-juninho-afram",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Pra Todos Os Efeitos",
+    "path": "pra-todos-os-efeitos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pra Ver o Sol",
+    "path": "pra-ver-o-sol",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Príncipe",
+    "path": "principe",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Puro amor",
+    "path": "puro-amor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Quem é Ele",
+    "path": "quem-ele-72097",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quem É Ele",
+    "path": "quem-ele",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quem Sou Eu ?",
+    "path": "quem-sou-eu-",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "R81923 (part. Silvera, Sharon Ramos e Abigail Cruz)",
+    "path": "r81923-feat-silvera-sharon-ramos-e-abigail-cruz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Raízes",
+    "path": "raizes",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Recomeçar",
+    "path": "recomecar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Resposta",
+    "path": "resposta",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Restauração",
+    "path": "restauracao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Restinga da Marambaia (part. Vavá Rodrigues e Kivitz)",
+    "path": "restinga-da-marambaia-feat-vava-rodrigues-e-kivitz",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Rock da Vovó",
+    "path": "rock-da-vovo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sábios e Loucos",
+    "path": "sabios-e-loucos",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Saímos",
+    "path": "saimos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Se Existisse o \"se\"",
+    "path": "se-existisse-o-se",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Se For Preciso, a Gente Volta",
+    "path": "se-for-preciso-a-gente-volta",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Sem Deus",
+    "path": "sem-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sem Dó",
+    "path": "sem-do",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sempre Tem Uma Assim",
+    "path": "sempre-tem-uma-assim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sete Dias",
+    "path": "sete-dias",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sobre a Rocha",
+    "path": "sobre-rocha",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sol do Meio Dia",
+    "path": "sol-do-meio-dia",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Solidão",
+    "path": "solidao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Suficiente Pra Mim",
+    "path": "suficiente-pra-mim",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Te Encontrar",
+    "path": "te-encontrar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Te Explicar",
+    "path": "te-explicar",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Te Vejo",
+    "path": "te-vejo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tempo",
+    "path": "tempo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Terceiro Dia",
+    "path": "terceiro-dia",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Teu Sinal",
+    "path": "teu-sinal",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Todo Som",
+    "path": "todo-som",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Transformers",
+    "path": "transformers",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Tudo Certo",
+    "path": "tudo-certo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tudo Que Existe Espera (part. Sarah Renata)",
+    "path": "tudo-que-existe-espera-part-sarah-renata",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Turn Turn Turn",
+    "path": "turn-turn-turn",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Um Nariz Vermelho",
+    "path": "um-nariz-vermelho",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Um Pouco Além do Chão",
+    "path": "um-pouco-alem-do-chao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Una Vuelta Más",
+    "path": "una-vuelta-mas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Velhos Ventos",
+    "path": "velhos-ventos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vem Espírito!",
+    "path": "vem-espirito",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vida",
+    "path": "vida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vou Me Lembrar",
+    "path": "vou-me-lembrar",
+    "default-tone": "F",
+    "categories": []
+  }
+]

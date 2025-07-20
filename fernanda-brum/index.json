@@ -1612,5 +1612,11 @@
     "path": "yo-voy",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Vou Profetizar",
+    "path": "vou-profetizar",
+    "default-tone": "Em",
+    "categories": []
   }
 ]
