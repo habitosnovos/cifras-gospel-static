@@ -1,0 +1,686 @@
+[
+  {
+    "name": "A Paixão",
+    "path": "a-paixao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Quem",
+    "path": "a-quem",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Abra Os Céus",
+    "path": "abra-os-ceus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Aleluia",
+    "path": "aleluia",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aleluia (Hallelujah)",
+    "path": "aleluia-hallelujah",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Algo Novo",
+    "path": "algo-novo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Altos e Baixos",
+    "path": "altos-e-baixos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Âncora",
+    "path": "ncora",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Aos Confins da Terra",
+    "path": "aos-confins-da-terra",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Assim Como É (No Céu)",
+    "path": "assim-como-e-no-ceu",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Até o Fim do Mundo",
+    "path": "ate-o-fim-do-mundo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Até Vermos o Outro Lado",
+    "path": "ate-vermos-o-outro-lado",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Avivamento",
+    "path": "avivamento",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Aviva-nos",
+    "path": "aviva-nos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Blessed",
+    "path": "blessed",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Boa Graça",
+    "path": "boa-graca",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Céus Abertos",
+    "path": "ceus-abertos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Céus e Terra",
+    "path": "ceus-e-terra",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Com Tudo de Mim",
+    "path": "com-tudo-de-mim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Com Tudo o Que Sou",
+    "path": "com-tudo-que-sou",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Como Estou Tu Me Amas",
+    "path": "como-estou-tu-me-amas",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro Que Sofreu",
+    "path": "cordeiro-que-sofreu",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro Que Sofreu (Man Of Sorrows)",
+    "path": "cordeiro-que-sofreu-man-of-sorrows",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Correrei",
+    "path": "correrei",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Creio em Ti (I Believe)",
+    "path": "creio-em-ti-i-believe",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "De Graça em Graça",
+    "path": "de-graca-em-graca",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Desperta Minha Alma",
+    "path": "desperta-minha-alma",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Deus de Eterna Luz",
+    "path": "deus-de-eterna-luz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Deus Eterno",
+    "path": "deus-eterno",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Deus Eterno (From The Inside Out - Versão Correta)",
+    "path": "deus-eterno-from-the-inside-out-versao-correta",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "É Lindo o Teu Amor",
+    "path": "e-lindo-teu-amor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Ele É o Senhor",
+    "path": "ele-e-o-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Em Paz?",
+    "path": "em-paz",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Emanuel",
+    "path": "emanuel",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Encontrei Meu Lugar",
+    "path": "encontrei-meu-lugar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Esconde-me",
+    "path": "esconde-me",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Esse É o Nosso Deus",
+    "path": "esse-e-o-nosso-deus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Estás Aqui (The Same Power)",
+    "path": "estas-aqui-the-same-power",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Me Rendo (I Surrender)",
+    "path": "eu-me-rendo-i-surrender",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Eu Também (So Will I)",
+    "path": "eu-tambem-so-will-i",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eu Também",
+    "path": "eu-tambem",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Feliz Aquele Que Habita Sua Casa",
+    "path": "feliz-aquele-que-habita-sua-casa",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Fora Da Sua Janela",
+    "path": "fora-da-sua-janela",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Fui Salvo (For All You've Done)",
+    "path": "fui-salvo-for-all-youve-done",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Gloriosas Ruinas",
+    "path": "gloriosas-ruinas",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Grandes Coisas",
+    "path": "grandes-coisas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Holy Night",
+    "path": "holy-night",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hosana",
+    "path": "hosana",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Louvai o Nome (Anástasis)",
+    "path": "louvai-o-nome-anastasis",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Maravilhado",
+    "path": "maravilhado",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Me Lembrarei",
+    "path": "me-lembrarei",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Me Rendo a Ti",
+    "path": "me-rendo-ti",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Me Sustenta",
+    "path": "me-sustenta",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Meu Desejo (one Thing)",
+    "path": "meu-desejo-one-thing",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Meu Ser (Deus Eterno)",
+    "path": "meu-ser-deus-eterno",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Meu Tudo (Christ is Enough) ",
+    "path": "meu-tudo-christ-is-enough",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Não Falharás",
+    "path": "nao-falharas",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Não Há Outro Igual",
+    "path": "nao-ha-outro-igual",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Não Há Um Nome Igual?",
+    "path": "nao-ha-um-nome-igual",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ninguém , Só Jesus",
+    "path": "ninguem--so-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "No Controle",
+    "path": "no-controle",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "No Mais Profundo (Depths)",
+    "path": "no-mais-profundo-depths",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Nos Rendemos de Novo",
+    "path": "nos-rendemos-de-novo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nosso Deus É Poderoso",
+    "path": "nosso-deus-e-poderoso",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Oceanos",
+    "path": "oceanos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Oceans",
+    "path": "oceans",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Oh Quão Lindo Esse Nome É",
+    "path": "oh-quao-lindo-esse-nome-",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ouçam Nossos Louvores",
+    "path": "oucam-nossos-louvores",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Pelo Mundo Contar",
+    "path": "pelo-mundo-contar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Perto de Mim",
+    "path": "perto-de-mim",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Phenomena Da Da",
+    "path": "phenomena-da-da",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Poder Para Salvar",
+    "path": "poder-para-salvar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Preciosa Graça",
+    "path": "preciosa-graca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pronto Ou Não",
+    "path": "pronto-ou-nao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quão Grande É o Senhor (How Great Is Our God)",
+    "path": "quao-grande-o-senhor-how-great-is-our-god",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Que Haja Luz (Let There Be Light)",
+    "path": "que-haja-luz-let-there-be-light",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quem Dizes Que Sou",
+    "path": "quem-dizes-que-sou",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Rei Dos Ceus",
+    "path": "rei-dos-ceus",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Rei Dos Reis",
+    "path": "rei-dos-reis",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Rei Magestoso",
+    "path": "rei-magestoso",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Rei Salvador",
+    "path": "rei-salvador",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Salvação Esta Aqui",
+    "path": "salvacao-esta-aqui",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Salvation Is Here",
+    "path": "salvation-is-here",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Salvou Meu Coração",
+    "path": "salvou-meu-coracao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Santo Lugar",
+    "path": "santo-lugar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sem Palavras (Evermore)",
+    "path": "sem-palavras-evermore",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Senhor de Tudo (Lord Of All)",
+    "path": "senhor-de-tudo-lord-of-all",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Só Tu És Deus (You Alone Are God)",
+    "path": "so-tu-es-deus-you-alone-are-god",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sozinho Nunca Andarei",
+    "path": "sozinho-nunca-andarei",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Te Agradeço",
+    "path": "te-agradeco",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Te Glorificarei",
+    "path": "te-glorificarei",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Tempestade Graciosa (Gracious Tempest)",
+    "path": "tempestade-graciosa-gracious-tempest",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tens Me Feito Feliz (made Me Glad)",
+    "path": "tens-me-feito-feliz-made-me-glad",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Teu Coração",
+    "path": "teu-coracao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Teu Grande Amor",
+    "path": "teu-grande-amor",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Toco o Céu (Touch The Sky - Hillsong)",
+    "path": "toco-o-ceu-touch-the-sky-hillsong",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Toma o Meu Coração (i Give You My Heart)",
+    "path": "toma-o-meu-coracao-i-give-you-my-heart",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Toma Todo Meu Ser ( Take All Of Me)",
+    "path": "toma-todo-meu-ser-take-all-of-me",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tu Coroastes o Ano (You Crown The Year)",
+    "path": "tu-coroastes-o-ano-you-crown-the-year",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tu És",
+    "path": "tu-es",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Tu És Minha Força (You Are My Strength)",
+    "path": "tu-es-minha-forca-you-are-my-strength",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tua Graça Inunda-me Ser",
+    "path": "tua-graca-inunda-me-ser",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tudo É Diferente",
+    "path": "tudo-e-diferente",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tudo Por Amor (all For Love)",
+    "path": "tudo-por-amor-all-for-love",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Único Caminho (One Way)",
+    "path": "unico-caminho-one-way",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Vasos Quebrados ( Sublime Graça )",
+    "path": "vasos-quebrados--sublime-graca-",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Veja (Canta Minh'Alma)",
+    "path": "veja-canta-minhalma",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Vejo a Luz",
+    "path": "vejo-a-luz",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vento Novo (Fresh Wind)",
+    "path": "vento-novo-fresh-wind",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vida Achei (You Are Life)",
+    "path": "vida-achei-you-are-life",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vim Para Adorar-te",
+    "path": "vim-para-adorar-te",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Vinho Novo (New Wine)",
+    "path": "vinho-novo-new-wine",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Você Merece (You Deserve)",
+    "path": "voce-merece-you-deserve",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Você Merece",
+    "path": "voce-merece",
+    "default-tone": "G",
+    "categories": []
+  }
+]

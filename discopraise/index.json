@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Altos Montes",
+    "path": "altos-montes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ao Teu Lado",
+    "path": "ao-teu-lado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Arraial Dos Santos",
+    "path": "arraial-dos-santos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Até Depois do Fim",
+    "path": "ate-depois-do-fim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Bem Querer / Bem Querer 2",
+    "path": "bem-querer-bem-querer-2",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Cara de Pau",
+    "path": "cara-de-pau",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Chega de Adiar",
+    "path": "chega-de-adiar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Chegue Chegue Chegue",
+    "path": "chegue-chegue-chegue",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Clareia",
+    "path": "clareia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Como Se Não Houvesse Amanhã",
+    "path": "como-se-nao-houvesse-amanha",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Consagração",
+    "path": "consagracao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Cura-me",
+    "path": "cura-me",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Depois do Fim",
+    "path": "depois-do-fim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "DEUS DE ISRAEL",
+    "path": "deus-de-israel",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Deus Não Esqueceu de Mim",
+    "path": "deus-nao-esqueceu-de-mim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Divino Companheiro",
+    "path": "divino-companheiro",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Escape",
+    "path": "escape",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eu Descobri",
+    "path": "eu-descobri",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Grito",
+    "path": "eu-grito",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Fala Comigo",
+    "path": "fala-comigo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Favor de Deus",
+    "path": "favor-de-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Gospel",
+    "path": "gospel",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Janelas do Céu",
+    "path": "janelas-do-ceu",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Jericó",
+    "path": "jerico",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Lá Vou Eu",
+    "path": "la-vou-eu",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Louca",
+    "path": "louca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Medley (Se Eu ME Humilhar / Atos 2 / Para Qe Entre o Rei / A Casa é Sua)",
+    "path": "medley-se-eu-me-humilhar-atos-2-para-qe-entre-o-rei-a-casa-e-sua",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Minha Alma",
+    "path": "minha-alma",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Mover do Espírito",
+    "path": "mover-do-espirito",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Não Pare",
+    "path": "nao-pare",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Não Temerei (Ao Vivo)",
+    "path": "nao-temerei-ao-vivo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Não Temerei",
+    "path": "nao-temerei",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Novo Começo",
+    "path": "novo-comeco",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Novo Tempo",
+    "path": "novo-tempo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Amor Supera Todo Medo",
+    "path": "o-amor-supera-todo-medo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ouvir o Teu Falar",
+    "path": "ouvi-o-teu-falar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Pedra Na Mão",
+    "path": "pedra-na-mao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Pertenço a Ti",
+    "path": "pertenco-a-ti",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Perto de Ti",
+    "path": "perto-de-ti",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Pronto Pra Te Amar",
+    "path": "pronto-pra-te-amar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Recomeçar",
+    "path": "recomecar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sala do Trono",
+    "path": "sala-do-trono",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Salvo Pelo Teu Amor",
+    "path": "salvo-pelo-teu-amor",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Se Eu Me Humilhar",
+    "path": "se-eu-me-humilhar",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Serei Alcançado",
+    "path": "serei-alcancado",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sonda-me, Usa-me",
+    "path": "sonda-me-usa-me-2",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sonda-me, Usa-me",
+    "path": "sonda-me-usa-me",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sou Um Milagre",
+    "path": "sou-um-milagre",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tem Um Milagre Me Esperando",
+    "path": "tem-um-milagre-me-esperando",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tem Um Milagre Me Esperando (feat. Ruben Di Souza e Felipe Bodão)",
+    "path": "tem-um-milagre-me-esperando-feat-ruben-di-souza-e-felipe-bodao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Teu Nome Move o Impossível",
+    "path": "teu-nome-move-impossivel",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Teu Nome Que Eu Chamo (part. Brenda)",
+    "path": "teu-nome-que-eu-chamo-part-brenda",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Teu Sangue",
+    "path": "teu-sangue",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Todo Olho Verá",
+    "path": "todo-olho-vera",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Toma a Minha Vida",
+    "path": "toma-a-minha-vida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Treme Treme Treme",
+    "path": "treme-treme-treme",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tudo o Que Eu Amo Está Em Ti",
+    "path": "tudo-o-que-eu-amo-esta-em-ti",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Um Sonho",
+    "path": "um-sonho",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vou Prosseguir",
+    "path": "vou-prosseguir",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Worchip do Robô (Ao Vivo)",
+    "path": "worchip-do-robo-ao-vivo",
+    "default-tone": "C",
+    "categories": []
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "name": "A Alegria",
+    "path": "a-alegria",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Abba Pai",
+    "path": "abba-pai",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Abraça-me",
+    "path": "abraca-me",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ainda Não Aprendi",
+    "path": "ainda-nao-aprendi",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Alvo Mais Que a Neve",
+    "path": "alvo-mais-que-neve",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Amigo Íntimo",
+    "path": "amigo-intimo",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Aonde For",
+    "path": "aonde-for",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Blessed (Bem Aventurado)",
+    "path": "blessed-bem-aventurado",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Canção da Noiva",
+    "path": "cancao-da-noiva",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Casa do Pão",
+    "path": "casa-do-pao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Celebrar Vitória",
+    "path": "celebrar-vitoria",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Celebrar Vitória",
+    "path": "celebrar-vitoria-2",
+    "default-tone": "Bbm",
+    "categories": []
+  },
+  {
+    "name": "Clamarei Teu Santo Nome",
+    "path": "clamarei-teu-santo-nome",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Como um vento",
+    "path": "como-um-vento",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Cruz",
+    "path": "cruz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Dançarei Contigo",
+    "path": "dancarei-contigo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Derramar (salmos 42.2)",
+    "path": "derramar-salmos-422",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Descanso",
+    "path": "descanso",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Deus Meu",
+    "path": "deus-meu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Entrega",
+    "path": "entrega",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Estante da vida",
+    "path": "estante-da-vida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Este Lugar e No Senhor Jesus",
+    "path": "este-lugar-no-senhor-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Estou Livre",
+    "path": "estou-livre",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Eu Vejo a Cruz",
+    "path": "eu-vejo-a-cruz",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Vou Correr",
+    "path": "eu-vou-correr",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Fall On Me",
+    "path": "fall-on-me",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Glória Ao Cordeiro de Deus",
+    "path": "gloria-ao-cordeiro-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Glorioso Dia",
+    "path": "glorioso-dia",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Grandes São",
+    "path": "grandes-sao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Gratidão",
+    "path": "gratidao",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Guia-Me Sempre",
+    "path": "guia-me-sempre",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Há Tanto Tempo",
+    "path": "a-tanto-tempo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Há Um Lugar",
+    "path": "ha-um-lugar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hoje Eu Sei",
+    "path": "hoje-eu-sei",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Infinito",
+    "path": "infinito",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus É o Caminho",
+    "path": "jesus-o-caminho",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Jesus Eu Te Amo (Nem o Céu Nem o Mar)",
+    "path": "jesus-eu-te-amo-nem-ceu-nem-mar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Jesus",
+    "path": "jesus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Leva-Me",
+    "path": "leva-me",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Liberta-me",
+    "path": "liberta-me",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Lindo Jesus",
+    "path": "lindo-jesus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Lugar de Adoração",
+    "path": "lugar-de-adoracao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Maravilhado ",
+    "path": "maravilhado-simplificada",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Me Deste a Vida",
+    "path": "me-deste-vida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Rei",
+    "path": "meu-rei",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Minha Alma",
+    "path": "minha-alma",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Nada Sou Sem Ti",
+    "path": "nada-sou-sem-ti",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Não Há Tempo ",
+    "path": "ha-tanto-tempo-jo-911",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Não Posso Explicar",
+    "path": "nao-posso-explicar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nao Se Turbe o Vosso Coraçao",
+    "path": "nao-se-turbe-o-vosso-coracao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Não Temerei",
+    "path": "nao-temerei",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "O Amor",
+    "path": "o-amor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "O Que Eu Preciso",
+    "path": "o-que-eu-preciso",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "O Seu Caminho",
+    "path": "o-seu-caminho",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Oh Quão Lindo Esse Nome É",
+    "path": "oh-quao-lindo-esse-nome-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Olhar Para o Alto",
+    "path": "olhar-para-o-alto",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Pai",
+    "path": "pai",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Paz",
+    "path": "paz",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Perfeito",
+    "path": "perfeito",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Prêmio",
+    "path": "premio",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Pulsa Coração",
+    "path": "pulsa-coracao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Que Amigo Encontrei",
+    "path": "que-amigo-encontrei",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quero Dançar",
+    "path": "quero-dancar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quero Ser Como Criança",
+    "path": "quero-ser-como-crianca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quero Voltar",
+    "path": "quero-voltar",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Reina",
+    "path": "reina",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Sacrifício",
+    "path": "sacrificio",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo Deus",
+    "path": "santo-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Santo Espirito",
+    "path": "santo-espirito",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Santo, Pai Tu És Santo",
+    "path": "santo-pai-tu-es-santo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Se Andarmos Na Luz",
+    "path": "se-andarmos-na-luz",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Seis da Tarde",
+    "path": "seis-da-tarde",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Seja o Lugar de Adoração",
+    "path": "seja-o-lugar-de-adoracao",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Silêncio",
+    "path": "silencio",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Só Você Me Amou",
+    "path": "so-voce-me-amou",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Te Adorarei",
+    "path": "te-adorarei",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Te Amo",
+    "path": "te-amo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Teu Fluir É Melhor",
+    "path": "teu-fluir-melhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Tocou - Me",
+    "path": "tocou-me",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Tua presença",
+    "path": "tua-presenca",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Tudo É Sobre Ti",
+    "path": "tudo-e-sobre-ti",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vai Valer a Pena",
+    "path": "vai-valer-a-pena",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Vaidade",
+    "path": "vaidade",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Vaso Quebrado",
+    "path": "vaso-quebrado",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vejo Tua Glória",
+    "path": "vejo-tua-gloria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vem Andar Comigo",
+    "path": "vem-andar-comigo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vim Para Adorar-te",
+    "path": "vim-para-adorar-te",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Yeshua (part. Fernandinho)",
+    "path": "yeshua-part-fernandinho",
+    "default-tone": "A",
+    "categories": []
+  }
+]

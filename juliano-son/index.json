@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Altar (part. Gabriela Rocha)",
+    "path": "altar-part-gabriela-rocha",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Deus Está Na Casa",
+    "path": "deus-esta-na-casa-",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Ele É",
+    "path": "ele-e",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ele Vive / Noite de Adoração (pot-pourri)",
+    "path": "ele-vive-noite-de-adoracao-pot-pourri",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ele Vive / Porque Ele Vive (Pot-Pourri)",
+    "path": "ele-vive-porque-ele-vive-pot-pourri",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Espero Por Ti",
+    "path": "espero-por-ti",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Vou Construir",
+    "path": "eu-vou-construir",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Jesus És o Meu Amado",
+    "path": "jesus-es-o-meu-amado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Lindo és + Só Quero Ver Você",
+    "path": "lindo-s",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Milagres",
+    "path": "milagres",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Nada Mudou",
+    "path": "nada-mudou",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Não Voltarei Atrás",
+    "path": "nao-voltarei-atras",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Nova Jerusalém",
+    "path": "nova-jerusalem",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nunca Me Deixou",
+    "path": "nunca-me-deixou",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Obrigado Jesus Pelo Teu Sangue",
+    "path": "obrigado-jesus-pelo-teu-sangue",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Por Causa Do Teu Amor (Santo)",
+    "path": "por-causa-do-teu-amor-santo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Pra Sempre Aleluia",
+    "path": "pra-sempre-aleluia",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Pra Sempre Teu",
+    "path": "pra-sempre-teu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Quando o Mundo Cai Ao Meu Redor",
+    "path": "quando-o-mundo-cai-ao-meu-redor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Rei da Glória (part. Isaías Saad)",
+    "path": "rei-da-gloria-part-isaias-saad",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Santo",
+    "path": "santo",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Saudai o Rei Jesus",
+    "path": "saudai-o-rei-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Só Em Jesus",
+    "path": "so-em-jesus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Tão Profundo",
+    "path": "tao-profundo",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Tuas Obras",
+    "path": "tuas-obras",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Tudo Bem",
+    "path": "tudo-bem",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Tudo Novo",
+    "path": "tudo-novo",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Vai Valer A Pena",
+    "path": "vai-valer-a-pena",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Verei",
+    "path": "verei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Virá",
+    "path": "vira",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Voaremos (part. Julia Vitória)",
+    "path": "voaremos-part-julia-vitoria",
+    "default-tone": "G#m",
+    "categories": []
+  }
+]

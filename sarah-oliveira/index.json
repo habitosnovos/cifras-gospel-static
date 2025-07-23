@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Acusador Traíra",
+    "path": "acusador-traira",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Aquela Historia",
+    "path": "aquela-historia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Até Que o Senhor Venha / Labareda / Vem Me Buscar (medley)",
+    "path": "ate-que-o-senhor-venha-labareda-vem-me-buscar-medley",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Até Transbordar",
+    "path": "ate-transbordar",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Avivamento",
+    "path": "avivamento-2",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Avivamento",
+    "path": "avivamento-3",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Avivamento",
+    "path": "avivamento",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Cadeias Quebrar",
+    "path": "cadeias-quebrar",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Caia Fogo",
+    "path": "caia-fogo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Coroas",
+    "path": "coroas",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Não Vou Parar",
+    "path": "eu-nao-vou-parar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Extravagante Amor",
+    "path": "extravagante-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Flua Nesse Lugar",
+    "path": "flua-nesse-lugar",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Igual o Nosso Amor",
+    "path": "igual-nosso-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Amado",
+    "path": "meu-amado",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Nasci Pra Te Escutar",
+    "path": "nasci-pra-te-escutar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Pai de Amor",
+    "path": "pai-de-amor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Só Nos Teus Braços",
+    "path": "so-nos-teus-bracos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Todos Juntos",
+    "path": "todos-juntos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vencedor (Champion)",
+    "path": "vencedor-champion",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vitorioso És / Com Muito Louvor / Que Se Abram Os Céus",
+    "path": "vitorioso-es-com-muito-louvor-que-se-abram-os-ceus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vitorioso És / Com Muito Louvor / Que Se Abram Os Céus",
+    "path": "vitorioso-es-com-muito-louvor-que-se-abram-os-ceus-2",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vitorioso És",
+    "path": "vitorioso-es",
+    "default-tone": "G",
+    "categories": []
+  }
+]

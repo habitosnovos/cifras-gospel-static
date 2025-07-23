@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Água da Vida",
+    "path": "gua-da-vida",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Além do Que Eu Queira Mostrar",
+    "path": "alem-do-que-eu-queira-mostar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Amor Dos Primeiros Dias",
+    "path": "amor-dos-primeiros-dias",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ao Que Vive e Reina",
+    "path": "ao-que-vive-e-reina",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ao Redor do Rei",
+    "path": "ao-redor-rei",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "As Portas Vão Se Levantar",
+    "path": "as-portas-vao-se-levantar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Até Que a Casa Esteja Cheia",
+    "path": "ate-que-a-casa-esteja-cheia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Castiçais de Ouro",
+    "path": "casticais-de-ouro",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cego de Jerico",
+    "path": "cego-de-jerico",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Contigo À Mesa",
+    "path": "contigo-mesa",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Continuar de Pé",
+    "path": "continuar-de-pe",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "De Malas Prontas",
+    "path": "de-malas-prontas",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "De Uma Só Vez",
+    "path": "de-uma-so-vez",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Deixa a Glória Vir",
+    "path": "deixa-a-gloria-vir",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Dia Quente",
+    "path": "dia-quente",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Dracena",
+    "path": "dracena",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Ele Não Falha",
+    "path": "ele-nao-falha",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Ele Vem Pra Medir",
+    "path": "ele-vem-pra-medir",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Enquanto É Dia",
+    "path": "enquanto-dia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Escondido Em Mim",
+    "path": "escondido-em-mim",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou Este Lugar",
+    "path": "eu-sou-este-lugar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Face a Face",
+    "path": "face-face",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Há Um Lugar Pra Mim",
+    "path": "ha-um-lugar-pra-mim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Isaías 9",
+    "path": "isaias-9",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Jardim Dos Inocentes",
+    "path": "jardim-dos-inocentes",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Joio Ou Trigo",
+    "path": "joio-ou-trigo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Lágrimas do Céu",
+    "path": "lagrimas-do-ceu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Louvado Seja o Cordeiro",
+    "path": "louvado-seja-o-cordeiro",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Mar de Vidro",
+    "path": "mar-de-vidro",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Mate a Besta",
+    "path": "mate-a-besta",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Minha Maior Riqueza",
+    "path": "minha-maior-riqueza",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Minha Prioridade",
+    "path": "minha-prioridade",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Na Gravidade da Presença",
+    "path": "na-gravidade-da-presenca",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Na Videira",
+    "path": "na-videira",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Nação Santa",
+    "path": "nacao-santa",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Nem Lua, Nem Sol",
+    "path": "nem-lua-nem-sol",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ninguém Por Perto",
+    "path": "ninguem-por-perto",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Nível Raso",
+    "path": "nivel-raso",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "No Teu Jardim",
+    "path": "no-teu-jardim",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "O Dia Que Será Pra Sempre",
+    "path": "o-dia-que-sera-pra-sempre",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Fim É Bom",
+    "path": "o-fim-e-bom",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Mel É Mais Doce",
+    "path": "o-mel-e-mais-doce",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Tempo Mudou",
+    "path": "o-tempo-mudou",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Onde o Mel é mais Doce",
+    "path": "onde-o-mel-e-mais-doce",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Parecido Contigo",
+    "path": "parecido-contigo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Paz Aos Homens",
+    "path": "paz-aos-homens",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Pisaduras",
+    "path": "pisaduras",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Quando o Céu Parou Pra Me Abraçar",
+    "path": "quando-o-ceu-parou-pra-me-abracar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Quem É Essa?",
+    "path": "quem--essa",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quem Tem Coragem Não Finge",
+    "path": "quem-tem-coragem-nao-finge",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Quero Acordar",
+    "path": "quero-acordar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Santidade Ao Senhor",
+    "path": "santidade-ao-senhor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Saudades de Casa",
+    "path": "saudades-de-casa",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Seja Feita a Tua Vontade",
+    "path": "seja-feita-tua-vontade",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Só Quero Ver Você",
+    "path": "so-quero-ver-voce",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Só Quero Ver Você (feat. Laura Souguellis)",
+    "path": "so-quero-ver-voce-feat-laura-souguellis",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tão Sublime",
+    "path": "tao-sublime",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Temos Tempo",
+    "path": "temos-tempo",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Tesouro de Valor",
+    "path": "tesouro-de-valor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Teu Amor Me Aproxima do Céu",
+    "path": "teu-amor-me-aproxima-do-ceu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Todo Dia, Até Morrer",
+    "path": "todo-dia-ate-morrer",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tudo Mais Pode Esperar",
+    "path": "tudo-mais-pode-esperar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Um Dia Em Tua Casa",
+    "path": "um-dia-em-tua-casa",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Um Presente Pro Futuro",
+    "path": "um-presente-pro-futuro",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Um Presente Pro Futuro",
+    "path": "um-presente-pro-futuro-",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Uma Luz Que Não Pode Se Apagar",
+    "path": "uma-luz-que-nao-pode-se-apagar",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Veja a Terra Te Adorar",
+    "path": "veja-a-terra-te-adorar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vem Derramar",
+    "path": "vem-derramar",
+    "default-tone": "C",
+    "categories": []
+  }
+]

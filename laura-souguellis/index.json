@@ -1,0 +1,236 @@
+[
+  {
+    "name": "A Vista Daqui (Anime o Coração)",
+    "path": "a-vista-daqui-anime-o-coracao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Abba",
+    "path": "abba",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Abba / Santo Espírito",
+    "path": "abba-santo-espirito",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Abra o Livro",
+    "path": "abra-o-livro",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Alegria Está Por Vir",
+    "path": "alegria-esta-por-vir",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Além (Em Meio À Multidão)",
+    "path": "alem-em-meio-a-multidao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Amado Por Mim",
+    "path": "amado-por-mim",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Amor Que Enche",
+    "path": "amor-que-enche-love-that-fills",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "But There Came Your Love",
+    "path": "but-there-came-your-love",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Canção de Desapego",
+    "path": "cancao-de-desapego",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Closer ",
+    "path": "closer",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Come And Sit With Me",
+    "path": "come-and-sit-with-me",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Dono do Meu Ser",
+    "path": "dono-do-meu-ser",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Em Teus Braços",
+    "path": "em-teus-bracos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Não Estou Só",
+    "path": "eu-nao-estou-so",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Filho Amado",
+    "path": "filho-amado",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Heaven Is In This Place",
+    "path": "heaven-is-in-this-place",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Incensário",
+    "path": "incensario",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Joy Is On The Way",
+    "path": "joy-is-on-the-way",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Liberdade",
+    "path": "liberdade-freedom-reigns",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Love Came Down",
+    "path": "love-came-down-versao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Love That Fills",
+    "path": "love-that-fills",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Mais Perto",
+    "path": "mais-perto",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Nada Que o Teu Amor Não Possa",
+    "path": "nada-que-o-teu-amor-nao-possa",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "No One Else ",
+    "path": "no-one-else",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Owner Of My Heart",
+    "path": "owner-of-my-heart",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pra Te Adorar Eu Vivo",
+    "path": "pra-te-adorar-eu-vivo-versao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Promessa",
+    "path": "promessa",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quem É Como Tu (No One Like You)",
+    "path": "quem-e-como-tu-no-one-like-you",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo Espírito",
+    "path": "santo-espirito",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Se Eles Soubessem",
+    "path": "se-eles-soubessem",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Só Quero Ver Você",
+    "path": "so-quero-ver-voce",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tua Presença",
+    "path": "tua-presenca--real",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tudo É Pra Tua Glória",
+    "path": "tudo-e-pra-tua-gloria-all-is-for-your-glory",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Veio o Teu Amor",
+    "path": "veio-o-teu-amor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vejo o Céu",
+    "path": "vejo-o-ceu",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Voltemos Ao Início / Amar Como Você Me Ama",
+    "path": "voltemos-ao-inicio-amar-como-voce-me-ama",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Voltemos Ao Início, Voltemos Ao Princípio",
+    "path": "voltemos-ao-inicio-voltemos-ao-principio",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "You Catch Me",
+    "path": "you-catch-me",
+    "default-tone": "C",
+    "categories": []
+  }
+]

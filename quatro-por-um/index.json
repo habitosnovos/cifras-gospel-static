@@ -1,0 +1,650 @@
+[
+  {
+    "name": "A Cruz",
+    "path": "a-cruz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Fé Em Deus",
+    "path": "a-fe-em-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Minha Esperança",
+    "path": "a-minha-esperanca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Ti Seja a Glória",
+    "path": "a-ti-seja-gloria",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Tua Graça Me Basta",
+    "path": "a-tua-graca-me-basta",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Abre Os Olhos do Meu Coração",
+    "path": "abra-os-olhos-do-meu-coracao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Abre Senhor Os Meu Olhos",
+    "path": "abre-senhor-os-meu-olhos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Adorar a Deus",
+    "path": "adorar-deus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Amar É Dividir",
+    "path": "amar-dividir",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Amizade",
+    "path": "amizade",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Amor de Mãe",
+    "path": "amor-de-mae",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Às Vezes",
+    "path": "as-vezes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Até Te Contemplar",
+    "path": "ate-te-contemplar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Casa Cheia",
+    "path": "casa-cheia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Cavarei Um Pouco Mais",
+    "path": "cavarei-um-pouco-mais",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Chama Viva",
+    "path": "chama-viva",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Cinco Pães e Dois Peixinhos",
+    "path": "cinco-paes-dois-peixinhos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Compaixão",
+    "path": "compaixao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Contigo Eu Venço",
+    "path": "contigo-eu-venco",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Corro Pra Ti",
+    "path": "corro-pra-ti",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Daniel",
+    "path": "daniel",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "De Volta a Inocência",
+    "path": "de-volta-inocencia",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Decidiu Me Amar",
+    "path": "decidiu-me-amar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deixa o Céu Descer",
+    "path": "deixa-o-ceu-descer",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Desertos de Noites",
+    "path": "desertos-de-noites",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Deus É Bom",
+    "path": "deus-e-bom",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Deus É Por Mim",
+    "path": "deus-e-por-mim",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Deus Me Ouvira",
+    "path": "deus-me-ouvira",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Deus Prometeu",
+    "path": "deus-prometeu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Diante de Ti",
+    "path": "diante-de-ti",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Dificíl É Te Deixar",
+    "path": "dificil-te-deixar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Enfrentarei",
+    "path": "enfrentarei",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Enquanto Houver Fôlego",
+    "path": "enquanto-houver-folego",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Então É Só Clamar",
+    "path": "entao-e-so-clamar",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Espírito, Enche a Minha Vida",
+    "path": "espirito-enche-minha-vida",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Estou Seguro",
+    "path": "estou-seguro",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Acredito",
+    "path": "eu-acredito",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Eu Canto",
+    "path": "eu-canto",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Celebrarei",
+    "path": "eu-celebrarei",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou de Cristo",
+    "path": "eu-sou-de-cristo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Tenho Sede",
+    "path": "eu-tenho-sede",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Tenho Um Chamado",
+    "path": "eu-tenho-um-chamado",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Eu Vejo a Glória",
+    "path": "eu-vejo-a-gloria",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Vou Gritar",
+    "path": "eu-vou-gritar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ferido Por Mim",
+    "path": "ferido-por-mim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Filho de Davi",
+    "path": "filho-de-davi",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Foi Por Amor",
+    "path": "foi-por-amor",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Guerreiro do Amor",
+    "path": "guerreiro-do-amor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Há Um Futuro",
+    "path": "ha-um-futuro",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Heróis",
+    "path": "herois",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hoje",
+    "path": "hoje",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Hoje É o Dia",
+    "path": "hoje--o-dia",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ir Mais Além",
+    "path": "ir-mais-alem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Isaias 53",
+    "path": "isaias-53",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Jesus Em Tua Presença",
+    "path": "jesus-em-tua-presenca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Lama Sabactani",
+    "path": "lama-sabactani",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Libera o Grito",
+    "path": "libera-grito",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Linda",
+    "path": "linda",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Mais de Ti",
+    "path": "mais-de-ti",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Mais Perto",
+    "path": "mais-perto",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Majestoso",
+    "path": "majestoso",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Me Amou",
+    "path": "me-amou",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Meu Mundo",
+    "path": "meu-mundo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Pranto",
+    "path": "meu-pranto",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Meu Tudo",
+    "path": "meu-tudo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Meus Lábios",
+    "path": "meus-labios",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Minha Canção",
+    "path": "minha-cancao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Minha Razão",
+    "path": "minha-razao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Na Contramão",
+    "path": "na-contramao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Nada É Impossível",
+    "path": "nada-e-impossivel",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Não Há Limites",
+    "path": "nao-ha-limites",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Não Temerei",
+    "path": "nao-temerei",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Não Temer",
+    "path": "nao-temer",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Não Tenho Pressa",
+    "path": "nao-tenho-pressa",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Amor de Deus",
+    "path": "o-amor-de-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Mover do Espírito",
+    "path": "o-mover-do-espirito",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Que Vier",
+    "path": "o-que-vier",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ouvirei a Tua Voz",
+    "path": "ouvirei-a-tua-voz",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Palavra de Vitórias",
+    "path": "palavra-de-vitorias",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Palavra",
+    "path": "palavra",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Pela Fé",
+    "path": "pela-fe",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Pescador de Almas",
+    "path": "pescador-de-almas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Porque Creio Em Ti",
+    "path": "porque-creio-em-ti",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Preciso de Ti",
+    "path": "preciso-de-ti",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Quando Não Estou Com Você",
+    "path": "quando-nao-estou-com-voce",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Quando Sinto Seu Toque",
+    "path": "quando-sinto-teu-toque",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quem Disse?",
+    "path": "quem-disse",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quero Voltar",
+    "path": "quero-voltar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Reteté",
+    "path": "retete",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Saudade",
+    "path": "saudade",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Só Em Jesus Há Salvação",
+    "path": "so-em-jesus-ha-salvacao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Te Agradeço",
+    "path": "te-agradeco",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Teu Perfume",
+    "path": "teu-perfume",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Todo Poderoso",
+    "path": "todo-poderoso",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Toma o Primeiro Lugar",
+    "path": "toma-o-primeiro-lugar",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Tradução do Amor",
+    "path": "traducao-do-amor-",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tradução do Amor",
+    "path": "traducao-do-amor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tu És Meu Tudo",
+    "path": "tu-es-meu-tudo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tua Presença Em Mim",
+    "path": "tua-presenca-em-mim",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tua Vontade",
+    "path": "tua-vontade",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tudo Vai Ficar Bem",
+    "path": "tudo-vai-ficar-bem",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Um Chamado",
+    "path": "tenho-um-chamado",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Um Chamado",
+    "path": "um-chamado",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Um Deus Tão Grande",
+    "path": "um-deus-tao-grande",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Um Milagre",
+    "path": "um-milagre",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vai Ser Pra Sempre",
+    "path": "vai-ser-pra-sempre",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vem de Deus",
+    "path": "vem-de-deus",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Vim Para Adorar-te",
+    "path": "vim-para-adorar-te",
+    "default-tone": "F",
+    "categories": []
+  }
+]

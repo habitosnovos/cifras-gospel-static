@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Algo Bem Maior",
+    "path": "algo-bem-maior",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Aqui Como No Céu",
+    "path": "aqui-como-no-ceu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Canção de Simeão",
+    "path": "cancao-de-simeao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "É Ele",
+    "path": "e-ele",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "É Ele + Tudo É Teu ( Pout-porri )",
+    "path": "e-ele-tudo-e-teu-pout-porri",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Emanuel",
+    "path": "emanuel",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Estou Seguindo (Tudo a Ti)",
+    "path": "estou-seguindo-tudo-a-ti",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Provei e Vi",
+    "path": "eu-provei-e-vi",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Grato Sou (I Thank God)",
+    "path": "grato-sou-i-thank-god",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Há Um Lugar (Eu Vou Perder)",
+    "path": "ha-um-lugar-eu-vou-perder",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Isso É Que É Viver",
+    "path": "isso-e-que-e-viver",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Maravilhosa Graça",
+    "path": "maravilhosa-graca",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Pai Nosso (Our Father) + Grandioso És Tu (Pot-Pourri)",
+    "path": "pai-nosso-our-father-grandioso-es-tu-pot-pourri",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Pardal",
+    "path": "pardal",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Rei da Glória",
+    "path": "rei-da-gloria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Santo",
+    "path": "santo",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Se Eu Tenho Uma Palavra (part. Mateus Brito)",
+    "path": "se-eu-tenho-uma-palavra-part-mateus-brito",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tu És + Águas Purificadoras + É Ele",
+    "path": "tu-es-aguas-purificadoras-e-ele",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tua Alegria",
+    "path": "tua-alegria",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Tudo é Teu",
+    "path": "tudo-e-teu",
+    "default-tone": "Bb",
+    "categories": []
+  }
+]

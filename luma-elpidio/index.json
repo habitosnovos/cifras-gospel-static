@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Algo Maior (part. Bruna Branco)",
+    "path": "algo-maior-part-bruna-branco",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ele Não Me Deixou",
+    "path": "ele-nao-me-deixou",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ele Vem",
+    "path": "ele-vem",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Eu Quebro Meu o Vaso (part. André Aquino)",
+    "path": "eu-quebro-meu-o-vaso-part-andre-aquino",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Eu Quebro o Meu Vaso",
+    "path": "eu-quebro-o-meu-vaso",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Graça",
+    "path": "graca",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Holy",
+    "path": "holy",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Insubstituível",
+    "path": "insubstituivel",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Leva-me Além (part. Bruna Branco)",
+    "path": "leva-me-alem-part-bruna-branco",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Liberta-me de Mim",
+    "path": "liberta-me-de-mim",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Mais de Ti",
+    "path": "mais-de-ti",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Na Mesa",
+    "path": "na-mesa",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Na Mesa (Feat. Luma Elpidio & Thais Oliveira)",
+    "path": "na-mesa-feat-luma-elpidio-thais-oliveira",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Nada Me Impede Mais (part. Carol Avelar, Nathália Blanke, Bruna Branco e Thais Oliveira)",
+    "path": "nada-me-impede-mais-part-carol-avelar-nathalia-blanke-bruna-branco-e-thais-oliveira",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Não Sei Mais Como Não Te Amar",
+    "path": "nao-sei-mais-como-nao-te-amar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "No Secreto",
+    "path": "no-secreto",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Nome (part. Gabriela Gomes)",
+    "path": "o-nome-part-gabriela-gomes",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Óh Minh'alma",
+    "path": "h-minhalma",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Por Você",
+    "path": "por-voce",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Que Amor É Esse",
+    "path": "que-amor--esse",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quem És Pra Mim",
+    "path": "quem-es-pra-mim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quero Ser Simples Como Tu",
+    "path": "quero-ser-simples-como-tu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo Deus",
+    "path": "santo-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Te Entreguei Meu Coração",
+    "path": "te-entreguei-meu-coracao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Teu Amor Por Mim",
+    "path": "teu-amor-por-mim",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Teu Amor Por Mim",
+    "path": "teu-amor-por-mim-",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tua Glória",
+    "path": "tua-gloria",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tudo Em Mim",
+    "path": "tudo-em-mim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vem a Mim",
+    "path": "vem-a-mim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Venho a Ti",
+    "path": "venho-a-ti",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Você Me Preenche",
+    "path": "voce-me-preenche",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Você Veio Pra Ficar",
+    "path": "voce-veio-pra-ficar",
+    "default-tone": "E",
+    "categories": []
+  }
+]

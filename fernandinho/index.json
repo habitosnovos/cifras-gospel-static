@@ -1318,5 +1318,11 @@
     "path": "yeshua",
     "default-tone": "Am",
     "categories": []
+  },
+  {
+    "name": "Moisés / Dançar Na Chuva / Vem Me Buscar / É Proibido / Os Que Confiam - Ao Vivo",
+    "path": "moises-dancar-na-chuva-vem-me-buscar-e-proibido-os-que-confiam-ao-vivo",
+    "default-tone": "Dm",
+    "categories": []
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Eu Falo Jesus",
+    "path": "eu-falo-jesus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Digno do Louvor",
+    "path": "digno-do-louvor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Jeova Rafah",
+    "path": "jeova-rafah",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "O Que Ele Fez",
+    "path": "o-que-ele-fez",
+    "default-tone": "C",
+    "categories": []
+  }
+]
