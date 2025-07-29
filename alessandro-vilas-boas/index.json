@@ -424,5 +424,11 @@
     "path": "yeshua",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Vem Habitar",
+    "path": "vem-habitar",
+    "default-tone": "Em",
+    "categories": []
   }
 ]

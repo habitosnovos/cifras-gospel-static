@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Camp Brasil 2023: Sara Evelyn",
+    "path": "camp-brasil-2023-sara-evelyn",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "É Pra Marchar",
+    "path": "e-pra-marchar",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Eternidade",
+    "path": "eternidade",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Me Atraiu",
+    "path": "me-atraiu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Um Pouco Mais",
+    "path": "um-pouco-mais",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Vem Senhor",
+    "path": "vem-senhor",
+    "default-tone": "Dm",
+    "categories": []
+  }
+]

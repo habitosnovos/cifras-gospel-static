@@ -1,0 +1,224 @@
+[
+  {
+    "name": "A calmaria",
+    "path": "a-calmaria",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "A Reforma",
+    "path": "a-reforma",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Abraço",
+    "path": "abraco",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Alívio",
+    "path": "alivio",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cansei",
+    "path": "cansei",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Conta Pra Mim",
+    "path": "conta-pra-mim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Conta Pra Mim",
+    "path": "conta-pra-mim-2",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Deixa a Lágrima Descer",
+    "path": "deixa-a-lagrima-descer",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Deixa a Lágrima Descer",
+    "path": "deixa-a-lagrima-descer-2",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Deixa Eu",
+    "path": "deixa-eu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Dependente (part. André e Felipe)",
+    "path": "dependente-part-andre-e-felipe",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Despreocupa (part. Nathália Braga)",
+    "path": "despreocupa-part-nathalia-braga",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Deus Está Te Ensinando",
+    "path": "deus-esta-te-ensinando",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Dias de Guerra",
+    "path": "dias-de-guerra",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Do Meu Jeito",
+    "path": "do-meu-jeito",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Está Tudo Bem",
+    "path": "esta-tudo-bem",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Estações (part. Misaias Oliveira)",
+    "path": "estacoes-part-misaias-oliveira",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Estou Te Esperando",
+    "path": "estou-te-esperando",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Eu Não Desisto",
+    "path": "eu-nao-desisto",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou Teu Pai / o Bondoso Amigo / Oh Porque Jesus Me Ama",
+    "path": "eu-sou-teu-pai-o-bondoso-amigo-oh-porque-jesus-me-ama",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Existe Vida Aí",
+    "path": "existe-vida-ai",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Irreal",
+    "path": "irreal",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Medley- Existe Vida Ai / Eu Não Desisto",
+    "path": "medley-existe-vida-ai-eu-nao-desisto",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Não Sou de Me Entregar (part. Caike Souza)",
+    "path": "nao-sou-de-me-entregar-part-caike-souza",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Amor Me Disse",
+    "path": "o-amor-me-disse",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Melhor Amigo",
+    "path": "o-melhor-amigo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "O Processo",
+    "path": "o-processo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Olhos Fechados",
+    "path": "olhos-fechados",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Paz da Minha Alma",
+    "path": "paz-da-minha-alma",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Por Causa Dele (part. Kellen Byanca)",
+    "path": "por-causa-dele-part-kellen-byanca",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Promessas (part. Daniela Araújo)",
+    "path": "promessas-part-daniela-araujo",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Quando Tudo Acabar",
+    "path": "quando-tudo-acabar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quero Te Encontrar No Pôr do Sol",
+    "path": "quero-te-encontrar-no-por-do-sol",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Simplesmente Nada (part. Jeferson Souza)",
+    "path": "simplesmente-nada-part-jeferson-souza",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tá Nas Mãos de Deus",
+    "path": "ta-nas-maos-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vai Ficar Tudo Bem",
+    "path": "vai-ficar-tudo-bem",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Você Consegue Sim",
+    "path": "voce-consegue-sim",
+    "default-tone": "Dm",
+    "categories": []
+  }
+]

@@ -150,5 +150,33 @@
   {
     "name": "MORADA",
     "path": "ministerio-morada"
+  },
+  {
+    "name": "Jessé Aguiar",
+    "path": "jesse-aguiar"
+  },
+  {
+    "name": "Gerson Rufino",
+    "path": "gerson-rufino"
+  },
+  {
+    "name": "Sara Evelyn",
+    "path": "sara-evelyn"
+  },
+  {
+    "name": "Comunidade da Vila da Penha",
+    "path": "comunidade-da-vila-da-penha"
+  },
+  {
+    "name": "Comunidade Evangélica Internacional da Zona Sul (CEIZS)",
+    "path": "comunidade-da-zona-sul"
+  },
+  {
+    "name": "Ministério Avivah",
+    "path": "ministerio-avivah"
+  },
+  {
+    "name": "Max do Corinho",
+    "path": "max-do-corinho"
   }
 ]

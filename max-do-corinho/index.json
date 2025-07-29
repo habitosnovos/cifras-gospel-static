@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Anjo Que Desce",
+    "path": "anjo-que-desce",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Grandão da Galiléia",
+    "path": "grandao-da-galileia",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Quem É de Peleja",
+    "path": "quem-e-de-peleja",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Anjos, Arcanjos e Querubins",
+    "path": "anjos-arcanjos-e-querubins",
+    "default-tone": "Gm",
+    "categories": []
+  }
+]

@@ -856,5 +856,11 @@
     "path": "yahweh-part-fernandinho",
     "default-tone": "Bm",
     "categories": []
+  },
+  {
+    "name": "Pra Onde Iremos? (feat. Felippe Valadão)",
+    "path": "pra-onde-iremos-feat-felippe-valadao",
+    "default-tone": "F#",
+    "categories": []
   }
 ]

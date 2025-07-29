@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Água Pra Beber",
+    "path": "gua-pra-beber",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Barreira",
+    "path": "barreira",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Batalha Travada É",
+    "path": "batalha-travada-e",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Cavaleiro do Céu",
+    "path": "cavaleiro-do-ceu",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "De Madrugada, Poe Azeite",
+    "path": "de-madrugada-poe-azeite-2",
+    "default-tone": "Am",
+    "categories": []
+  }
+]

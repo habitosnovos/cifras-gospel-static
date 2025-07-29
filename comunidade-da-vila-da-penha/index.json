@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Aos Teus Pés",
+    "path": "aos-teus-pes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Consagração",
+    "path": "consagracao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Deus Chama Todos os Povos",
+    "path": "deus-chama-todos-os-povos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Digno És",
+    "path": "digno-es",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Eis-me Aqui, Rei Jesus",
+    "path": "eis-me-aqui-rei-jesus",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou Especial Para Deus",
+    "path": "eu-sou-especial-para-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Gigante Vencido",
+    "path": "gigante-vencido",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Isaias 60",
+    "path": "isaias-60",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Louvor Ao Rei",
+    "path": "louvor-ao-rei",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Mas o Cristo Veio",
+    "path": "mas-o-cristo-veio",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Multiplicação",
+    "path": "multiplicacao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Nosso Deus É Soberano",
+    "path": "nosso-deus-e-soberano",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Nova Aliança",
+    "path": "nova-alianca",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ordem de Deus / Deus É Soberano (Pot-pourri)",
+    "path": "ordem-de-deus-deus-e-soberano",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quem Levará a Arca do Senhor",
+    "path": "quem-levara-a-arca-do-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Rasgando os Céus",
+    "path": "rasgando-os-ceus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Rei Dos Reis",
+    "path": "rei-dos-reis",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Senhor Dos Exércitos",
+    "path": "senhor-dos-exercitos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tempo de Guerra",
+    "path": "tempo-de-guerra",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Toma Tua Espada",
+    "path": "toma-tua-espada",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Tua Palavra",
+    "path": "tua-palavra",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Vou Te Tocar",
+    "path": "vou-te-tocar",
+    "default-tone": "E",
+    "categories": []
+  }
+]
