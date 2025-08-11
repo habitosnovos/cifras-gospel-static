@@ -22,5 +22,11 @@
     "path": "o-que-ele-fez",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Feliz Dia Dos Pais",
+    "path": "feliz-dia-dos-pais",
+    "default-tone": "D",
+    "categories": []
   }
 ]

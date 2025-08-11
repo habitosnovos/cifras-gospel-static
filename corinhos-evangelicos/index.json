@@ -2068,5 +2068,11 @@
     "path": "vamos-adorar-a-deus-eu-te-louvarei-senhor",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Agrada-te do Senhor",
+    "path": "agrada-te-do-senhor",
+    "default-tone": "C",
+    "categories": []
   }
 ]

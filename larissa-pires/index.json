@@ -1,0 +1,62 @@
+[
+  {
+    "name": "A Tua Palavra",
+    "path": "a-tua-palavra",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Adorarei e O Leão E O Cordeiro",
+    "path": "adorarei-e-o-leao-e-o-cordeiro",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Ainda Tem Lugar",
+    "path": "ainda-tem-lugar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ele Vira",
+    "path": "ele-vira",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Enquanto Você Louva",
+    "path": "enquanto-voce-louva",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Intimidade",
+    "path": "intimidade",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Não Vai Ficar Assim",
+    "path": "nao-vai-ficar-assim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Rei da Glória",
+    "path": "o-rei-da-gloria",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Regente Dos Meus Dias",
+    "path": "regente-dos-meus-dias",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vaso Que Lhe Apraz",
+    "path": "vaso-que-lhe-apraz",
+    "default-tone": "C",
+    "categories": []
+  }
+]

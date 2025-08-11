@@ -304,5 +304,11 @@
     "path": "eu-vou-alem",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Anseio (part. Morada)",
+    "path": "anseio-part-morada",
+    "default-tone": "G",
+    "categories": []
   }
 ]

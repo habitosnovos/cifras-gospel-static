@@ -430,5 +430,29 @@
     "path": "vem-habitar",
     "default-tone": "Em",
     "categories": []
+  },
+  {
+    "name": "Cristo Sustenta",
+    "path": "cristo-sustenta-2",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Cristo Sustenta",
+    "path": "cristo-sustenta",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Filho do Homem",
+    "path": "filho-do-homem",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Todos Os Meus Dias",
+    "path": "todos-os-meus-dias",
+    "default-tone": "G",
+    "categories": []
   }
 ]

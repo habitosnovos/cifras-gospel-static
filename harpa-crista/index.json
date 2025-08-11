@@ -4606,5 +4606,11 @@
     "path": "vou-rumo-ao-meu-lar",
     "default-tone": "Em",
     "categories": []
+  },
+  {
+    "name": "Harpa Cristã 418",
+    "path": "harpa-crista-418",
+    "default-tone": "F",
+    "categories": []
   }
 ]

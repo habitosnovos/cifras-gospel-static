@@ -184,5 +184,11 @@
     "path": "voaremos-part-julia-vitoria",
     "default-tone": "G#m",
     "categories": []
+  },
+  {
+    "name": "Ele Me Ama",
+    "path": "ele-me-ama",
+    "default-tone": "C",
+    "categories": []
   }
 ]

@@ -1042,5 +1042,11 @@
     "path": "zion",
     "default-tone": "Bb",
     "categories": []
+  },
+  {
+    "name": "Espírito Santo (Inhabit)",
+    "path": "espirito-santo-inhabit",
+    "default-tone": "D",
+    "categories": []
   }
 ]

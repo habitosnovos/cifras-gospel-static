@@ -334,5 +334,11 @@
     "path": "yeshua",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "O Vimos Subir",
+    "path": "o-vimos-subir",
+    "default-tone": "E",
+    "categories": []
   }
 ]

@@ -1330,5 +1330,11 @@
     "path": "voce-ou-eu",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Desenho de Deus",
+    "path": "desenho-de-deus",
+    "default-tone": "B",
+    "categories": []
   }
 ]

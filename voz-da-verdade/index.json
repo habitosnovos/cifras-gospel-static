@@ -1,0 +1,2258 @@
+[
+  {
+    "name": "A Beira do Mar da Galiléia",
+    "path": "a-beira-do-mar-da-galileia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Bíblia Tem Razão",
+    "path": "a-biblia-tem-razao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Carta",
+    "path": "a-carta",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Chance",
+    "path": "a-chance",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Chuva e o Orvalho",
+    "path": "a-chuva-e-o-orvalho",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Contradição da Cruz",
+    "path": "a-contradicao-da-cruz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Escolha",
+    "path": "a-escolha",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Espera",
+    "path": "a-espera",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Estrela",
+    "path": "a-estrela",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Fé Veio de Nazaré",
+    "path": "a-fe-veio-de-nazare",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Felicidade",
+    "path": "a-felicidade",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Igreja",
+    "path": "a-igreja",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Ilha",
+    "path": "a-ilha",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Luz do Justo",
+    "path": "a-luz-do-justo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Oferta",
+    "path": "a-oferta",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Ostra e a Pérola",
+    "path": "a-ostra-e-a-perola",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Procura",
+    "path": "a-procura",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Razão do Meu Viver",
+    "path": "a-razao-do-meu-viver",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Solução",
+    "path": "a-solucao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Última Decolagem",
+    "path": "a-ultima-decolagem",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Viagem",
+    "path": "a-viagem",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Volta de Jesus",
+    "path": "a-volta-de-jesus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Abrindo As Asas",
+    "path": "abrindo-as-asas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Acima Das Circustâncias",
+    "path": "acima-das-circustancias",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Adoração",
+    "path": "adoracao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Adoradores do Rei",
+    "path": "adoradores-do-rei",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Adorai o Rei",
+    "path": "adorai-ao-rei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "África",
+    "path": "africa",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Agradecimento",
+    "path": "agradecimento",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Água e Cobertor",
+    "path": "agua-o-cobertor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Águas Não Discutem Com Barreiras",
+    "path": "aguas-nao-discutem-com-barreiras",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Águas",
+    "path": "aguas",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Águia",
+    "path": "aguia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ainda Estou Aqui",
+    "path": "ainda-estou-aqui",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Além do Limite do Homem",
+    "path": "alem-do-limite-do-homem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Além do Rio Azul",
+    "path": "alem-do-rio-azul",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Além Dos Montes",
+    "path": "alem-dos-montes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Aliança",
+    "path": "alianca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Alimento",
+    "path": "alimento",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Alma Livre",
+    "path": "alma-livre",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Amigo Certo",
+    "path": "amigo-certo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Amor Maior",
+    "path": "amor-maior",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Anjos Vestidos de Homens",
+    "path": "543124",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Ansiedade",
+    "path": "ansiedade",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Aprenda Com Jesus",
+    "path": "aprenda-com-jesus",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Aproximação",
+    "path": "aproximacao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Arco-Iris",
+    "path": "arco-iris",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Até Aqui Eu Cheguei",
+    "path": "ate-aqui-eu-cheguei",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Até o Fim",
+    "path": "ate-fim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Até Quando?",
+    "path": "ate-quando",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Avivamento",
+    "path": "avivamento",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Água Em Vinho",
+    "path": "agua-em-vinho",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Babilônia Não É Seu Lugar",
+    "path": "babilonia-nao--o-seu-lugar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Basta ter Jesus",
+    "path": "basta-ter-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Bom Combate",
+    "path": "bom-combate",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Borboleta de Deus",
+    "path": "borboletas-de-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Brilhará",
+    "path": "brilhara",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Calor do Seu Carinho",
+    "path": "calor-do-seu-carinho",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Caminhada",
+    "path": "caminhada",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Cantarei Ao Senhor",
+    "path": "cantarei-ao-senhor",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Carne e Sangue",
+    "path": "carne-e-sangue",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Carros e Cavaleiros",
+    "path": "carros-e-cavalheiros",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Casa Fortíssima",
+    "path": "casa-fortissima",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Chave da Vitória",
+    "path": "chave-da-vitoria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Chuva de Sangue",
+    "path": "chuva-de-sangue",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Clamai Cantando",
+    "path": "clamai-cantando",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Começar do Zero",
+    "path": "comecar-do-zero",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Concerto",
+    "path": "concerto",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Confissão",
+    "path": "confissao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Conquiste",
+    "path": "conquiste",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Consumado",
+    "path": "consumado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Coração de Cera",
+    "path": "coracao-de-cera",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Coração de Pedra Em Coração de Carne",
+    "path": "coracao-de-pedra-em-coracao-de-carne",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Coração Puro",
+    "path": "coracao-puro",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Coração Quebrado",
+    "path": "coracao-quebrado",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Coração Valente",
+    "path": "coracao-valente",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Coragem",
+    "path": "coragem-2",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Coragem",
+    "path": "coragem",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Creia",
+    "path": "creia",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Creia Nele",
+    "path": "creia-nele",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Crente Não Morre Na Praia",
+    "path": "crente-nao-morre-na-praia",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Cristo, a Resposta",
+    "path": "cristo-a-resposta",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Cristo",
+    "path": "cristo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Cristo Reina",
+    "path": "cristo-reina",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Cristo Vive Em Mim",
+    "path": "cristo-vive-em-mim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Custe o Que Custar",
+    "path": "custe-que-custar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Da Glória Para a Cruz",
+    "path": "da-gloria-para-a-cruz",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Dá-me Força",
+    "path": "da-me-forca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "De Repente",
+    "path": "de-repente",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "De Volta Pro Futuro",
+    "path": "de-volta-pro-futuro",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Debaixo Das Asas",
+    "path": "debaixo-das-asas",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Decidi Por Jesus",
+    "path": "decidi-por-jesus",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Desafio",
+    "path": "desafio",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Desejo de Vida",
+    "path": "desejo-de-vida",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Deus Conosco",
+    "path": "deus-conosco",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Deus de Israel",
+    "path": "deus-de-israel",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deus de Palavra",
+    "path": "deus-de-palavra",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deus Dormiu Lá Em Casa",
+    "path": "deus-dormiu-la-em-casa",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Deus É Real",
+    "path": "deus-e-real",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Deus Não Desista de Mim",
+    "path": "deus-nao-desista-de-mim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Deus Tem Algo a Dizer",
+    "path": "deus-tem-algo-a-dizer",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Deus",
+    "path": "deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Digno de Glória",
+    "path": "digno-de-honra",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Doce Espírito Santo",
+    "path": "doce-espirito-santo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Dono do Mundo",
+    "path": "dono-do-mundo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Dono do Reino",
+    "path": "dono-do-reino",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "É o Senhor",
+    "path": "e-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "É Tempo",
+    "path": "e-tempo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Ele Quebra o Ferro e o Aço",
+    "path": "ele-quebra-o-ferro-e-o-aco",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ele Virá",
+    "path": "ele-vira",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "El-Shadai",
+    "path": "el-shadai",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Encontro Eterno",
+    "path": "encontro-eterno",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Entrada Triunfal",
+    "path": "entrada-triunfal",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Esconderijo",
+    "path": "escoderijo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Escudo",
+    "path": "escudo-2",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Escudo",
+    "path": "escudo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Esperança",
+    "path": "esperanca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Estar Em Ti",
+    "path": "estar-em-ti",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Eu Acredito",
+    "path": "eu-acredito",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu e Deus",
+    "path": "eu-e-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Navegarei",
+    "path": "eu-navegarei",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Navegarei",
+    "path": "eu-navegarei-",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Vi Passar",
+    "path": "eu-vi-passar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Vi",
+    "path": "eu-vi",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Exaltai",
+    "path": "exaltai",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Expressão de Vida",
+    "path": "expressao-de-vida",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Fabrica de Deus",
+    "path": "fabrica-de-deus",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Facho de Luz?",
+    "path": "facho-de-luz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Facho de Luz",
+    "path": "facho-de-luz-",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Fé",
+    "path": "fe",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Fiel e Verdadeiro",
+    "path": "fiel-e-verdadeiro",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Filho de Leão",
+    "path": "filho-de-leao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Filho Pródigo",
+    "path": "filho-prodigo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Filhos do Vento",
+    "path": "filhos-do-vento",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Fogo de Amor",
+    "path": "fogo-de-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Gênesis",
+    "path": "genesis",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Gideão",
+    "path": "gideao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Glória Ao Santo",
+    "path": "gloria-ao-santo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Glória",
+    "path": "gloria",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Gol da Minha Vida",
+    "path": "gol-da-minha-vida",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Graça Maravilhosa",
+    "path": "graca-maravilhosa",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Graça",
+    "path": "graca",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Grito de Liberdade",
+    "path": "grito-de-liberdade",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Guarda-me Ó Deus",
+    "path": "guarda-me-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Guerreiros",
+    "path": "guerreiros",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Guia de Israel",
+    "path": "guia-de-israel",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Heróis",
+    "path": "herois",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino de Jerusalém",
+    "path": "hino-de-jerusalem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "História Sem Fim",
+    "path": "historia-sem-fim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hora de Louvor",
+    "path": "hora-de-louvor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Hora do Salvador",
+    "path": "hora-do-salvador",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Hosana",
+    "path": "hosana",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ia Habib",
+    "path": "querido-la-habib",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Igrejinha",
+    "path": "igrejinha",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Imagem de Deus",
+    "path": "imagem-de-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Impossível",
+    "path": "impossivel",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Infinito Amor",
+    "path": "infinito-amor",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Inocente",
+    "path": "inocente",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Invisível",
+    "path": "invisivel",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Isaías 9",
+    "path": "isaias-9",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Jamais Esquecerei",
+    "path": "jamais-esquecerei",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Janela",
+    "path": "janela",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus",
+    "path": "jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Jesus Faz Novas Todas As Coisas",
+    "path": "jesus-faz-novas-todas-as-coisas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Jesus, o Messias",
+    "path": "jesus-o-messias",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus Vive",
+    "path": "jesus-vive",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Jesus Vive / Refrigera-me / A Luz do Justo / Sai o Sol / Cristo, a Resposta / Quarta Dimensão (Pot-Pourri)",
+    "path": "pout-pouri",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Jubiloso",
+    "path": "jubiloso",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Lázaro",
+    "path": "lazaro",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Levanta-te",
+    "path": "levanta-te",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Levante a Cabeça",
+    "path": "levante-a-cabeca",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Liberdade",
+    "path": "liberdade",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Linda Manhã",
+    "path": "linda-manha",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Lindo Olhar",
+    "path": "lindo-olhar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Livre Para Voar",
+    "path": "livre-para-voar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Livre",
+    "path": "livre",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Livro da Vida",
+    "path": "livro-da-vida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Loucura Santa",
+    "path": "loucura-santa",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Louvai",
+    "path": "louvai",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Lugar Bonito",
+    "path": "lugar-bonito",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Lute",
+    "path": "lute",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Luz",
+    "path": "luz",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Luz Divina",
+    "path": "luz-divina",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Madeira",
+    "path": "madeira",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Majestade",
+    "path": "majestade",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Maktub (Está Escrito)",
+    "path": "maktub-esta-escrito",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Mana no deserto",
+    "path": "mana-no-deserto",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Manifesta-te Senhor",
+    "path": "manifesta-te-senhor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Mão Que Fez o Mundo",
+    "path": "mao-que-fez-mundo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Marcas de Amor",
+    "path": "marcas-de-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Máscara",
+    "path": "mascara",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Me Leve Ao Lar",
+    "path": "me-leva-ao-lar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Menino Abandonado",
+    "path": "menino-abandonado",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Meu Coração Sorri",
+    "path": "meu-coracao-sorri",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Meu Destino",
+    "path": "meu-destino",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Meu Grito",
+    "path": "meu-grito",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Mil Anos Em Um Dia",
+    "path": "mil-anos-em-um-dia",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Momento de Glória",
+    "path": "momento-de-gloria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Monte Das Oliveiras",
+    "path": "monte-das-oliveiras",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Mulher do Perfume",
+    "path": "mulher-do-perfume",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Multidões",
+    "path": "multidoes",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Mundo de Ilusões",
+    "path": "mundo-de-ilusoes",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Nada",
+    "path": "nada",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Não É Sacrifício",
+    "path": "nao-e-sacrificio",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Não É Tarde Demais",
+    "path": "nao-e-tarde-demais",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Não Tinha Onde Chorar",
+    "path": "nao-tinha-onde-chorar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Não Vou Mais Ceder",
+    "path": "nao-vou-mais-ceder",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Nas Asas do Vento",
+    "path": "nas-asas-do-vento",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Nasci Pra Vencer",
+    "path": "nasci-pra-vencer",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Natureza Divina",
+    "path": "natureza-divina",
+    "default-tone": "Bbm",
+    "categories": []
+  },
+  {
+    "name": "Nem Só de Pão",
+    "path": "nem-so-de-pao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "No Princípio",
+    "path": "no-principio",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nome Doce",
+    "path": "nome-doce",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Nome Excelso",
+    "path": "nome-excelso",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Num Piscar de Olhos",
+    "path": "num-piscar-de-olhos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Nunca Diga Nunca",
+    "path": "nunca-diga-nunca",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Amor de Deus",
+    "path": "o-amor-de-deus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "O Anjo do Senhor",
+    "path": "o-anjo-do-senhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Cálice",
+    "path": "o-calice",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Carpinteiro É o Oleiro",
+    "path": "o-carpinteiro-e-o-oleiro",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Castigo",
+    "path": "o-castigo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Céu",
+    "path": "o-ceu",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "O Céu É Para Cima",
+    "path": "o-ceu-para-cima",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Convite",
+    "path": "o-convite",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Escolhido",
+    "path": "o-escolhido",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Escudo",
+    "path": "o-escudo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Espelho",
+    "path": "o-espelho",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Hino do Soldado",
+    "path": "o-hino-do-soldado",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Jordão Ouviu Sua Voz",
+    "path": "o-jordao-ouviu-sua-voz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Ladrão Perdoado",
+    "path": "o-ladrao-perdoado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Maior Dos Sonhos",
+    "path": "o-maior-dos-sonhos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Manto",
+    "path": "o-manto",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Médico e As Feridas",
+    "path": "o-medico-e-as-feridas",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Melhor Amigo",
+    "path": "o-melhor-amigo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Melhor de Deus Está Por Vir",
+    "path": "o-melhor-de-deus-esta-por-vir",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Meu Amado",
+    "path": "o-meu-amado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Milagre Bateu Em Minha Porta",
+    "path": "o-milagre-bateu-em-minha-porta",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Oleiro e o Carpinteiro",
+    "path": "o-oleiro-e-o-carpinteiro",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "O Poder da Criação",
+    "path": "o-poder-da-criacao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Que Mais Vou Querer?",
+    "path": "o-que-mais-vou-querer",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Tarbernáculo",
+    "path": "o-tarbernaculo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Trono de Deus",
+    "path": "o-trono-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Vaso e o Oleiro",
+    "path": "o-vaso-o-oleiro",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Vencedor",
+    "path": "o-vencedor",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "O Verbo Voltará",
+    "path": "o-verbo-voltara",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Verbo",
+    "path": "o-verbo",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "O Verdadeiro Adorador",
+    "path": "o-verdadeiro-adorador",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Oásis",
+    "path": "oasis",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Obrigado",
+    "path": "obrigado",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Olhando Para o Céu",
+    "path": "olhando-para-o-ceu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Onde Estavas Tu?",
+    "path": "onde-estavas-tu",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Onde Eu For",
+    "path": "onde-eu-for",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Os Anjos",
+    "path": "os-anjos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Outrora",
+    "path": "outrora",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Pai e Filho",
+    "path": "pai-e-filho",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Paixão Pelo Amor",
+    "path": "paixao-pelo-amor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Palavra da Vida",
+    "path": "palavra-da-vida-",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Palavra da Vida",
+    "path": "palavra-da-vida",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Palavra de Deus",
+    "path": "palavra-de-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Pão Vivo",
+    "path": "pao-vivo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Paradoxo",
+    "path": "paradoxo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Pássaro Veloz",
+    "path": "passaro-veloz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Paz",
+    "path": "paz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Peça Perdida",
+    "path": "peca-perdida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Pedras",
+    "path": "pedras",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pense Duas Vezes",
+    "path": "pense-duas-vezes",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Perdão",
+    "path": "perdao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Pomba Minha",
+    "path": "pomba-minha",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Por Amor",
+    "path": "por-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Por Qual Motivo",
+    "path": "por-qual-motivo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Porta Aberta",
+    "path": "porta-aberta",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Posso",
+    "path": "posso",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Pra Nunca Mais Chorar",
+    "path": "pra-nunca-mais-chorar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Pra Quê?",
+    "path": "pra-que-",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Primavera",
+    "path": "primavera",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Profetiza",
+    "path": "profetiza",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Projeto Divino",
+    "path": "projeto-divino-2",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Projeto Divino",
+    "path": "projeto-divino",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Projeto No Deserto",
+    "path": "projeto-no-deserto",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Proteção",
+    "path": "protecao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quando Deus Se Cala",
+    "path": "quando-deus-se-cala",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quando",
+    "path": "quando",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Quando a Noite Chegava",
+    "path": "quando-noite-chegava",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quantas Vezes",
+    "path": "quantas-vezes",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quanto Amor",
+    "path": "quanto-amor",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Quarta Dimensão",
+    "path": "quarta-dimensao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Que Horas São?",
+    "path": "que-horas-sao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Que Seria de Mim",
+    "path": "que-seria-de-mim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quem É Este?",
+    "path": "quem-este",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quem É o Caminho",
+    "path": "quem-o-caminho",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Quem É o Homem",
+    "path": "quem-o-homem",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Quem Sou Eu",
+    "path": "quem-sou-eu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Querer É Poder",
+    "path": "querer-e-poder",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quero Conhecer-te",
+    "path": "quero-conhecer-te",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quero Mais de Ti",
+    "path": "quero-mais-de-ti",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Rasgue Os Céus",
+    "path": "rasgue-os-ceus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Recomeçar",
+    "path": "recomecar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Reflexo",
+    "path": "reflexo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Refrigera-me",
+    "path": "refrigera-me",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Refúgio Forte",
+    "path": "refugio-forte",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Reggae de Jesus",
+    "path": "reggae-de-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Rei da Glória",
+    "path": "rei-da-gloria",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Renova-me",
+    "path": "renova-me",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Resgate",
+    "path": "resgate",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Resistência",
+    "path": "resistencia",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Restaura-me",
+    "path": "restaura-me",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Revelação do Amor",
+    "path": "revelacao-do-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Rio de Deus",
+    "path": "rio-de-deus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Rocha Eterna",
+    "path": "rocha-eterna",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sabe o Quanto Deus Te Ama ?",
+    "path": "sabe-o-quanto-deus-te-ama-",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Sabedoria de Deus",
+    "path": "sabedoria-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sai o Sol",
+    "path": "sai-sol",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salmo 119",
+    "path": "salmo-119",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Samuel",
+    "path": "samuel",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sangue Cor Púrpura",
+    "path": "sangue-cor-purpura",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sangue Salvador",
+    "path": "sangue-salvador",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Santo, Santo",
+    "path": "santo-santo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Santo",
+    "path": "santo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sapatada",
+    "path": "sapatada",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sem Você Não Dá",
+    "path": "sem-voce-nao-da",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Semente de Trigo",
+    "path": "semente-de-trigo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sempre Deus",
+    "path": "sempre-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Senhor do Universo",
+    "path": "senhor-do-universo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sete Horas da Manhã",
+    "path": "sete-horas-da-manha",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Só Tendo Jesus",
+    "path": "so-tendo-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sol e Chuva",
+    "path": "sol-chuva",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sol No Inverno",
+    "path": "sol-no-inverno",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Soldado Ferido",
+    "path": "soldado-ferido",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Soldato Ferito",
+    "path": "soldato-ferito-italiano",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Solidão Nunca Mais",
+    "path": "solidao-nunca-mais",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sombras",
+    "path": "sombras",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Somos Mais Que Vencedores",
+    "path": "somos-mais-que-vencedores",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sonda-me",
+    "path": "sonda-me",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sonhos",
+    "path": "sonhos",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Sou Jesus",
+    "path": "sou-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sou Um Milagre",
+    "path": "sou-um-milagre",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sou Um Milagre / Escudo / Porque Ele Vive",
+    "path": "sou-um-milagre-escudo-porque-ele-vive",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sublime",
+    "path": "sublime",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tabernáculo",
+    "path": "tabernaculo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Talita-Cumi",
+    "path": "talita-cumi",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Te Adoro Senhor",
+    "path": "te-adoro-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Teatro da Vida",
+    "path": "teatro-da-vida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tenho Alguém",
+    "path": "tenho-alguem",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Terra do Pão",
+    "path": "terra-do-pao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "The Shield",
+    "path": "the-shield-",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "The Shield",
+    "path": "the-shield",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Todo Poder",
+    "path": "todo-poder",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Toque Nele",
+    "path": "toque-nele",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tornou-se Pobre",
+    "path": "tornou-se-pobre",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Torre Forte",
+    "path": "torre-forte",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Toureiro da Cruz",
+    "path": "toureiro-da-cruz",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Trem Das Sete",
+    "path": "trem-das-sete",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tú Me Amas?",
+    "path": "tu-me-amas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tudo Ele Sabe o Que Faz",
+    "path": "tudo-ele-sabe-o-que-faz",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Tudo Mudou",
+    "path": "tudo-mudou",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vale da Paz",
+    "path": "vale-da-paz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vale de Jaboque",
+    "path": "vale-de-jaboque",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vale Dos Ossos Secos",
+    "path": "vale-dos-ossos-secos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vaso Perfeito",
+    "path": "vaso-perfeito",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vejo Em Parte",
+    "path": "vejo-em-parte",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vencendo Batalhas",
+    "path": "vencendo-batalhas",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vencendo Vem Jesus",
+    "path": "vencendo-vem-jesus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vencer Ou Vencer",
+    "path": "vencer-ou-vencer",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vendo o Invisível",
+    "path": "vendo-o-invisivel",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Venham Todos",
+    "path": "venham-todos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vento Oriental",
+    "path": "vento-oriental",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Vida",
+    "path": "vida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vida e Paz",
+    "path": "vida-paz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Videira Verdadeira",
+    "path": "videira-verdadeira",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vinde",
+    "path": "vinde",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Visão da Vitória",
+    "path": "visao-da-vitoria",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Voar",
+    "path": "voar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Volte Para Vencer",
+    "path": "volte-para-vencer",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Voz da Verdade",
+    "path": "voz-da-verdade",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Voz de Arcanjo",
+    "path": "voz-de-arcanjo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Zaqueu",
+    "path": "zaqueu",
+    "default-tone": "A",
+    "categories": []
+  }
+]

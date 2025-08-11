@@ -1,0 +1,170 @@
+[
+  {
+    "name": "A Estátua",
+    "path": "a-estatua",
+    "default-tone": "G#m",
+    "categories": []
+  },
+  {
+    "name": "Abrigo",
+    "path": "abrigo",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Aonde Está Deus?",
+    "path": "aonde-esta-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aonde Esta Deus",
+    "path": "aonde-esta-deus-2",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ateu",
+    "path": "ateu",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Confiar",
+    "path": "confiar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Descanso",
+    "path": "descanso",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Em Teus Braços",
+    "path": "em-teus-bracos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Escolho Ser Fiel",
+    "path": "escolho-ser-fiel",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Essência",
+    "path": "essencia",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Eu Sei",
+    "path": "eu-sei",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Herege",
+    "path": "herege",
+    "default-tone": "Bbm",
+    "categories": []
+  },
+  {
+    "name": "I Dare You to Move",
+    "path": "i-dare-you-to-move",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Jesus É o Caminho",
+    "path": "jesus-e-o-caminho",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Jesus É o Caminho (Sacadas do Mauro)",
+    "path": "jesus-e-o-caminho-sacadas-do-mauro",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Melhor",
+    "path": "melhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Super Herói e o Impostor",
+    "path": "o-super-heroi-e-o-impostor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Tiro",
+    "path": "o-tiro",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "O Tiro (part. Scatolove)",
+    "path": "o-tiro-ft-scatolove",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Oceans",
+    "path": "oceans",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Para Onde Irei",
+    "path": "para-onde-irei",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Paz de Espirito",
+    "path": "paz-de-espirito",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Pequeninos",
+    "path": "pequeninos",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Pra Você Dormir",
+    "path": "pra-voce-dormir",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tua Casa (feat. Rends)",
+    "path": "tua-casa-feat-rends",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tudo Fica Bem",
+    "path": "tudo-fica-bem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Veja (Behold) (part. Heloísa Rosa)",
+    "path": "veja-behold-part-heloisa-rosa",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Volta Criança (v ø l t a c r i a n ç a)",
+    "path": "volta-crianca-v-o-l-t-a-c-r-i-a-n-c-a",
+    "default-tone": "D",
+    "categories": []
+  }
+]

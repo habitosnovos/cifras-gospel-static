@@ -2050,5 +2050,11 @@
     "path": "your-presence-is-heaven-feat-israel-houghton",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Louvor de Miriã",
+    "path": "louvor-de-miria",
+    "default-tone": "Em",
+    "categories": []
   }
 ]
