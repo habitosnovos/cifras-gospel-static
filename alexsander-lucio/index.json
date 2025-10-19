@@ -1,0 +1,50 @@
+[
+  {
+    "name": "O Fogo Arderá",
+    "path": "o-fogo-ardera",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Buscar-me-eis e Me Achareis",
+    "path": "buscar-me-eis-e-me-achareis",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salva-vidas",
+    "path": "salva-vidas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Buscar-me-eis e Me Achareis",
+    "path": "buscar-me-eis-e-me-achareis-2",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sempre Estive Aqui",
+    "path": "sempre-estive-aqui",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Embaixadores do Reino",
+    "path": "embaixadores-do-reino",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Alexsander Lúcio",
+    "path": "alexsander-lucio",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Es a Vida",
+    "path": "es-a-vida",
+    "default-tone": "E",
+    "categories": []
+  }
+]
