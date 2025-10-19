@@ -406,5 +406,11 @@
     "path": "vem-derramar",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Sujo e Descalço",
+    "path": "sujo-e-descalco",
+    "default-tone": "A",
+    "categories": []
   }
 ]

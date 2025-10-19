@@ -682,5 +682,17 @@
     "path": "voce-merece",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Meu Maior Desejo",
+    "path": "meu-maior-desejo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vivo Está",
+    "path": "vivo-esta",
+    "default-tone": "G",
+    "categories": []
   }
 ]

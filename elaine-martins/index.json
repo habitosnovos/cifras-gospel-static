@@ -406,5 +406,17 @@
     "path": "volte-a-sonhar",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Jesus Voltará",
+    "path": "jesus-voltara",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Medley Arrebatamento - Sete Trombetas - Geração do Arrebatamento",
+    "path": "medley-arrebatamento-sete-trombetas-geracao-do-arrebatamento",
+    "default-tone": "F#m",
+    "categories": []
   }
 ]

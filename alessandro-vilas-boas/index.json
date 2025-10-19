@@ -454,5 +454,11 @@
     "path": "todos-os-meus-dias",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Deus De Paz",
+    "path": "deus-de-paz",
+    "default-tone": "Em",
+    "categories": []
   }
 ]

@@ -958,5 +958,11 @@
     "path": "vou-me-lembrar",
     "default-tone": "F",
     "categories": []
+  },
+  {
+    "name": "Nosso Erro",
+    "path": "nosso-erro",
+    "default-tone": "D",
+    "categories": []
   }
 ]

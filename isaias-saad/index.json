@@ -310,5 +310,17 @@
     "path": "anseio-part-morada",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "EM MINHA PRÓPRIA CASA / VASO NOVO (part. fhop)",
+    "path": "em-minha-propria-casa-vaso-novo-part-fhop",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Universo (part. Ludi)",
+    "path": "meu-universo-part-ludi",
+    "default-tone": "F#",
+    "categories": []
   }
 ]

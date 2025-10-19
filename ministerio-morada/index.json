@@ -736,5 +736,23 @@
     "path": "vim-para-adorar-te-estou-so-digno-pot-pourri",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Aliança/ Nele Você Pode Confiar (pot-pourri)",
+    "path": "alianca-nele-voce-pode-confiar-pot-pourri-2",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Deixa Queimar / Quando Ele Vem",
+    "path": "deixa-queimar-quando-ele-vem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Só Tu És Santo / É Tudo sobre Você",
+    "path": "so-tu-es-santo-e-tudo-sobre-voce",
+    "default-tone": "C",
+    "categories": []
   }
 ]

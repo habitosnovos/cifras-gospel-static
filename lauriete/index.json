@@ -886,5 +886,17 @@
     "path": "vou-profetizar",
     "default-tone": "A",
     "categories": []
+  },
+  {
+    "name": "Medley 1",
+    "path": "medley-1",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ninguém Impedirá",
+    "path": "ninguem-impedira",
+    "default-tone": "G",
+    "categories": []
   }
 ]

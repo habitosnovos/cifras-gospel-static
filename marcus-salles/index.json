@@ -400,5 +400,11 @@
     "path": "yahwe-minha-esperanca",
     "default-tone": "A",
     "categories": []
+  },
+  {
+    "name": "Um Chamado",
+    "path": "um-chamado",
+    "default-tone": "E",
+    "categories": []
   }
 ]

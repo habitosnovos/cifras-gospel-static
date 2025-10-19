@@ -1324,5 +1324,23 @@
     "path": "moises-dancar-na-chuva-vem-me-buscar-e-proibido-os-que-confiam-ao-vivo",
     "default-tone": "Dm",
     "categories": []
+  },
+  {
+    "name": "Em tua Presença (In Your Presence)",
+    "path": "em-tua-presenca-in-your-presence",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Recebe A Cura + Unção Sem Limites",
+    "path": "recebe-a-cura-uncao-sem-limites",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Todas As Coisas / Faz Chover / Te Adorar",
+    "path": "todas-as-coisas-faz-chover-te-adorar",
+    "default-tone": "Db",
+    "categories": []
   }
 ]

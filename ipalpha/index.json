@@ -286,5 +286,29 @@
     "path": "vos-criaturas-de-deus-pai",
     "default-tone": "F",
     "categories": []
+  },
+  {
+    "name": "Ao Deus Grandioso (part. Julliany Souza)",
+    "path": "ao-deus-grandioso-part-julliany-souza",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eu Vou Construir",
+    "path": "eu-vou-construir",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Louvai o Nome",
+    "path": "louvai-o-nome",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tudo É Possível",
+    "path": "tudo-e-possivel",
+    "default-tone": "D",
+    "categories": []
   }
 ]

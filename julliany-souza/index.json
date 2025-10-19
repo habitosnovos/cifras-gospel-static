@@ -340,5 +340,35 @@
     "path": "o-vimos-subir",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Abraça-me (part. David Quinlan e Brasas)",
+    "path": "abraca-me-part-david-quinlan-e-brasas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "ERA EU",
+    "path": "era-eu",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Jesus Em Tua Presença",
+    "path": "jesus-em-tua-presenca",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Lindo Momento / Lugar Secreto",
+    "path": "lindo-momento-lugar-secreto",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quem É Esse? + Lindo Momento",
+    "path": "quem-e-esse-lindo-momento",
+    "default-tone": "F#",
+    "categories": []
   }
 ]

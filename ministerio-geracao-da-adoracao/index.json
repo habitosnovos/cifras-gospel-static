@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Em Tua Presença",
+    "path": "em-tua-presenca",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Encontro",
+    "path": "encontro",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Geração da Adoração",
+    "path": "geracao-da-adoracao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Mover de Deus",
+    "path": "mover-de-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Presente de Deus",
+    "path": "presente-de-deus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Rio de Bênção",
+    "path": "rio-de-bencao",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Santo É",
+    "path": "santo-e",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Teu Fluir",
+    "path": "teu-fluir",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Vida É Milagre",
+    "path": "vida-milagre",
+    "default-tone": "D",
+    "categories": []
+  }
+]

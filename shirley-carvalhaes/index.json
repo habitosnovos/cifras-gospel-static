@@ -1396,5 +1396,17 @@
     "path": "vou-voar-vou-subir",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Homem da Cruz",
+    "path": "homem-da-cruz",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Prole Perdida",
+    "path": "prole-perdida",
+    "default-tone": "G",
+    "categories": []
   }
 ]

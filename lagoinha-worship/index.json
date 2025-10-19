@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Grato Sou (Grateful)",
+    "path": "grato-sou-greateful",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Mais",
+    "path": "mais",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Acreditar",
+    "path": "acreditar",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Glória e Honra",
+    "path": "gloria-e-honra",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Emanuel (part. Jéssica Augusto)",
+    "path": "emanuel-ft-jessica-augusto",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Campeão",
+    "path": "campeao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nunca Falha",
+    "path": "nunca-falha",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Clamarei",
+    "path": "clamarei",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vento Novo",
+    "path": "vento-novo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vitória",
+    "path": "vitoria",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Quando Eu Entrego",
+    "path": "quando-eu-entrego",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Onde Está a Morte?",
+    "path": "onde-esta-a-morte",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vivemos Na Luz",
+    "path": "vivemos-na-luz",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Incomparável",
+    "path": "incomparavel",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Poderosa Cruz (Mighty Cross)",
+    "path": "poderosa-cruz-mighty-cross",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Aqui Outra Vez",
+    "path": "aqui-outra-vez",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Rei Dos Reis",
+    "path": "rei-dos-reis",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Chuva / Reino",
+    "path": "chuva-reino",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vencedor",
+    "path": "vencedor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aleluia",
+    "path": "aleluia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Redentor",
+    "path": "redentor",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Somos Livres",
+    "path": "somos-livres",
+    "default-tone": "Fm",
+    "categories": []
+  }
+]

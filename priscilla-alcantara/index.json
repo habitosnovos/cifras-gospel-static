@@ -1,0 +1,428 @@
+[
+  {
+    "name": "A Cruz / Getsêmani (Pot-Pourri)",
+    "path": "a-cruz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Abram Os Portões",
+    "path": "abram-os-portoes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Alegria",
+    "path": "alegria",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Além do Véu",
+    "path": "alem-do-veu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Amor Blindado (part. Luan Santana)",
+    "path": "amor-blindado-part-luan-santana",
+    "default-tone": "Ebm",
+    "categories": []
+  },
+  {
+    "name": "Até Sermos Um",
+    "path": "ate-sermos-um",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Aviva-nos / A Terra Clama (Pot-Pourri)",
+    "path": "aviva-nos-a-terra-clama-pot-pourri",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Boyzinho",
+    "path": "boyzinho",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Cadeias Quebrar / As Trevas Estremecem (pot-pourri)",
+    "path": "cadeias-quebrar-as-trevas-estremecem-pot-pourri",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Carro-Céu (part. Yudi Tamashiro)",
+    "path": "carro-ceu-part-yudi-tamashiro",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Chuva de Glória",
+    "path": "chuva-de-gloria",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Como Prometeste / Deixa o Céu Descer / a Terra Clama - Priscilla Alcântara | Dunamis",
+    "path": "como-prometeste-deixa-o-ceu-descer-a-terra-clama-priscilla-alcantara-dunamis",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Correntes",
+    "path": "correntes",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Correntes",
+    "path": "correntes-",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Da Água Pro Vinho",
+    "path": "da-agua-pro-vinho",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "E Assim Eu Vou",
+    "path": "e-assim-eu-vou",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eles",
+    "path": "eles",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Empatia",
+    "path": "empatia",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Espírito Santo",
+    "path": "espirito-santo",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Eternidade (part. Lari Lopes)",
+    "path": "eternidade-part-lari-lopes",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Lembrei",
+    "path": "eu-lembrei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Não Sou Pra Você",
+    "path": "eu-nao-sou-pra-voce",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Amo",
+    "path": "eu-te-amo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Exaltarei (part. Geyson Mor)",
+    "path": "eu-te-exaltarei-part-geyson-mor",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Prometo",
+    "path": "eu-te-prometo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Exercito",
+    "path": "exercito",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Fazer o Mundo Tremer",
+    "path": "fazer-o-mundo-tremer",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Final da História",
+    "path": "final-da-historia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Florescer",
+    "path": "florescer",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Gente (de Zero a Dez)",
+    "path": "gente-de-zero-a-dez",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Girassol (part. Whindersson Nunes)",
+    "path": "girassol-part-whindersson-nunes",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Girassol (R&B Version)",
+    "path": "girassol",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Graça",
+    "path": "graca",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Hoje Cedo / Ele Vem",
+    "path": "hoje-cedo-ele-vem",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "I Believe In Your Name",
+    "path": "i-believe-in-your-name",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "I've Been Waiting",
+    "path": "ive-been-waiting",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Inteiro",
+    "path": "inteiro",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Liberdade",
+    "path": "liberdade",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Linda Bagunça",
+    "path": "linda-bagunca",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Longe de Você",
+    "path": "longe-de-voce",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Maio (part. Daniela Araújo)",
+    "path": "maio-part-daniela-araujo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Me Basta Teus Pés",
+    "path": "me-basta-teus-pes",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Me Deixe Aqui (part. Preto No Branco)",
+    "path": "me-deixe-aqui-part-preto-no-branco",
+    "default-tone": "Ebm",
+    "categories": []
+  },
+  {
+    "name": "Me Refez",
+    "path": "me-refez",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Meu Primeiro Amor",
+    "path": "meu-primeiro-amor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Minha Curiosidade",
+    "path": "minha-curiosidade",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Fogo Nunca Dorme",
+    "path": "o-fogo-nunca-dorme",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "O Meu Sim É Todo Seu (part. Projota)",
+    "path": "o-meu-sim-e-todo-seu-part-projota",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Oceano",
+    "path": "oceano",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Oceans",
+    "path": "oceans",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Onde Ele Vai, Eu Vou Atrás",
+    "path": "onde-ele-vai-eu-vou-atras",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Para Não Me Perder",
+    "path": "para-nao-me-perder",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Podemos Fingir",
+    "path": "podemos-fingir",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Quando o Sol Se Vai",
+    "path": "quando-o-sol-se-vai",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Quero Agradecer",
+    "path": "quero-agradecer",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Real",
+    "path": "real",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Reina",
+    "path": "reina",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ressurgiu o Leão",
+    "path": "ressurgiu-o-leao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Rio de Águas Vivas",
+    "path": "rio-de-aguas-vivas",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Sem Deus",
+    "path": "sem-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Sem Querer",
+    "path": "sem-querer",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Shallow",
+    "path": "shallow",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Solitude",
+    "path": "solitude",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Sou Escolhido",
+    "path": "sou-escolhido",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tanto Faz",
+    "path": "tanto-faz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tem Dias",
+    "path": "tem-dias",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tudo É Teu",
+    "path": "tudo--teu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Unicórnios",
+    "path": "unicornios",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Vem Com Toda Glória",
+    "path": "vem-com-toda-gloria",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Você Aprendeu a Amar? (Part. Emicida)",
+    "path": "voce-aprendeu-a-amar-part-emicida",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vou Voar",
+    "path": "vou-voar",
+    "default-tone": "G",
+    "categories": []
+  }
+]

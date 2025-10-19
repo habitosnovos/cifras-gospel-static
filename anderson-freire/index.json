@@ -820,5 +820,11 @@
     "path": "vou-te-alegrar",
     "default-tone": "B",
     "categories": []
+  },
+  {
+    "name": "Agora Tenho Vida",
+    "path": "agora-tenho-vida",
+    "default-tone": "Ab",
+    "categories": []
   }
 ]

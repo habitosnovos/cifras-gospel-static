@@ -700,5 +700,17 @@
     "path": "vitorioso-es",
     "default-tone": "F",
     "categories": []
+  },
+  {
+    "name": "Mais Rico do Mundo",
+    "path": "mais-rico-do-mundo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Me Alegrar",
+    "path": "me-alegrar",
+    "default-tone": "D",
+    "categories": []
   }
 ]

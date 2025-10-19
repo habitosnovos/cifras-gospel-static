@@ -34,5 +34,11 @@
     "path": "vem-senhor",
     "default-tone": "Dm",
     "categories": []
+  },
+  {
+    "name": "Era Deus e Eu",
+    "path": "era-deus-e-eu",
+    "default-tone": "E",
+    "categories": []
   }
 ]

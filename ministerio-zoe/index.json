@@ -532,5 +532,35 @@
     "path": "yeshua-hamashia",
     "default-tone": "F",
     "categories": []
+  },
+  {
+    "name": "A Fe Na Graca",
+    "path": "a-fe-na-graca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "De Joelhos",
+    "path": "de-joelhos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Diante da Tua Presença",
+    "path": "diante-da-tua-presenca",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Submerso em Teu Amor",
+    "path": "submerso-em-teu-amor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Você Pode Ouvir Os Céus",
+    "path": "voce-pode-ouvir-os-ceus",
+    "default-tone": "A",
+    "categories": []
   }
 ]

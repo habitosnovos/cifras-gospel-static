@@ -730,5 +730,17 @@
     "path": "vitorioso-es-part-andre-aquino",
     "default-tone": "A",
     "categories": []
+  },
+  {
+    "name": "Cordeiro Santo",
+    "path": "cordeiro-santo",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Unidos Em Fé",
+    "path": "unidos-em-fe",
+    "default-tone": "Eb",
+    "categories": []
   }
 ]

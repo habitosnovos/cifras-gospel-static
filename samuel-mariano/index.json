@@ -520,5 +520,11 @@
     "path": "voce-nao-vai-morrer",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Cansei",
+    "path": "cansei",
+    "default-tone": "F",
+    "categories": []
   }
 ]

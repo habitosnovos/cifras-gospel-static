@@ -1192,5 +1192,53 @@
     "path": "vou-seguir",
     "default-tone": "Ab",
     "categories": []
+  },
+  {
+    "name": "Abram-se Os Portões",
+    "path": "abram-se-os-portoes",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Cachoeira de Poder / Vencedor Sempre Serei",
+    "path": "cachoeira-de-poder-vencedor-sempre-serei",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Eis-me Aqui / Eu Quero Ver",
+    "path": "eis-me-aqui-eu-quero-ver",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ele é o Rei / Tudo Novo",
+    "path": "ele-e-o-rei-tudo-novo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Para Sempre / Força Imensa / Onde Jesus Mora",
+    "path": "para-sempre-forca-imensa-onde-jesus-mora",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Por Maior",
+    "path": "por-maior",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Recompensa / Não Negue a Jesus / Com Cristo É Vencer / Contigo Está (pot-pourri)",
+    "path": "recompensa-nao-negue-a-jesus-com-cristo-e-vencer-contigo-esta-pot-pourri",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Tem Milagre",
+    "path": "tem-milagre",
+    "default-tone": "F",
+    "categories": []
   }
 ]

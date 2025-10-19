@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Ai Meu Deus do Céu",
+    "path": "ai-meu-deus-do-ceu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Arde Outra Vez",
+    "path": "arde-outra-vez",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Baseado Em Quê?",
+    "path": "baseado-em-que",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Baseado Em Quê? (part. Salomão do Reggae)",
+    "path": "baseado-em-que-ft-salomao-do-reggae",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Casa do Pai (Feat. Silas Simões)",
+    "path": "casa-do-pai-feat-silas-simoes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Com Você Eu Topo (part. César Menotti & Fabiano)",
+    "path": "com-voce-eu-topo-part-cesar-menotti-e-fabiano",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Comigo Estás",
+    "path": "comigo-estas",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Derrama Tua Glória",
+    "path": "derrama-tua-gloria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Deus Vai Fazer",
+    "path": "deus-vai-fazer",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Estado de Graça",
+    "path": "estado-de-graca",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Estado de Graça",
+    "path": "estado-de-graca-",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou a Voz",
+    "path": "eu-sou-a-voz",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Agradeço",
+    "path": "eu-te-agradeco",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Senti",
+    "path": "eu-te-senti",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Fala Deus",
+    "path": "fala-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Fé Na Vida",
+    "path": "fe-na-vida",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Glorificamos (part. Luã Freitas, Fadi e Silas Simões)",
+    "path": "glorificamos-part-lua-freitas-fadi-e-silas-simoes",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hope",
+    "path": "hope",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Israel",
+    "path": "israel",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Lágrimas No Olhar (part. Marquinho Gomes e Gabriela Gomes)",
+    "path": "lagrimas-no-olhar-part-marquinho-gomes-e-gabriela-gomes",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Linha Do Tempo",
+    "path": "linha-do-tempo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Mais Amor Por Favor",
+    "path": "mais-amor-por-favor",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Me Deixe Aqui (part. Priscila Alcântara)",
+    "path": "me-deixe-aqui-part-priscila-alcantara",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Me Deixe Aqui",
+    "path": "me-deixe-aqui",
+    "default-tone": "Ebm",
+    "categories": []
+  },
+  {
+    "name": "Me Faz Voar",
+    "path": "me-faz-voar-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Me Faz Voar",
+    "path": "me-faz-voar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Meu Grande Amor (part. Sync3)",
+    "path": "meu-grande-amor-part-sync3",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Meu Lugar É Seu Amor",
+    "path": "meu-lugar-e-seu-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Mil Graus",
+    "path": "mil-graus-renascer-praise-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Morada",
+    "path": "morada",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Não Pare de Crer",
+    "path": "nao-pare-de-crer",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Não Quero Ser Mais Eu",
+    "path": "nao-quero-ser-mais-eu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Não Vai Falhar",
+    "path": "nao-vai-falhar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Nas Palavras de Lázaro",
+    "path": "nas-palavras-de-lazaro",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Ninguém Explica Deus",
+    "path": "ninguem-explica-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Nossa Canção",
+    "path": "nossa-cancao",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "O Autor (part. Marcos Almeida)",
+    "path": "o-autor-part-marcos-almeida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Cego, a Mulher e o Publicano",
+    "path": "o-cego-a-mulher-e-o-publicano",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Desenhista (part. Trilo)",
+    "path": "o-desenhista-part-trilo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Leão e a Igreja",
+    "path": "o-leao-e-a-igreja",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Leão e a Igreja (part. Nívea Soares)",
+    "path": "o-leao-e-a-igreja-part-nivea-soares",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Que Darei",
+    "path": "o-que-darei",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Que Fizeram de Você",
+    "path": "o-que-fizeram-de-voce",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "O Sacrifício",
+    "path": "o-sacrificio",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Sonho",
+    "path": "o-sonho",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Tempo",
+    "path": "o-tempo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "oferta agradável a Ti",
+    "path": "oferta-agradavel-a-ti",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Os Anjos Te Louvam",
+    "path": "os-anjos-te-louvam",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Os Sonhos de Deus",
+    "path": "os-sonhos-de-deus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Preparado",
+    "path": "preparado",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Se Organize (part. Kivitz)",
+    "path": "se-organize-part-kivitz",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Segura Minha Mão",
+    "path": "segura-minha-mao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sensacional",
+    "path": "sensacional",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tá Chorando Por Quê?",
+    "path": "ta-chorando-por-que",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Tudo Coopera",
+    "path": "tudo-coopera",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tudo Que Eu Sou",
+    "path": "tudo-que-eu-sou",
+    "default-tone": "E",
+    "categories": []
+  }
+]

@@ -4612,5 +4612,17 @@
     "path": "harpa-crista-418",
     "default-tone": "F",
     "categories": []
+  },
+  {
+    "name": "416",
+    "path": "416",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eis O Dia A Declinar",
+    "path": "eis-dia-declinar",
+    "default-tone": "D",
+    "categories": []
   }
 ]

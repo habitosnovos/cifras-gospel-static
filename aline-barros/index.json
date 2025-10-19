@@ -2056,5 +2056,35 @@
     "path": "louvor-de-miria",
     "default-tone": "Em",
     "categories": []
+  },
+  {
+    "name": "Alfa e Ômega",
+    "path": "alfa-e-omega",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Espírito, Enche a Minha Vida / Jesus Em Tua Presença / Maravilhoso",
+    "path": "espirito-enche-a-minha-vida-jesus-em-tua-presenca-maravilhoso",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Hoje É Tempo de Louvar a Deus (part. Fernanda Brum)",
+    "path": "hoje-e-tempo-de-louvar-a-deus-part-fernanda-brum",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Não Há Deus Maior (part. Cassiane)",
+    "path": "nao-ha-deus-maior-part-cassiane",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Trenzinho Chic Pom",
+    "path": "trenzinho-chic-pom",
+    "default-tone": "A",
+    "categories": []
   }
 ]

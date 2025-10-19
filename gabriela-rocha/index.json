@@ -862,5 +862,17 @@
     "path": "pra-onde-iremos-feat-felippe-valadao",
     "default-tone": "F#",
     "categories": []
+  },
+  {
+    "name": "Agnus Dei / Digno de Tudo / Te Exaltamos",
+    "path": "agnus-dei-digno-de-tudo-te-exaltamos",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "ATOS 2 / SO QUERO VER VOCE / A ELE A GLORIA / / PRA ONDE IREMOS",
+    "path": "atos-2-so-quero-ver-voce-a-ele-a-gloria-pra-onde-iremos",
+    "default-tone": "Em",
+    "categories": []
   }
 ]

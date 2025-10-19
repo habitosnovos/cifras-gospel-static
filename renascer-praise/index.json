@@ -1708,5 +1708,23 @@
     "path": "yeshua-hamashia",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Eu Vou Clamar (Versão Ao Vivo)",
+    "path": "eu-vou-clamar-versao-ao-vivo",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Filho",
+    "path": "filho",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tenda do Encontro",
+    "path": "tenda-do-encontro",
+    "default-tone": "C",
+    "categories": []
   }
 ]

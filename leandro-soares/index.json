@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Todavia Me Alegrarei",
+    "path": "todavia-me-alegrarei",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Se Deus É Por Nós (part. Marcelo Markes)",
+    "path": "se-deus-e-por-nos-part-marcelo-markes",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Era a Mão de Deus",
+    "path": "era-a-mao-de-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Que o Morador Seja Você",
+    "path": "que-o-morador-seja-voce",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tudo Posso",
+    "path": "tudo-posso",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Meu Pai",
+    "path": "meu-pai",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Me Traz de Volta",
+    "path": "me-traz-de-volta",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Digno",
+    "path": "digno",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Todos Os Dias (Part. Juninho Nay)",
+    "path": "todos-os-dias-part-juninho-nay",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Me Faz Prosseguir",
+    "path": "me-faz-prosseguir",
+    "default-tone": "Bb",
+    "categories": []
+  }
+]

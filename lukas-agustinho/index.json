@@ -1,0 +1,230 @@
+[
+  {
+    "name": "A Ele A Glória/ É Tudo Sobre Você/ Aviva-nos (Pot-Pourri)",
+    "path": "a-ele-a-gloria-e-tudo-sobre-voce-aviva-nos-pot-pourri",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Águas Purificadoras / O Cheiro das Águas (Pot-Pourri)",
+    "path": "aguas-purificadoras-o-cheiro-das-aguas",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Algo Novo / Enche-me / Ruja o Leão",
+    "path": "algo-novo-enche-me-ruja-o-leao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Algo Novo",
+    "path": "algo-novo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Céu / Canção do Apocalipse (Pot-Pourri)",
+    "path": "ceu-cancao-do-apocalipse-pot-pourri",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Depois da Cruz",
+    "path": "depois-da-cruz",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deus Poderoso",
+    "path": "deus-poderoso",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deus proverá / Sobre as águas /Algo novo /Enche-me /É sobre você /Além do rio azul/Escudo",
+    "path": "deus-provera-sobre-as-aguas-algo-novo-enche-me-e-sobre-voce-alem-do-rio-azul-escudo",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Deus Proverá / Sobre as Águas",
+    "path": "deus-provera-sobre-as-aguas",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Ele É Exaltado",
+    "path": "ele-e-exaltado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ele É Exaltado",
+    "path": "ele-e-exaltado-2",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Em Espírito Em Verdade",
+    "path": "em-espirito-em-verdade",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Escudo / Sou Um Milagre",
+    "path": "escudo-sou-um-milagre",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Esperança (part.ludi)",
+    "path": "esperanca-part-ludi",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Fazer Morada",
+    "path": "fazer-morada",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hosana (part. Gabriela Rocha)",
+    "path": "hosana-part-gabriela-rocha",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Leão (part. Rebeca Carvalho)",
+    "path": "leao-part-rebeca-carvalho",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Louve (part. Samuel Messias e Eliezer de Tarsis)",
+    "path": "louve-part-samuel-messias-e-eliezer-de-tarsis",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Lugar Secreto",
+    "path": "lugar-secreto",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Lukas Agustinho - Aquieta Minhalma + a Tua Mesa Cura",
+    "path": "lukas-agustinho-aquieta-minhalma-a-tua-mesa-cura",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Me Ama",
+    "path": "me-ama",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Medley Os Sonhos de Deus",
+    "path": "medley-os-sonhos-de-deus-2",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Medley Os Sonhos de Deus",
+    "path": "medley-os-sonhos-de-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Não Mais Escravos",
+    "path": "nao-mais-escravos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "O Grande Eu Sou",
+    "path": "o-grande-eu-sou",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ouve o Meu Clamor",
+    "path": "ouve-o-meu-clamor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pode Morar Aqui / Em Tua Presença (Pot-Pourri)",
+    "path": "pode-morar-aqui-medley",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Pode Morar Aqui / Teu Reino / As Trevas Estremecem (pot-pourri)",
+    "path": "pode-morar-aqui-teu-reino-as-trevas-estremecem-pot-pourri",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Princípios",
+    "path": "principios",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Quero Conhecer Jesus",
+    "path": "quero-conhecer-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Redentor",
+    "path": "redentor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Renova-me",
+    "path": "renova-me",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sião",
+    "path": "siao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sonhos de Deus",
+    "path": "sonhos-de-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Teu Fogo",
+    "path": "teu-fogo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Todavia Me Alegrarei",
+    "path": "todavia-me-alegrarei",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tu És Poderoso (part. Gabriela Rocha)",
+    "path": "tu-es-poderoso-part-gabriela-rocha",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Tua Glória",
+    "path": "tua-gloria",
+    "default-tone": "Am",
+    "categories": []
+  }
+]

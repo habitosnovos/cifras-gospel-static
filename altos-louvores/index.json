@@ -1,0 +1,308 @@
+[
+  {
+    "name": "A Dor de Abraão",
+    "path": "a-dor-de-abraao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Seara É Grande",
+    "path": "a-seara-e-grande",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Acreditar",
+    "path": "acreditar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Amar Pra Sempre",
+    "path": "amar-pra-sempre",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ao Nosso Campeão",
+    "path": "ao-nosso-campeao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Apenas Servos",
+    "path": "apenas-servos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Batalha Espiritual",
+    "path": "batalha-espiritual",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cante, Irmão",
+    "path": "cante-irmao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Confiança",
+    "path": "confianca",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Descansar",
+    "path": "descansar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Diálogo",
+    "path": "dialogo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Dom de Vida",
+    "path": "dom-de-vida",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Dono da Vida",
+    "path": "dono-da-vida",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Em Memória de Mim",
+    "path": "em-memoria-de-mim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Encontro",
+    "path": "encontro",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Entre Nós Outra Vez",
+    "path": "entre-nos-outra-vez",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Erros e Planos",
+    "path": "erros-e-planos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Esperança",
+    "path": "esperanca",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Existe Um Amigo",
+    "path": "existe-um-amigo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Gesto de Amor",
+    "path": "gesto-de-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Gracas Te Dou",
+    "path": "gracas-te-dou",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hora Zero",
+    "path": "hora-zero",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Lágrima No Olhar",
+    "path": "lagrima-no-olhar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Lembranças",
+    "path": "lembrancas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Meu Querer",
+    "path": "meu-querer",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Mudanças",
+    "path": "mudancas",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Amor Constrói",
+    "path": "o-amor-constroi",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Galileu",
+    "path": "o-galileu",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Mesmo Deus",
+    "path": "o-mesmo-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Verdadeiro Amor",
+    "path": "o-verdadeiro-amor",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Olhos da Fé",
+    "path": "olhos-da-fe",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Para Onde Vão As Aves",
+    "path": "para-onde-vao-as-aves",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Passo Certo",
+    "path": "passo-certo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Plenitude",
+    "path": "plenitude",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Recomeçar",
+    "path": "recomecar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Redenção",
+    "path": "redencao",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Santo dos Santos",
+    "path": "santo-dos-santos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Se",
+    "path": "se",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sem Palavras",
+    "path": "sem-palavras",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ser Feliz",
+    "path": "ser-feliz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Seu Amor É Por Nós",
+    "path": "seu-amor-e-por-nos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Simplismente Um Plebeu",
+    "path": "simplismente-um-plebeu",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Tem Que Mudar",
+    "path": "tem-que-mudar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Teu Amor",
+    "path": "teu-amor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Uma Questão de Amar",
+    "path": "uma-questao-de-amar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vamos Dar As Mãos",
+    "path": "vamos-dar-as-maos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vem Celebrar",
+    "path": "vem-celebrar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vencedor",
+    "path": "vencedor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Venceu, Vencerás",
+    "path": "venceu-venceras",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Você e Eu",
+    "path": "voce-eu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vou Testemunhar",
+    "path": "vou-testemunhar",
+    "default-tone": "Eb",
+    "categories": []
+  }
+]

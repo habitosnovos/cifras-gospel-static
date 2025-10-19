@@ -28,5 +28,11 @@
     "path": "feliz-dia-dos-pais",
     "default-tone": "D",
     "categories": []
+  },
+  {
+    "name": "Eu Sou Bom e Te Amei",
+    "path": "eu-sou-bom-e-te-amei",
+    "default-tone": "D",
+    "categories": []
   }
 ]

@@ -136,5 +136,11 @@
     "path": "vitorioso-es",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Canção ao Cordeiro, Aclame ao Senhor e A Ele A Glória",
+    "path": "cancao-ao-cordeiro-aclame-ao-senhor-e-a-ele-a-gloria",
+    "default-tone": "F",
+    "categories": []
   }
 ]

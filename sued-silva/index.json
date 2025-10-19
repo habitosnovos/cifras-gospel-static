@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Ele É",
+    "path": "ele-e",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Eu Cuido de Tudo",
+    "path": "eu-cuido-de-tudo",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Existe Vida Aí",
+    "path": "existe-vida-ai",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Foi a Mão de Deus",
+    "path": "foi-a-mao-de-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Infinitamente Mais",
+    "path": "infinitamente-mais",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Jesus Te Amamos",
+    "path": "jesus-te-amamos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Medley Reacende a Chama",
+    "path": "medley-reacende-a-chama",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Meu Filho (part. Stella Laura e Isadora Pompeo)",
+    "path": "meu-filho-part-stella-laura-e-isadora-pompeo",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Minha Bênção",
+    "path": "minha-bencao",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "O Céu Responde Diferente (part. Dalete Hungria)",
+    "path": "o-ceu-responde-diferente-part-dalete-hungria",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "O Nome Dele",
+    "path": "o-nome-dele",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Onde Está Sua Fé",
+    "path": "onde-esta-sua-fe",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Poder da Adoração",
+    "path": "poder-da-adoracao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Reacende a Chama",
+    "path": "reacende-a-chama",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Reacende a Chama / Acende Outra Vez",
+    "path": "reacende-a-chama-acende-outra-vez",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sobrenatural",
+    "path": "sobrenatural",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Yeshua / Agnus Dei",
+    "path": "yeshua-agnus-dei",
+    "default-tone": "F#m",
+    "categories": []
+  }
+]

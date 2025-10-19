@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Aclame ao Senhor / Agnus Dei",
+    "path": "aclame-ao-senhor-agnus-dei",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Alfa e Ômega / Vivo Pra Te Adorar (Pot-Pourri)",
+    "path": "alfa-e-omega-vivo-pra-te-adorar-pot-pourri",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Ambição (part. Som do Céu, Thiago Henrique e Marllon Ribeiro)",
+    "path": "ambicao-part-som-do-ceu-thiago-henrique-e-marllon-ribeiro",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Aos Teus Pés",
+    "path": "aos-teus-pes",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Até Que Toda Terra Cante",
+    "path": "ate-que-toda-terra-cante",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Basta Uma Palavra",
+    "path": "basta-uma-palavra",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Bom Perfume",
+    "path": "bom-perfume",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Comunhão",
+    "path": "comunhao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Coração Igual Ao Teu",
+    "path": "coracao-igual-ao-teu",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deus Supremo (Theo)",
+    "path": "deus-supremo-theo",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Digno + Santo Pra Sempre",
+    "path": "digno-santo-pra-sempre",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Digno de Tudo / Nada Mais Satisfaz / Até que Nada Mais Importe (Pot-Pourri)",
+    "path": "digno-de-tudo-nada-mais-satisfaz-ate-que-nada-mais-importe-pot-pourri",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Digno É o Cordeiro (part. Thiago Henrique e Som do Céu)",
+    "path": "digno-e-o-cordeiro-part-thiago-henrique-e-som-do-ceu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Digno (part. Som do Céu e Felipe Maia)",
+    "path": "digno-part-som-do-ceu-e-felipe-maia",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Ele É o Cristo (Part. Som do Céu, Matheus França e Murilo Schiappadini)",
+    "path": "ele-e-o-cristo-part-som-do-ceu-matheus-franca-e-murilo-schiappadini",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "És Tão Valioso (part. Som do Céu e Fhop Music)",
+    "path": "es-tao-valioso-part-som-do-ceu-e-fhop-music",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Essência da Adoração",
+    "path": "essencia-da-adoracao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Me Aproximo (part. Paulo Alberto)",
+    "path": "eu-me-aproximo-part-paulo-alberto",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eu Vou Construir / Oh Quão Lindo Esse Nome É",
+    "path": "eu-vou-construir-oh-quao-lindo-esse-nome-e-pot-pourri",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Vou Construir / Oh Quão Lindo Esse Nome É / Só Tu És Santo / Vim Para Adorar-Te (Pot-Pourri)",
+    "path": "eu-vou-construir-oh-quao-lindo-esse-nome-e-so-tu-es-santo-vim-para-adorar-te-pot-pourri",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Fascinação",
+    "path": "fascinacao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Fascinação",
+    "path": "fascinacao-2",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Grande É o Senhor / Consagração",
+    "path": "grande-e-o-senhor-consagracao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Grande Rei / Batendo à Porta",
+    "path": "grande-rei-batendo-a-porta",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Grande Rei (Yeshua Está Aqui) (part. Som do Céu e Marcelo Markes)",
+    "path": "grande-rei-yeshua-esta-aqui-part-som-do-ceu-e-marcelo-markes",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Lindo És",
+    "path": "lindo-es",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Maranata (part. Casa Worship)",
+    "path": "maranata-part-casa-worship",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Medley Rei do Meu Coração + Aclame Ao Senhor + a Honra + Quão Grande",
+    "path": "medley-rei-do-meu-coracao-aclame-ao-senhor-a-honra-quao-grande",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Prazer",
+    "path": "meu-prazer-pra-te-adorar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Respirar",
+    "path": "meu-respirar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Na Terra Como No Céu / Que Se Abram Os Cêus / Pai Nosso  ",
+    "path": "na-terra-como-no-ceuque-se-abram-os-ceuspai-nosso",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Na Terra Como No Céu / Faz Chover / Eu Navegarei",
+    "path": "na-terra-como-no-ceu-faz-chover-eu-navegarei",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Na Terra Como No Céu",
+    "path": "na-terra-como-no-ceu",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Não a Nós (part. Som do Céu e Marcão Pacheco)",
+    "path": "nao-a-nos-part-som-do-ceu-e-marcao-pacheco",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "O Som da Tua Noiva / Estou Só (Pot-pourri)",
+    "path": "o-som-da-tua-noiva-estou-so",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Onipotente / Omnipotent (Pot-Pourri)",
+    "path": "onipotente-omnipotent-pot-pourri",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Onipotente (Part. Som do Céu e Luana Avlis)",
+    "path": "onipotente-part-som-do-ceu-e-luana-avlis",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Ouça o Som (part. Rafael Bicudo e Sarah Lanza)",
+    "path": "ouca-o-som-part-rafael-bicudo-e-sarah-lanza",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Pode Morar Aqui",
+    "path": "pode-morar-aqui",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Poderoso Deus / A Ele a Glória (Pot-Pourri)",
+    "path": "poderoso-deus-a-ele-a-gloria-pot-pourri",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Poderoso És",
+    "path": "poderoso-es",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Quando Estás Neste Lugar / Tudo É Pra Tua Glória (Medley)",
+    "path": "quando-estas-neste-lugar-tudo-e-pra-tua-gloria-medley",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Que Ele Cresça (Humildade)",
+    "path": "que-ele-cresca-humildade",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quem É Capaz do Livro Abrir",
+    "path": "quem-e-capaz-do-livro-abrir",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Rei do Meu Coração",
+    "path": "rei-do-meu-coracao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Santo e Ungido",
+    "path": "santo-e-ungido",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Seja o Centro (part.  Murilo Schiappadini)",
+    "path": "seja-o-centro-part-murilo-schiappadini",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Seja Tudo Em Mim",
+    "path": "seja-tudo-em-mim",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Som Do Céu",
+    "path": "som-do-ceu",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Som do Céu (part. Thays Oliveira)",
+    "path": "som-do-ceu-part-thays-oliveira",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Te Amarei Pra Sempre (part. Fernandinho)",
+    "path": "te-amarei-pra-sempre-part-fernandinho",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Teu Encontro",
+    "path": "teu-encontro",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Teu Toque",
+    "path": "teu-toque",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Teu Toque/ Tudo é Pra Tua Glória",
+    "path": "teu-toque-tudo-e-pra-tua-gloria",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Toda Adoração ( feat. Gabriel Gudes )",
+    "path": "toda-adoracao-feat-gabriel-gudes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Totalmente Santo",
+    "path": "totalmente-santo",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Tu Es o Rei",
+    "path": "tu-es-o-rei",
+    "default-tone": "G#m",
+    "categories": []
+  },
+  {
+    "name": "Unção Pelo Ar",
+    "path": "uncao-pelo-ar",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Vamos Louvar",
+    "path": "vamos-louvar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vem Com Fogo",
+    "path": "vem-com-fogo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vitorioso És",
+    "path": "vitorioso-es",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vitorioso És / Com Muito Louvor / Agnus Dei (Pot-Pourri)",
+    "path": "vitorioso-es-com-muito-louvor-agnus-dei",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vitorioso És / Ruja o Leão / Se Abram Os Céus (Pot-pourri)",
+    "path": "vitorioso-es-ruja-o-leao-se-abram-os-ceus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "What a Beautiful Name",
+    "path": "what-a-beautiful-name",
+    "default-tone": "D",
+    "categories": []
+  }
+]

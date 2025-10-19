@@ -1,0 +1,308 @@
+[
+  {
+    "name": "A Casa É Sua",
+    "path": "a-casa-e-sua",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "A Cruz",
+    "path": "a-cruz",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "A Esperança da Glória",
+    "path": "a-esperanca-da-gloria",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Aleluia",
+    "path": "aleluia",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Anseio Ardente",
+    "path": "anseio-ardente",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Atraídos Pelo Fogo",
+    "path": "atraidos-pelo-fogo",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro que Venceu",
+    "path": "cordeiro-que-venceu",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Em Tua Presença",
+    "path": "em-tua-presenca",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Era Eu",
+    "path": "era-eu",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "És Bom Pra Mim",
+    "path": "es-bom-pra-mim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Estamos de Pe",
+    "path": "estamos-de-pe",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Eu Não Vou Embora (Part. Léo Brandão)",
+    "path": "eu-nao-vou-embora-part-leo-brandao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Só Quero Tua Presença",
+    "path": "eu-so-quero-tua-presenca",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Vejo Em Tudo",
+    "path": "eu-te-vejo-em-tudo",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Vejo Em Tudo o Quão Lindo Esse Nome És",
+    "path": "eu-te-vejo-em-tudo-o-quao-lindo-esse-nome-es",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Tenho Um Pai (part. Ricardinho)",
+    "path": "eu-tenho-um-pai-part-ricardinho",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Faz Arder / Não se Apagará (Pot-Pourri)",
+    "path": "faz-arder-nao-se-apagara-pot-pourri",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Faz Arder",
+    "path": "faz-arder",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Fumaça",
+    "path": "fumaca",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Imperfeito Eu",
+    "path": "imperfeito-eu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Improvável",
+    "path": "improvavel",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Lado Do Altar",
+    "path": "lado-do-altar",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Lenha e Fogo",
+    "path": "lenha-e-fogo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Mais Que Canções",
+    "path": "mais-que-cancoes",
+    "default-tone": "Bbm",
+    "categories": []
+  },
+  {
+    "name": "Não Se Apagará",
+    "path": "nao-se-apagara",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Noiva",
+    "path": "noiva",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nome Mais Doce",
+    "path": "nome-mais-doce",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Novo Tempo",
+    "path": "novo-tempo",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "O Céu É o Meu Lugar (part. DJ PV)",
+    "path": "o-ceu-e-o-meu-lugar-part-dj-pv",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Fogo Nunca Dorme / Vento Impetuoso (Pot-Pourri)",
+    "path": "o-fogo-nunca-dorme-vento-impetuoso-pot-pourri",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Sol Já Voltou A Brilhar",
+    "path": "o-sol-ja-voltou-a-brilhar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Palavra Alegria",
+    "path": "palavra-alegria",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Preciso de Ti",
+    "path": "preciso-de-ti",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Pródigo",
+    "path": "prodigo",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Pródigo / És Bom Para Mim (pot-pourri)",
+    "path": "prodigo-es-bom-para-mim",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Propósito",
+    "path": "proposito",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Quando Ele Chega",
+    "path": "quando-ele-chega",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Quem Me Chamou",
+    "path": "quem-me-chamou",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Reina Em Mim",
+    "path": "reina-em-mim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Renovarão",
+    "path": "renovarao",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Seu Amor Me Persegue",
+    "path": "seu-amor-me-persegue",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Sopra",
+    "path": "sopra",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Sopra / Noiva / Quando Ele Chega (Medley)",
+    "path": "sopra-noiva-quando-ele-chega",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Teu Poder (Eu Creio Em Ti) / Outra Vez - Part. Arthur Callazans)",
+    "path": "teu-poder-creio-em-ti-outra-vez-part-arthur-callazans",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Tudo É Possível (part. Felipe Rodrigues)",
+    "path": "tudo-e-possivel-part-felipe-rodrigues",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vento Impetuoso",
+    "path": "vento-impetuoso",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Vou Voltar",
+    "path": "vou-voltar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Yeshua / Nome Mais Doce (Pot-Pourri)",
+    "path": "yeshua-nome-mais-doce",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Yeshua / Quero Conhecer Jesus (medley)",
+    "path": "yeshua-quero-conhecer-jesus-medley",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Yeshua",
+    "path": "yeshua",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Yhwh (Tiro As Sandálias)",
+    "path": "yhwh-tiro-as-sandalias",
+    "default-tone": "B",
+    "categories": []
+  }
+]

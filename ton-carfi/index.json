@@ -1,0 +1,416 @@
+[
+  {
+    "name": "A Espera de Um Milagre",
+    "path": "a-espera-de-um-milagre",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Abram Alas",
+    "path": "abram-alas",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Abro Mão",
+    "path": "abro-mao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aleluia",
+    "path": "aleluia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Algo Novo",
+    "path": "algo-novo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Alguém Que Eu Amo",
+    "path": "alguem-que-eu-amo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Amor de Cristo",
+    "path": "amor-de-cristo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Amor do Meu Herói",
+    "path": "amor-do-meu-heroi",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Andaremos Juntos",
+    "path": "andaremos-juntos",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Aquietai",
+    "path": "aquietai",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Assuma o Controle",
+    "path": "assuma-o-controle",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Batalhas Secretas",
+    "path": "batalhas-secretas",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Casal Feliz",
+    "path": "casal-feliz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Clame Ao Pai",
+    "path": "clame-ao-pai-",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Clame Ao Pai",
+    "path": "clame-ao-pai",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Creio Em Ti",
+    "path": "creio-em-ti",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cristo Filho",
+    "path": "cristo-filho",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cristo Vive Em Mim",
+    "path": "cristo-vive-em-mim",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Cuida de Mim",
+    "path": "cuida-de-mim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Doce Amor",
+    "path": "doce-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "És o meu amado",
+    "path": "s-o-meu-amado",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Esconderijo",
+    "path": "esconderijo",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Esta É Minha Fé",
+    "path": "esta-e-minha-fe",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Não Quero Mais Te Abandonar",
+    "path": "eu-nao-quero-mais-te-abandonar",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Eu Só Quero Ser Teu",
+    "path": "eu-so-quero-ser-teu",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu sou",
+    "path": "eu-sou",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Feita Só Pra Mim",
+    "path": "feita-so-pra-mim",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Festa Dos Crentes",
+    "path": "festa-dos-crentes",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Fica",
+    "path": "fica",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Filho de Deus (Amigo Meu)",
+    "path": "filho-de-deus-amigo-meu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Há Um Lugar Pra Mim",
+    "path": "ha-um-lugar-pra-mim",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "História de Davi",
+    "path": "historia-de-davi",
+    "default-tone": "Bbm",
+    "categories": []
+  },
+  {
+    "name": "Incendeia",
+    "path": "incendeia",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Infinitamente Mais",
+    "path": "infinitamente-mais",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Jesus Me Conquistou",
+    "path": "jesus-me-conquistou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Primeiro Amor",
+    "path": "meu-primeiro-amor-",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Primeiro Amor",
+    "path": "meu-primeiro-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Minha Vez",
+    "path": "minha-vez",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Minha Vez (part. MC Livinho)",
+    "path": "minha-vez-part-mc-livinho",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Morador de Rua",
+    "path": "morador-de-rua",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Nada Abalará a Minha Fé",
+    "path": "nada-abalara-a-minha-fe",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Não Demores",
+    "path": "nao-demores",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Leão",
+    "path": "o-leao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Melhor Lugar do Mundo",
+    "path": "o-melhor-lugar-do-mundo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "O Nome de Jesus",
+    "path": "o-nome-de-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Tempo Passa",
+    "path": "o-tempo-passa",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Pai Presente (part. Aline Barros)",
+    "path": "pai-presente-part-aline-barros",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Pirei",
+    "path": "pirei",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Por Que Eu Te Amei",
+    "path": "por-que-eu-te-amei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Porque Eu Te Amei",
+    "path": "porque-eu-te-amei-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Porque Eu Te Amei",
+    "path": "porque-eu-te-amei",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Primeiro Lugar (part. André e Felipe)",
+    "path": "primeiro-lugar-part-andre-e-felipe",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Primeiros Passos",
+    "path": "primeiros-passos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quero Estar Perto",
+    "path": "quero-estar-perto",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Se Envergonhar Por Quê",
+    "path": "se-envergonhar-por-que",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Só Deus Pode Restaurar Esse Amor",
+    "path": "so-deus-pode-restaurar-esse-amor",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Só Quero Agradecer (part. Jottapê)",
+    "path": "so-quero-agradecer-part-jottape",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Só Teus Olhos Me Veem",
+    "path": "so-teus-olhos-me-veem",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Somos Um",
+    "path": "somos-um",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sou Teu Deus",
+    "path": "sou-teu-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Toque Em Cristo",
+    "path": "toque-em-cristo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tudo Que Tem Fôlego",
+    "path": "tudo-que-tem-folego",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Uma Canção Para Carla",
+    "path": "uma-cancao-para-carla",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Única Certeza",
+    "path": "unica-certeza",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Vencer Ou Vencer",
+    "path": "vencer-ou-vencer",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Visita Minha Casa",
+    "path": "visita-minha-casa",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Viver a Liberdade",
+    "path": "viver-libredade",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Vou Falar de Deus",
+    "path": "vou-falar-de-deus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "X-men",
+    "path": "x-men",
+    "default-tone": "Db",
+    "categories": []
+  }
+]

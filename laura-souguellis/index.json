@@ -232,5 +232,17 @@
     "path": "you-catch-me",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "A Graça Que Ele Dá",
+    "path": "a-graca-que-ele-da",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Voltemos Ao Início + o Bálsamo de Gileade",
+    "path": "voltemos-ao-inicio-o-balsamo-de-gileade",
+    "default-tone": "D",
+    "categories": []
   }
 ]

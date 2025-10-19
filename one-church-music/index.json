@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Olhos de Fogo",
+    "path": "olhos-de-fogo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Defensor",
+    "path": "defensor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Take The Lead",
+    "path": "take-the-lead",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Found",
+    "path": "found",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Hope Has Come",
+    "path": "hope-has-come",
+    "default-tone": "F",
+    "categories": []
+  }
+]

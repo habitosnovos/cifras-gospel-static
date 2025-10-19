@@ -1,0 +1,440 @@
+[
+  {
+    "name": "A Casa É Sua",
+    "path": "a-casa-e-sua",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Melhor Oração É Amar / Senhor Põe Um Anjo Aqui (Pot-Pourri)",
+    "path": "a-melhor-oracao--amar--senhor-poe-um-anjo-aqui-pot-pourri",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Aba / O Teu Amor (Pot-Pourri)",
+    "path": "aba-o-teu-amor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aba (part. Ton Carfi)",
+    "path": "aba-part-ton-carfi",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Aba",
+    "path": "aba",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Algo Novo (part. Lukas Agustinho)",
+    "path": "algo-novo-part-lukas-agustinho",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Amigo",
+    "path": "amigo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Armadura de Deus",
+    "path": "armadura-de-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Braços de Amor",
+    "path": "bracos-de-amor",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Cadeias Quebrar / As Trevas Estremecem (Pot-Pourri)",
+    "path": "cadeias-quebrar-as-trevas-estremecem-pot-pourri",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Canta Minh'alma",
+    "path": "canta-minhalma",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Carta de Amor (part. Rebeca Carvalho)",
+    "path": "carta-de-amor-part-rebeca-carvalho",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Céu",
+    "path": "ceu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Comigo",
+    "path": "comigo",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Descansado Estou",
+    "path": "descansado-estou",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Desperta",
+    "path": "desperta",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ele Vem",
+    "path": "ele-vem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eli Eli Lamá Sabactâni / Vitória (Pot-Pourri)",
+    "path": "eli-eli-lama-sabactani",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Em Fervente Oração",
+    "path": "em-fervente-oracao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Emanuel",
+    "path": "emanuel",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Encontrarei Paz",
+    "path": "encontrarei-paz",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Encontro Com Deus / Basta Que Toque (Pot-Pourri)",
+    "path": "encontro-com-deus--basta-que-me-toque-senhor",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Espelhos",
+    "path": "espelhos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Esperança",
+    "path": "esperanca",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Eu Navegarei",
+    "path": "eu-navegarei",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "EU TAMBEM",
+    "path": "eu-tambem",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Louvarei ",
+    "path": "eu-te-louvarei-senhor",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Faça Morada",
+    "path": "fazer-morada",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Fé",
+    "path": "fe",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Fome de Amor",
+    "path": "fome-de-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Graças",
+    "path": "gracas",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Graça",
+    "path": "graca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Grandioso És Tu",
+    "path": "grandioso-es-tu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jericó",
+    "path": "jerico",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Jesus",
+    "path": "jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Leva-me a Ti",
+    "path": "leva-me-a-ti",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Livre Para Adorar",
+    "path": "livres-para-adorar",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Maranata",
+    "path": "maranata",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Maravilhoso É / Rei dos Reis? (Pot-Pourri)",
+    "path": "maravilhoso---rei-dos-reis",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Me Achego a Ti",
+    "path": "me-achego-a-ti",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Me Alcançou",
+    "path": "me-alcancou",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Me Faça Ver",
+    "path": "me-faca-ver",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Me Lembro (part. Gabriela Rocha)",
+    "path": "me-lembro-part-gabriela-rocha",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Tributo",
+    "path": "meu-tributo",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Não Mais Escravos (part. Coral Soul Livre)",
+    "path": "nao-mais-escravos-part-coral-soul-livre",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Não Temas",
+    "path": "nao-temas",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Não Valeria",
+    "path": "nao-valeria",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Não Vou Desistir",
+    "path": "nao-vou-desistir",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Nele Vou Confiar",
+    "path": "nele-vou-confiar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Teu Amor",
+    "path": "o-teu-amor",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Oceanos",
+    "path": "oceanos",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Oh Quão Lindo Esse Nome É",
+    "path": "oh-quao-lindo-esse-nome-",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Oh, Quão Lindo Esse Nome É",
+    "path": "oh-quao-lindo-esse-nome-e",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Oh Venha ao Altar",
+    "path": "oh-venha-ao-altar-oh-come-to-the-altar",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Ousado Amor",
+    "path": "ousado-amor",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Perfeito Amor",
+    "path": "perfeito-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Qual É a Sua Escolha?",
+    "path": "qual-e-a-sua-escolha",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Quando Jesus Estendeu Sua Mão",
+    "path": "quando-jesus-estendeu-a-sua-mao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quietude",
+    "path": "quietude",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Ressuscitou",
+    "path": "ressuscitou",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Reunimo-nos Aqui",
+    "path": "reunimos-nos-aqui",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Santo",
+    "path": "santo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Se Liga",
+    "path": "se-liga",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sempre Comigo",
+    "path": "sempre-comigo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Teu Amor",
+    "path": "teu-amor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Todos Um (part. Dilsinho)",
+    "path": "todos-um-part-dilsinho",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Tua Graça",
+    "path": "tua-graca-chasing-me-down",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Tudo Me Lembra Você",
+    "path": "tudo-me-lembra-voce",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vai Encarar?",
+    "path": "vai-encarar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vem Me Encher De ti",
+    "path": "vem-me-encher-de-ti",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vim Pra Te Adorar",
+    "path": "vim-pra-te-adorar",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Vitória",
+    "path": "vitoria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "What Beautiful a Name",
+    "path": "what-beautiful-a-name",
+    "default-tone": "D",
+    "categories": []
+  }
+]

@@ -166,5 +166,23 @@
     "path": "volta-crianca-v-o-l-t-a-c-r-i-a-n-c-a",
     "default-tone": "D",
     "categories": []
+  },
+  {
+    "name": "Amálgama",
+    "path": "amalgama",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "MØnsΤRøs",
+    "path": "monstros",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Obsessão (ØβSesSÃΘ)",
+    "path": "obsessao-obsessath",
+    "default-tone": "A",
+    "categories": []
   }
 ]

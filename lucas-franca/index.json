@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Amor Maior",
+    "path": "amor-maior",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu e Você",
+    "path": "eu-e-voce",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Lembranças",
+    "path": "lembrancas",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Meu Pastor",
+    "path": "meu-pastor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Olhou Pra Mim",
+    "path": "olhou-pra-mim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sou Teu",
+    "path": "sou-teu-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Te Encontrar",
+    "path": "te-encontrar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tudo Vem de Ti",
+    "path": "tudo-vem-de-ti-",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Viver Pra Ti",
+    "path": "viver-pra-ti",
+    "default-tone": "D",
+    "categories": []
+  }
+]

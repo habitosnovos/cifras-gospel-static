@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Alegria",
+    "path": "alegria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Amargo ou Doce",
+    "path": "amargo-ou-doce",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Amor",
+    "path": "amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Apocalipse",
+    "path": "apocalipse",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Apocalipse",
+    "path": "apocalipse-169836",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Apocalipse",
+    "path": "apocalipse-169835",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Armagedom",
+    "path": "armagedom",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Caminho",
+    "path": "caminho",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Congestionamento",
+    "path": "congestionamento",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Consumo",
+    "path": "consumo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Contato",
+    "path": "contato",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Corredor 18 (Fui preso na Bahia)",
+    "path": "corredor-18-fui-preso-na-bahia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Crack-atos 4:11",
+    "path": "crack-atos-411",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Cristo Ou Barrabás",
+    "path": "cristo-ou-barrabas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Do Céu",
+    "path": "do-ceu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Expressão de amor",
+    "path": "expressao-de-amor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Extra",
+    "path": "extra",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Fe e Obras",
+    "path": "fe-e-obras",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Fumaça Arisca",
+    "path": "fumaca-arisca",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Game Over",
+    "path": "game-over",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Genesis",
+    "path": "genesis",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Grito De Katsbarnéa",
+    "path": "grito-de-katsbarnea",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "I Can Fly",
+    "path": "i-can-fly",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Invasão",
+    "path": "invasao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Jeremias",
+    "path": "jeremias",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Meio Fio",
+    "path": "meio-fio",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Mulher  QV",
+    "path": "mulher-qv",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Nasceu Um Novo Dia (chuva de Bençãos)",
+    "path": "nasceu-um-novo-dia-chuva-de-bencaos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Amor Sempre Ganha",
+    "path": "o-amor-sempre-ganha",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Verbo",
+    "path": "o-verbo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ondas Agitadas",
+    "path": "ondas-agitadas",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Palavras Simples",
+    "path": "palavras-simples",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Parede Branqueada",
+    "path": "parede-branqueada",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Perto de Deus",
+    "path": "perto-de-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Pra onde você vai, brother ?!",
+    "path": "pra-onde-voce-vai-brother-",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Profecia",
+    "path": "profecia",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Revolução",
+    "path": "revolucao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salve a Tua Paz",
+    "path": "salve-tua-paz-169839",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salve a Tua Paz",
+    "path": "salve-tua-paz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salve a Tua Paz",
+    "path": "salve-tua-paz-169840",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sepulcro Caiado",
+    "path": "sepulcro-caiado",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Seu Doutor",
+    "path": "seu-doutor",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Shine On Your Face",
+    "path": "shine-on-your-face",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Terra",
+    "path": "terra",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Uma Certeza",
+    "path": "uma-certeza",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Verdadeiro Amigo",
+    "path": "verdadeiro-amigo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Viagem De Oração",
+    "path": "viagem-de-oracao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Voz do Oriente",
+    "path": "voz-do-oriente",
+    "default-tone": "G",
+    "categories": []
+  }
+]

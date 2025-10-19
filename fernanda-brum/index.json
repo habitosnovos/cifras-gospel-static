@@ -1618,5 +1618,23 @@
     "path": "vou-profetizar",
     "default-tone": "Em",
     "categories": []
+  },
+  {
+    "name": "Acredita, Brasil",
+    "path": "acredita-brasil",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Milhares de Anjos",
+    "path": "milhares-de-anjos",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Pisando Serpentes",
+    "path": "pisando-serpentes",
+    "default-tone": "Gm",
+    "categories": []
   }
 ]

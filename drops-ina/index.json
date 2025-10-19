@@ -118,5 +118,35 @@
     "path": "tudo-e-teu",
     "default-tone": "Bb",
     "categories": []
+  },
+  {
+    "name": "Cristo + Tudo é Teu",
+    "path": "cristo-tudo-e-teu-3-2",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Cristo + Tudo é Teu",
+    "path": "cristo-tudo-e-teu-3",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Cristo + Tudo é Teu",
+    "path": "cristo-tudo-e-teu-2",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Cristo + Tudo é Teu",
+    "path": "cristo-tudo-e-teu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quem é Aquele (part. André Aquinno)",
+    "path": "quem-e-aquele-part-andre-aquinno",
+    "default-tone": "A",
+    "categories": []
   }
 ]

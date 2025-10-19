@@ -790,5 +790,29 @@
     "path": "vou-voar-para-ceu",
     "default-tone": "A",
     "categories": []
+  },
+  {
+    "name": "Deus Proverá (Ao Vivo)",
+    "path": "deus-provera-ao-vivo",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Eu Quem Merecia (part. Julliany Souza)",
+    "path": "eu-quem-merecia-part-julliany-souza",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Quem Merecia (part. Julliany Souza)",
+    "path": "eu-quem-merecia-part-julliany-souza-2",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Messias (part. Averly Morillo)",
+    "path": "messias-part-averly-morillo",
+    "default-tone": "F#",
+    "categories": []
   }
 ]

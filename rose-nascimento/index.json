@@ -778,5 +778,11 @@
     "path": "voce-e-deus",
     "default-tone": "Bb",
     "categories": []
+  },
+  {
+    "name": "Se Cristo Comigo Vai",
+    "path": "se-cristo-comigo-vai",
+    "default-tone": "A",
+    "categories": []
   }
 ]

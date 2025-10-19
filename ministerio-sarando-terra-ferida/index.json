@@ -1,0 +1,500 @@
+[
+  {
+    "name": "A Alegria Virá",
+    "path": "a-alegria-vira",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ainda Existe Uma Esperança",
+    "path": "ainda-existe-uma-esperanca",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Alegria Virá",
+    "path": "alegria-vira",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Aquele Que Deus Abençoa",
+    "path": "aquele-que-deus-abencoa",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Bendito É o Teu Nome",
+    "path": "bendito-e-o-teu-nome",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Caiam Por Terra",
+    "path": "caiam-por-terra",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Caíram Os Meus Inimigos",
+    "path": "cairam-os-meus-inimigos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Cântico da Vitória",
+    "path": "cantico-da-vitoria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Casa do Oleiro",
+    "path": "casa-do-oleiro-",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Casa do Oleiro",
+    "path": "casa-do-oleiro--",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Casa do Oleiro",
+    "path": "casa-do-oleiro",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Coisa de Deus",
+    "path": "coisa-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Coração Sonhador",
+    "path": "coracao-sonhador",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Dança de Miriã",
+    "path": "danca-de-miria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Deus da Família",
+    "path": "deus-da-familia",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Deus do Oculto",
+    "path": "deus-do-oculto",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Deus do Secreto",
+    "path": "deus-do-secreto",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Deus Gritará o Teu Nome",
+    "path": "deus-gritara-teu-nome",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "É Tudo Por Amor",
+    "path": "e-tudo-por-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Elevado Seja",
+    "path": "elevado-seja",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "És Meu tudo",
+    "path": "s-meu-tudo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Esperar No Senhor",
+    "path": "esperar-no-senhor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Espírito Santo",
+    "path": "espirito-santo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Estou Aberto Para o Novo",
+    "path": "estou-aberto-para-o-novo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Estou Aberto Para o Novo",
+    "path": "estou-aberto-para-o-novo-2",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Eu levarei a tua palavra",
+    "path": "eu-levarei-a-tua-palavra",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Exalar",
+    "path": "exalar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Expressão de Amor",
+    "path": "expressao-de-amor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Extravagante Sou",
+    "path": "extravagante-sou",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Ezequiel 37",
+    "path": "ezequiel-37",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Fornalha",
+    "path": "fornalha",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Incomparavel",
+    "path": "incomparavel",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Indesistível",
+    "path": "indesistivel",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Intimidade",
+    "path": "intimidade",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Lá na Cruz",
+    "path": "la-na-cruz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Leva-Me a Damasco",
+    "path": "leva-me-a-damasco",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Linda História",
+    "path": "linda-historia",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Linda História",
+    "path": "linda-historia-",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Linda História",
+    "path": "linda-historia--",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Louvor e Glória",
+    "path": "louvor-gloria",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Medley (O Novo de Deus / o Poder da Fé / Espírito Santo)",
+    "path": "medley-o-novo-de-deus-o-poder-da-fe-espirito-santo-ao-vivo-compositor-marcelo-bastos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Melodia Celestial",
+    "path": "melodia-celestial",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Meu Intercessor",
+    "path": "meu-intercessor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Milagre",
+    "path": "meu-milagre",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Minha Semente Prosperará",
+    "path": "minha-semente-prosperara",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Misericórdia",
+    "path": "misericordia",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Morrer Para Viver",
+    "path": "morrer-para-viver-",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Morrer Para Viver",
+    "path": "morrer-para-viver",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Morrer Pra Viver",
+    "path": "morrer-pra-viver",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Morrer Pra Viver",
+    "path": "morrer-pra-viver-",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Morrer Pra Viver",
+    "path": "morrer-pra-viver--",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Não Há Amor Maior",
+    "path": "nao-ha-amor-maior",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Não Há Condenação",
+    "path": "nao-ha-condenacao",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Nardo",
+    "path": "nardo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "No Teu Amor",
+    "path": "no-teu-amor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Extraordinário",
+    "path": "o-extraordinario",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "O Grande Eu Sou",
+    "path": "o-grande-eu-sou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Haja De Deus",
+    "path": "o-haja-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Melhor de Deus",
+    "path": "o-melhor-de-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Meu Amor É Teu",
+    "path": "o-meu-amor--teu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Novo de Deus",
+    "path": "o-novo-de-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Poder da Fé",
+    "path": "o-poder-da-fe",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Que o Olho Não Viu",
+    "path": "o-que-o-olho-nao-viu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ora Vem (Maranata)",
+    "path": "ora-vem-maranata",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Ora Vem (Maranata)",
+    "path": "ora-vem-maranata-",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ora Vem (Maranata)",
+    "path": "ora-vem-maranata--",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Pàssos No Deserto",
+    "path": "passos-no-deserto",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Posso Clamar",
+    "path": "posso-clamar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Prostrado Aos Teus Pés",
+    "path": "prostrado-aos-teus-pes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Resplandecente Luz",
+    "path": "resprandecente-luz",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Sara-me",
+    "path": "sara-me",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Seja Adorado",
+    "path": "seja-adorado",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ser Como Você",
+    "path": "ser-como-voce",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Só Me Resta Te Adorar",
+    "path": "so-me-resta-te-adorar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Te Quero Deus",
+    "path": "te-quero-deus",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Tempo Favorável",
+    "path": "tempo-favoravel",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tú És Fiel",
+    "path": "tu-es-fiel",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tu És o Centro",
+    "path": "tu-es-o-centro",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tua Presença",
+    "path": "tua-presenca",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Tuas Águas",
+    "path": "tuas-aguas",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Vai Filho Meu",
+    "path": "vai-filho-meu",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Vivendo o Impossivel",
+    "path": "vivendo-o-impossivel",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vou Me Banquetear",
+    "path": "vou-me-banquetear",
+    "default-tone": "E",
+    "categories": []
+  }
+]

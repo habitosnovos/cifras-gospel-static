@@ -856,5 +856,11 @@
     "path": "visitacao",
     "default-tone": "Cm",
     "categories": []
+  },
+  {
+    "name": "Santo Pra Sempre (Acústico)",
+    "path": "santo-pra-sempre-acustico",
+    "default-tone": "E",
+    "categories": []
   }
 ]

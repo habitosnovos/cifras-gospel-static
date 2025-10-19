@@ -1048,5 +1048,23 @@
     "path": "espirito-santo-inhabit",
     "default-tone": "D",
     "categories": []
+  },
+  {
+    "name": "Deus Me Ama",
+    "path": "deus-me-ama-2",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Espacio Vacio",
+    "path": "espacio-vacio",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tovah",
+    "path": "tovah",
+    "default-tone": "A",
+    "categories": []
   }
 ]

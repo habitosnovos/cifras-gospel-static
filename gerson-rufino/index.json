@@ -1336,5 +1336,35 @@
     "path": "desenho-de-deus",
     "default-tone": "B",
     "categories": []
+  },
+  {
+    "name": "É Hoje",
+    "path": "e-hoje",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Não Pare de Orar",
+    "path": "nao-pare-de-orar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Novo Tempo, Nova História",
+    "path": "novo-tempo-nova-historia",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Tapera",
+    "path": "tapera",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tem Dias",
+    "path": "tem-dias",
+    "default-tone": "F",
+    "categories": []
   }
 ]

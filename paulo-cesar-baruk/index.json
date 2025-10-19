@@ -1078,5 +1078,17 @@
     "path": "viver-em-comunhao",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Junto a Fonte",
+    "path": "junto-a-fonte",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Amor de Deus (Logo Eu) (part. Rachel Novaes)",
+    "path": "o-amor-de-deus-logo-eu-part-rachel-novaes",
+    "default-tone": "A",
+    "categories": []
   }
 ]

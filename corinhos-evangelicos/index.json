@@ -2074,5 +2074,65 @@
     "path": "agrada-te-do-senhor",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Aba Pai",
+    "path": "aba-pai",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "As Montanhas Se Moverão",
+    "path": "as-montanhas-se-moverao",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Celebrai a Cristo / Aquele Que Está Feliz (Pot-pourri)",
+    "path": "celebrai-a-cristo-aquele-que-esta-feliz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cristo, Nome Grandioso",
+    "path": "cristo-nome-grandioso",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Emanuel",
+    "path": "emanuel",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Jesus É Mais Que o Sol",
+    "path": "jesus-e-mais-que-o-sol",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "O Culto Hoje, Fé Mais Fé, Desemboca o Vaso, Jacó Segurou o Anjo.",
+    "path": "o-culto-hoje-fe-mais-fe-desemboca-o-vaso-jaco-segurou-o-anjo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Oh Quão Bom e Quão Suave É",
+    "path": "oh-quao-bom-e-quao-suave-e",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Os Que Confiam No Senhor / Celebrai Com Júbilo",
+    "path": "os-que-confiam-no-senhor-celebrai-com-jubilo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Quem Oferta Com Alegria",
+    "path": "quem-oferta-com-alegria",
+    "default-tone": "D",
+    "categories": []
   }
 ]

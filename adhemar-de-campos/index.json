@@ -730,5 +730,11 @@
     "path": "iehovah",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Eu Te Quero",
+    "path": "eu-te-quero",
+    "default-tone": "C",
+    "categories": []
   }
 ]

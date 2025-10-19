@@ -1,0 +1,296 @@
+[
+  {
+    "name": "90 Graus",
+    "path": "90-graus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Autoridade Está Nas Mãos",
+    "path": "a-autoridade-esta-nas-maos",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "A Dracma",
+    "path": "a-dracma",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "A Estrela Maior",
+    "path": "a-estrela-maior",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "A Lei do Equilíbrio",
+    "path": "a-lei-do-equilibrio",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "A Tua Fé Te Salvou",
+    "path": "a-tua-fe-te-salvou",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Aceito o Desafio",
+    "path": "aceito-o-desafio",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Adoração de Jó",
+    "path": "adoracao-de-jo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Adorai",
+    "path": "adorai",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Águas",
+    "path": "aguas",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "As Sete Cartas",
+    "path": "as-sete-cartas",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Deus do Impossível",
+    "path": "deus-do-impossivel",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deus Protege Um Escolhido",
+    "path": "deus-protege-um-escolhido",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Dias de Glória",
+    "path": "dias-de-gloria",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Dono da Festa",
+    "path": "dono-da-festa",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "É a Mão de Deus",
+    "path": "e-a-mao-de-deus",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "É Ele",
+    "path": "e-ele",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "É Hoje, É Agora",
+    "path": "e-hoje-e-agora",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Elas Não Param de Orar",
+    "path": "elas-nao-param-de-orar",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Ele é Deus",
+    "path": "ele-e-deus",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Ele Está Passando Aqui",
+    "path": "ele-esta-passando-aqui",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ele Me Viu",
+    "path": "ele-me-viu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ele Veio",
+    "path": "ele-veio",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Ele Vem",
+    "path": "ele-vem",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Espírito Santo",
+    "path": "espirito-santo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu O Verei",
+    "path": "eu-o-verei",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Eu Profetizo",
+    "path": "eu-profetizo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Fenômeno de Glória",
+    "path": "fenomeno-de-gloria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Isto É Coisa Pra Deus",
+    "path": "isso-coisa-pra-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Magnificado",
+    "path": "magnificado",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Marche Israel",
+    "path": "marche-israel",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Meu Alvo",
+    "path": "meu-alvo",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Meu Milagre",
+    "path": "meu-milagre",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Criador",
+    "path": "o-criador",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Deus Que Eu Conheço",
+    "path": "o-deus-que-eu-conheco",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "O Imutável",
+    "path": "o-imutavel",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "O Manto É Forte",
+    "path": "o-manto-e-forte",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "O Médico Errou",
+    "path": "o-medico-errou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ousadia e Fé",
+    "path": "ousadia-e-fe",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Pra Continuar",
+    "path": "pra-continuar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Quem Diria Heim?",
+    "path": "quem-diria-heim",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Reverência",
+    "path": "reverencia",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Santidade",
+    "path": "santidade",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Senhor do Tempo",
+    "path": "senhor-do-tempo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tô Na Bênção",
+    "path": "to-na-bencao",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Vai Explodir",
+    "path": "vai-explodir",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Vai Ser Só Glória",
+    "path": "vai-ser-so-gloria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Você Tem Que Entender",
+    "path": "voce-tem-que-entender",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Xodó de Deus",
+    "path": "xodo-de-deus",
+    "default-tone": "E",
+    "categories": []
+  }
+]
