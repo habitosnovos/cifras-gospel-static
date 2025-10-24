@@ -40,5 +40,11 @@
     "path": "era-deus-e-eu",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Ainda Bem",
+    "path": "ainda-bem",
+    "default-tone": "Db",
+    "categories": []
   }
 ]

@@ -742,5 +742,11 @@
     "path": "unidos-em-fe",
     "default-tone": "Eb",
     "categories": []
+  },
+  {
+    "name": "Tu És + A Boa Parte",
+    "path": "tu-es-a-boa-parte",
+    "default-tone": "D",
+    "categories": []
   }
 ]

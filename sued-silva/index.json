@@ -100,5 +100,11 @@
     "path": "yeshua-agnus-dei",
     "default-tone": "F#m",
     "categories": []
+  },
+  {
+    "name": "João Viu",
+    "path": "joao-viu",
+    "default-tone": "F",
+    "categories": []
   }
 ]

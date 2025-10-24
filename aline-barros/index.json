@@ -2086,5 +2086,17 @@
     "path": "trenzinho-chic-pom",
     "default-tone": "A",
     "categories": []
+  },
+  {
+    "name": "Como a Corça / Tu És Soberano / Louvemos Ao Senhor (Exalt The Lord Our God) / Hosanna / Motivo de Louvor (part. Abdiel Arsenio)",
+    "path": "como-a-corca-tu-es-soberano-louvemos-ao-senhor-exalt-the-lord-our-god-hosanna-motivo-de-louvor-part-abdiel-arsenio",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Espírito, Enche a Minha Vida / Ao Único",
+    "path": "espirito-enche-a-minha-vida-ao-unico",
+    "default-tone": "G",
+    "categories": []
   }
 ]

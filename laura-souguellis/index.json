@@ -244,5 +244,11 @@
     "path": "voltemos-ao-inicio-o-balsamo-de-gileade",
     "default-tone": "D",
     "categories": []
+  },
+  {
+    "name": "Vitorioso És",
+    "path": "vitorioso-es",
+    "default-tone": "A",
+    "categories": []
   }
 ]

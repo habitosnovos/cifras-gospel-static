@@ -1,0 +1,644 @@
+[
+  {
+    "name": "A Mira É de Deus",
+    "path": "a-mira-e-de-deus",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "A Saída É Jeová",
+    "path": "a-saida-e-jeova",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Ti, Os Teus e o Que Tu Tens",
+    "path": "a-ti-os-teus-e-o-que-tu-tens",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Abraça-Me",
+    "path": "abraca-me",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Abraço e Renovo",
+    "path": "abraco-e-renovo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Acontecimentos",
+    "path": "acontecimentos",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Ah, Eu Vou Falar",
+    "path": "ah-eu-vou-falar",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Ainda Estás Aqui",
+    "path": "ainda-estas-aqui",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Aumenta Minha Fé",
+    "path": "aumenta-minha-fe",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Barulho Diferente",
+    "path": "barulho-diferente",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Calmaria",
+    "path": "calmaria",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Chegou Na Casa",
+    "path": "chegou-na-casa",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Cheiro de Milagre",
+    "path": "cheiro-de-milagre",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Comum e Imperfeito (part. Anna Clara Rocha)",
+    "path": "comum-e-imperfeito-part-anna-clara-rocha",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Confiar",
+    "path": "confiar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Confia",
+    "path": "confia",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Crente Rico, Rico Pobre",
+    "path": "crente-rico-rico-pobre",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Crente Vivo",
+    "path": "crente-vivo",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Cumpridor de Promessas",
+    "path": "cumpridor-de-promessas",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "De Ti Preciso",
+    "path": "de-ti-preciso",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Dependente",
+    "path": "dependente",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Depois do Mar",
+    "path": "depois-do-mar-cancao-e-louvor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Depois do Mar",
+    "path": "depois-do-mar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Deus, o Mar e Eu",
+    "path": "deus-o-mar-e-eu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Dias Atuais",
+    "path": "dias-atuais",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "É Proibido",
+    "path": "e-proibido",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ei, Naamã",
+    "path": "ei-naama",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ele Sempre Vêm",
+    "path": "ele-sempre-vem",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "És Todo Céu Que Eu Quero",
+    "path": "es-todo-ceu-que-eu-quero",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Escolhido Dele",
+    "path": "escolhido-dele",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Esperança",
+    "path": "esperanca",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Espírito Santo",
+    "path": "espirito-santo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eu Cuido de Ti",
+    "path": "eu-cuido-de-ti",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Eu e Deus",
+    "path": "eu-e-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Escolho Deus",
+    "path": "eu-escolho-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Nunca Fui Forte",
+    "path": "eu-nunca-fui-forte",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Eu Quero Mais",
+    "path": "eu-quero-mais",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eu Quero Paz",
+    "path": "eu-quero-paz",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou Mistério",
+    "path": "eu-sou-misterio",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou Mistério ⁠/ Rei e Santo ",
+    "path": "eu-sou-misterio-rei-e-santo-medley",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Eu Subirei",
+    "path": "eu-subirei",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Tenho Um Dono",
+    "path": "eu-tenho-um-dono",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Eu Vejo Deus",
+    "path": "eu-vejo-deus",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Eu Vou Profetizar",
+    "path": "eu-vou-profetizar",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Falta Tudo",
+    "path": "falta-tudo",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Farol",
+    "path": "farol",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Filho de Jessé",
+    "path": "filho-de-jesse",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Grande É Teu Poder",
+    "path": "grande-e-teu-poder",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Grita",
+    "path": "grita",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "História de Um Leproso",
+    "path": "historia-de-um-leproso",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "João Batista",
+    "path": "joao-batista",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Jóia Rara",
+    "path": "joia-rara",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Jovens No Limite",
+    "path": "jovens-no-limite",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Leilão",
+    "path": "leilao",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Levanta e Anda",
+    "path": "levanta-e-anda",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Logo Passa",
+    "path": "logo-passa",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Mar da Vida",
+    "path": "mar-da-vida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Maravilhoso",
+    "path": "maravilhoso",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Me Rendo Aos Teus Pés",
+    "path": "me-rendo-aos-teus-pes",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Medley Calmaria",
+    "path": "medley-calmaria",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Medley – Cumpridor de Promessas / Proibido Destruir / Crente Vivo",
+    "path": "medley-cumpridor-de-promessas-proibido-destruir-crente-vivo",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Menino Guerreiro",
+    "path": "menino-guerreiro",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Meu Tempo Chegou",
+    "path": "meu-tempo-chegou",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Mora em Mim",
+    "path": "mora-em-mim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Muito Além do Céu",
+    "path": "muito-alem-do-ceu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Na Casa de Meu Pai",
+    "path": "na-casa-de-meu-pai",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Não Temerei",
+    "path": "nao-temerei",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "No Mar Desta Vida",
+    "path": "no-mar-desta-vida",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Nos Mínimos Detalhes",
+    "path": "nos-minimos-detalhes",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "O Céu Desceu",
+    "path": "o-ceu-desceu",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "O Céu Está Aberto",
+    "path": "o-ceu-esta-aberto",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "O Grande Vale",
+    "path": "o-grande-vale",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "O Menino e a Multidão",
+    "path": "o-menino-e-a-multidao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Meu Tempo Chegou",
+    "path": "o-meu-tempo-chegou",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "O Pródigo",
+    "path": "o-prodigo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Liberta Os Que Nele Se Refugiam",
+    "path": "o-senhor-liberta-os-que-nele-se-refugiam",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Oração e Resposta",
+    "path": "oracao-e-resposta",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Perto de Ti",
+    "path": "perto-de-ti",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Planos",
+    "path": "planos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Protegido e Garantido",
+    "path": "protegido-e-garantido",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Pura Adoração",
+    "path": "pura-adoracao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Quadrado",
+    "path": "quadrado",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quando Oro",
+    "path": "quando-oro",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quarteto de Fogo",
+    "path": "quarteto-de-fogo",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Quietude",
+    "path": "quietude",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Rei e Santo",
+    "path": "rei-e-santo",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Salmos 24",
+    "path": "salmos-24",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmos 91",
+    "path": "salmos-91",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Se Falou Tá Falado",
+    "path": "se-falou-ta-falado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Se For Pra Ser",
+    "path": "se-for-pra-ser",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Sem Mim",
+    "path": "sem-mim",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Ser Crente É Bom Demais",
+    "path": "ser-crente-e-bom-demais",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Sossega",
+    "path": "sossega",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Superstições e Lendas",
+    "path": "supersticoes-e-lendas",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Tadinho de Mim (part. André e Felipe)",
+    "path": "tadinho-de-mim-part-andre-e-felipe",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Taxados Como Loucos",
+    "path": "taxados-como-loucos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tele-leão",
+    "path": "tele-leao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tirado Das Águas",
+    "path": "tirado-das-aguas",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Tua Mão e Tua Face",
+    "path": "tua-mao-e-tua-face",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tua Presença",
+    "path": "tua-presenca",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Uma Parede",
+    "path": "uma-parede",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Unção Desejada",
+    "path": "uncao-desejada",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vai Dar Tempo, Vai Dar Certo, Vai Ter Festa",
+    "path": "vai-dar-tempo-vai-dar-certo-vai-ter-festa",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Vem do Senhor",
+    "path": "vem-do-senhor",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Visitando Um Amigo",
+    "path": "visitando-um-amigo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vivo",
+    "path": "vivo",
+    "default-tone": "Bbm",
+    "categories": []
+  },
+  {
+    "name": "Você É Meu",
+    "path": "voce-e-meu",
+    "default-tone": "G",
+    "categories": []
+  }
+]

@@ -994,5 +994,11 @@
     "path": "vou-glorificar",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Deus Forte",
+    "path": "deus-forte",
+    "default-tone": "C",
+    "categories": []
   }
 ]

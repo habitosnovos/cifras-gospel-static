@@ -226,5 +226,11 @@
     "path": "tua-gloria",
     "default-tone": "Am",
     "categories": []
+  },
+  {
+    "name": "Meu Mestre (part. Isabela Agustinho)",
+    "path": "meu-mestre-part-isabela-agustinho",
+    "default-tone": "E",
+    "categories": []
   }
 ]

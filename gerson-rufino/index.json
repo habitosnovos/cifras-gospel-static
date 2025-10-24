@@ -1366,5 +1366,11 @@
     "path": "tem-dias",
     "default-tone": "F",
     "categories": []
+  },
+  {
+    "name": "Incondicionalmente",
+    "path": "incondicionalmente",
+    "default-tone": "E",
+    "categories": []
   }
 ]
